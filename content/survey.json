@@ -1,0 +1,42 @@
+[
+ {
+  "no": "1",
+  "question_vi": "Anh/chị có tìm được đường đi cần tìm không?",
+  "question_en": "Did you find the way you were looking for?",
+  "type": "single",
+  "options_vi": "Có|Một phần|Không",
+  "options_en": "Yes|Partly|No"
+ },
+ {
+  "no": "2",
+  "question_vi": "Thông tin có dễ hiểu không?",
+  "question_en": "Was the information easy to understand?",
+  "type": "stars5",
+  "options_vi": "",
+  "options_en": ""
+ },
+ {
+  "no": "3",
+  "question_vi": "Thông tin về cửa lên tàu / băng chuyền có đúng không?",
+  "question_en": "Was the gate / belt information correct?",
+  "type": "single",
+  "options_vi": "Đúng|Sai|Không dùng",
+  "options_en": "Correct|Wrong|Did not use"
+ },
+ {
+  "no": "4",
+  "question_vi": "Anh/chị có giới thiệu công cụ này cho người khác không?",
+  "question_en": "Would you recommend this tool?",
+  "type": "nps",
+  "options_vi": "",
+  "options_en": ""
+ },
+ {
+  "no": "5",
+  "question_vi": "Điều gì cần cải thiện?",
+  "question_en": "What should be improved?",
+  "type": "multi",
+  "options_vi": "Bản đồ|Ảnh|Ngôn ngữ|Tốc độ|Thông tin chuyến bay|Khác",
+  "options_en": "Map|Photos|Language|Speed|Flight info|Other"
+ }
+]

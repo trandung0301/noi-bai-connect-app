@@ -1,0 +1,572 @@
+[
+ {
+  "key": "app.title",
+  "vi": "Nội Bài Connect",
+  "en": "Nội Bài Connect"
+ },
+ {
+  "key": "home.current_location",
+  "vi": "Vị trí hiện tại của anh/chị",
+  "en": "Your current location"
+ },
+ {
+  "key": "home.from_qr",
+  "vi": "Xác định theo mã QR anh/chị vừa quét",
+  "en": "Based on the QR code you scanned"
+ },
+ {
+  "key": "home.wrong_location",
+  "vi": "Không đúng? Chọn lại",
+  "en": "Not right? Change"
+ },
+ {
+  "key": "home.next_flight",
+  "vi": "Chuyến bay kế tiếp của anh/chị",
+  "en": "Your next flight"
+ },
+ {
+  "key": "home.where_to",
+  "vi": "Anh/chị cần đi đâu?",
+  "en": "Where do you need to go?"
+ },
+ {
+  "key": "home.dest.gate",
+  "vi": "Cửa lên tàu",
+  "en": "Boarding gate"
+ },
+ {
+  "key": "home.dest.belt",
+  "vi": "Băng chuyền hành lý",
+  "en": "Baggage reclaim"
+ },
+ {
+  "key": "home.dest.immigration",
+  "vi": "Xuất / nhập cảnh",
+  "en": "Immigration"
+ },
+ {
+  "key": "home.dest.lounge",
+  "vi": "Phòng chờ Thương gia",
+  "en": "Business lounge"
+ },
+ {
+  "key": "route.closes_in",
+  "vi": "Đóng cửa lên tàu sau",
+  "en": "Gate closes in"
+ },
+ {
+  "key": "route.walk_time",
+  "vi": "Thời gian đi bộ",
+  "en": "Walking time"
+ },
+ {
+  "key": "route.arrived",
+  "vi": "Tôi đã đến nơi",
+  "en": "I have arrived"
+ },
+ {
+  "key": "flight.gate",
+  "vi": "Cửa",
+  "en": "Gate"
+ },
+ {
+  "key": "flight.boarding",
+  "vi": "Lên tàu",
+  "en": "Boarding"
+ },
+ {
+  "key": "flight.closes",
+  "vi": "Đóng cửa",
+  "en": "Closes"
+ },
+ {
+  "key": "flight.belt",
+  "vi": "Băng chuyền hành lý",
+  "en": "Baggage belt"
+ },
+ {
+  "key": "common.fids_note",
+  "vi": "Thông tin tham khảo. Vui lòng xem màn hình FIDS.",
+  "en": "For reference only. Please check the FIDS screens."
+ },
+ {
+  "key": "feedback.title",
+  "vi": "Góp ý 30 giây",
+  "en": "30-second feedback"
+ },
+ {
+  "key": "feedback.submit",
+  "vi": "Gửi góp ý",
+  "en": "Send feedback"
+ },
+ {
+  "key": "common.back",
+  "vi": "Quay lại",
+  "en": "Back"
+ },
+ {
+  "key": "common.feedback",
+  "vi": "Góp ý",
+  "en": "Feedback"
+ },
+ {
+  "key": "common.floor",
+  "vi": "tầng",
+  "en": "level"
+ },
+ {
+  "key": "common.minutes",
+  "vi": "phút",
+  "en": "min"
+ },
+ {
+  "key": "home.lookup",
+  "vi": "Xem",
+  "en": "Look up"
+ },
+ {
+  "key": "home.lookup_hint",
+  "vi": "Hiển thị cửa lên tàu, giờ đóng cửa và đường đi tới cửa.",
+  "en": "Shows gate, closing time and the way to the gate."
+ },
+ {
+  "key": "home.dest.gate_sub",
+  "vi": "Nối chuyến đi tiếp",
+  "en": "Connecting onward"
+ },
+ {
+  "key": "home.dest.belt_sub",
+  "vi": "Lấy lại hành lý ký gửi",
+  "en": "Collect checked bags"
+ },
+ {
+  "key": "home.dest.immigration_sub",
+  "vi": "Hải quan, thị thực",
+  "en": "Customs, visa"
+ },
+ {
+  "key": "home.dest.lounge_sub",
+  "vi": "Lotus Lounge",
+  "en": "Lotus Lounge"
+ },
+ {
+  "key": "home.mct_title",
+  "vi": "Thời gian nối chuyến tối thiểu",
+  "en": "Minimum connection time"
+ },
+ {
+  "key": "home.mct_sub",
+  "vi": "và quy định hành lý nối chuyến",
+  "en": "and transfer baggage rules"
+ },
+ {
+  "key": "route.title",
+  "vi": "Đường đi",
+  "en": "Route"
+ },
+ {
+  "key": "route.steps",
+  "vi": "bước",
+  "en": "steps"
+ },
+ {
+  "key": "route.closed",
+  "vi": "ĐÃ ĐÓNG CỬA",
+  "en": "GATE CLOSED"
+ },
+ {
+  "key": "route.none",
+  "vi": "Chưa có hướng dẫn cho tuyến này. Vui lòng hỏi nhân viên Vietnam Airlines.",
+  "en": "No guidance for this route yet. Please ask Vietnam Airlines staff."
+ },
+ {
+  "key": "route.help",
+  "vi": "Cần hỗ trợ? Hỏi nhân viên Vietnam Airlines tại bất kỳ quầy nào.",
+  "en": "Need help? Ask Vietnam Airlines staff at any counter."
+ },
+ {
+  "key": "flight.title",
+  "vi": "Chuyến bay của tôi",
+  "en": "My flight"
+ },
+ {
+  "key": "flight.dep_input",
+  "vi": "Chuyến bay đi tiếp",
+  "en": "Departing flight"
+ },
+ {
+  "key": "flight.arr_input",
+  "vi": "Chuyến bay vừa đến (không bắt buộc)",
+  "en": "Arriving flight (optional)"
+ },
+ {
+  "key": "flight.not_found",
+  "vi": "Không tìm thấy chuyến bay. Kiểm tra lại số hiệu hoặc xem màn hình FIDS.",
+  "en": "Flight not found. Check the number or see the FIDS screens."
+ },
+ {
+  "key": "flight.departure",
+  "vi": "Chuyến đi tiếp",
+  "en": "Departure"
+ },
+ {
+  "key": "flight.arrival",
+  "vi": "Chuyến vừa đến",
+  "en": "Arrival"
+ },
+ {
+  "key": "flight.std",
+  "vi": "Khởi hành",
+  "en": "Departs"
+ },
+ {
+  "key": "flight.domestic",
+  "vi": "Nội địa",
+  "en": "Domestic"
+ },
+ {
+  "key": "flight.international",
+  "vi": "Quốc tế",
+  "en": "International"
+ },
+ {
+  "key": "flight.closes_in",
+  "vi": "Còn",
+  "en": "Gate closes in"
+ },
+ {
+  "key": "flight.to_close",
+  "vi": "đến giờ đóng cửa",
+  "en": ""
+ },
+ {
+  "key": "flight.updated",
+  "vi": "cập nhật",
+  "en": "updated"
+ },
+ {
+  "key": "flight.stale",
+  "vi": "Dữ liệu chưa cập nhật. Vui lòng xem màn hình FIDS.",
+  "en": "Data not refreshed. Please check the FIDS screens."
+ },
+ {
+  "key": "flight.directions_gate",
+  "vi": "Chỉ đường đến cửa",
+  "en": "Directions to gate"
+ },
+ {
+  "key": "flight.directions_belt",
+  "vi": "Chỉ đường đến băng chuyền",
+  "en": "Directions to baggage belt"
+ },
+ {
+  "key": "flight.belt_no",
+  "vi": "Số",
+  "en": "No."
+ },
+ {
+  "key": "flight.id_note",
+  "vi": "Nối chuyến quốc tế → nội địa: anh/chị cần nhập cảnh, lấy hành lý và làm thủ tục lại tại T1.",
+  "en": "International → domestic: clear immigration, collect bags and check in again at T1."
+ },
+ {
+  "key": "flight.ii_note",
+  "vi": "Nối chuyến quốc tế → quốc tế: không cần nhập cảnh; hành lý ký gửi thường chuyển thẳng, xác nhận tại quầy nối chuyến.",
+  "en": "International → international: no immigration; checked bags are usually transferred, confirm at the transfer counter."
+ },
+ {
+  "key": "rules.title",
+  "vi": "Thủ tục & quy định",
+  "en": "Procedures & rules"
+ },
+ {
+  "key": "rules.mct_title",
+  "vi": "Thời gian nối chuyến tối thiểu (MCT) tại Nội Bài",
+  "en": "Minimum connection time (MCT) at Noi Bai"
+ },
+ {
+  "key": "rules.mct_sub",
+  "vi": "Tính từ giờ hạ cánh dự kiến của chuyến đến tới giờ khởi hành của chuyến đi.",
+  "en": "From estimated arrival of the inbound flight to departure of the outbound flight."
+ },
+ {
+  "key": "rules.source",
+  "vi": "Căn cứ",
+  "en": "Source"
+ },
+ {
+  "key": "rules.effective",
+  "vi": "hiệu lực",
+  "en": "effective"
+ },
+ {
+  "key": "rules.none",
+  "vi": "Nội dung đang được cập nhật.",
+  "en": "Content is being updated."
+ },
+ {
+  "key": "feedback.sub",
+  "vi": "Ẩn danh · giúp cải thiện hướng dẫn cho khách sau",
+  "en": "Anonymous · helps us improve for the next passenger"
+ },
+ {
+  "key": "feedback.thanks",
+  "vi": "Cảm ơn anh/chị! Góp ý đã được ghi nhận.",
+  "en": "Thank you! Your feedback has been recorded."
+ },
+ {
+  "key": "feedback.nps_low",
+  "vi": "Không bao giờ",
+  "en": "Not at all"
+ },
+ {
+  "key": "feedback.nps_high",
+  "vi": "Chắc chắn",
+  "en": "Definitely"
+ },
+ {
+  "key": "feedback.other",
+  "vi": "Ý kiến khác",
+  "en": "Other comments"
+ },
+ {
+  "key": "feedback.other_ph",
+  "vi": "Nhập ý kiến của anh/chị…",
+  "en": "Type your comment…"
+ },
+ {
+  "key": "feedback.privacy",
+  "vi": "Không thu thập thông tin cá nhân.",
+  "en": "No personal data is collected."
+ },
+ {
+  "key": "home.transit_title",
+  "vi": "Hướng dẫn nối chuyến",
+  "en": "Transit guides"
+ },
+ {
+  "key": "home.transit.ii",
+  "vi": "Quốc tế → Quốc tế",
+  "en": "International → International"
+ },
+ {
+  "key": "home.transit.id",
+  "vi": "Quốc tế → Nội địa",
+  "en": "International → Domestic"
+ },
+ {
+  "key": "home.transit.di",
+  "vi": "Nội địa → Quốc tế",
+  "en": "Domestic → International"
+ },
+ {
+  "key": "home.transit.dd",
+  "vi": "Nội địa → Nội địa",
+  "en": "Domestic → Domestic"
+ },
+ {
+  "key": "home.guides_title",
+  "vi": "Hướng dẫn thủ tục",
+  "en": "Procedures"
+ },
+ {
+  "key": "guides.title",
+  "vi": "Hướng dẫn thủ tục",
+  "en": "Procedures"
+ },
+ {
+  "key": "guides.applies",
+  "vi": "Áp dụng tại",
+  "en": "Applies at"
+ },
+ {
+  "key": "map.title",
+  "vi": "Sơ đồ nhà ga T2 – tầng đi",
+  "en": "Terminal T2 map – departures level"
+ },
+ {
+  "key": "map.you",
+  "vi": "Bạn ở đây",
+  "en": "You are here"
+ },
+ {
+  "key": "map.dest",
+  "vi": "Điểm đến",
+  "en": "Destination"
+ },
+ {
+  "key": "map.zoom",
+  "vi": "Phóng to",
+  "en": "Zoom"
+ },
+ {
+  "key": "map.shrink",
+  "vi": "Thu nhỏ",
+  "en": "Shrink"
+ },
+ {
+  "key": "map.na",
+  "vi": "Sơ đồ tầng này đang hoàn thiện",
+  "en": "Map for this level coming soon"
+ },
+ {
+  "key": "flight.date",
+  "vi": "Ngày bay",
+  "en": "Date"
+ },
+ {
+  "key": "flight.sched",
+  "vi": "Kế hoạch",
+  "en": "Scheduled"
+ },
+ {
+  "key": "flight.est",
+  "vi": "Dự kiến",
+  "en": "Estimated"
+ },
+ {
+  "key": "flight.counters",
+  "vi": "Quầy thủ tục",
+  "en": "Check-in"
+ },
+ {
+  "key": "flight.try",
+  "vi": "Chạy thử với dữ liệu giả – thử các số hiệu:",
+  "en": "Demo data – try these flight numbers:"
+ },
+ {
+  "key": "route.guide_full",
+  "vi": "Toàn bộ quy trình",
+  "en": "Full procedure"
+ },
+ {
+  "key": "guides.kiosk",
+  "vi": "Kiosk check-in",
+  "en": "Kiosk check-in"
+ },
+ {
+  "key": "guides.dropbag",
+  "vi": "Gửi hành lý (drop bag)",
+  "en": "Bag drop"
+ },
+ {
+  "key": "home.question",
+  "vi": "Anh/chị cần làm gì?",
+  "en": "What do you need to do?"
+ },
+ {
+  "key": "home.other",
+  "vi": "Thông tin khác",
+  "en": "More"
+ },
+ {
+  "key": "home.flight_opt",
+  "vi": "Tra cứu chuyến bay",
+  "en": "Look up a flight"
+ },
+ {
+  "key": "route.flight_prompt",
+  "vi": "Nhập số hiệu chuyến bay đi tiếp để hiện cửa ra tàu bay và giờ đóng cửa. Chưa có số hiệu, quý khách vui lòng xem bảng thông tin chuyến bay (FIDS) tại nhà ga.",
+  "en": "Enter your onward flight number to see the gate and the gate closing time. If you do not have it, please check the flight information screens (FIDS) in the terminal."
+ },
+ {
+  "key": "route.flight_btn",
+  "vi": "Hiện cửa",
+  "en": "Show gate"
+ },
+ {
+  "key": "route.start",
+  "vi": "Bắt đầu",
+  "en": "Start"
+ },
+ {
+  "key": "route.arr_prompt",
+  "vi": "Nhập số hiệu chuyến bay đến để xem băng chuyền và đường đi trên sơ đồ.",
+  "en": "Enter your arriving flight number to see your belt and the way on the map."
+ },
+ {
+  "key": "route.arr_btn",
+  "vi": "Hiện băng chuyền",
+  "en": "Show belt"
+ },
+ {
+  "key": "route.arr_none",
+  "vi": "Không tìm thấy chuyến bay này. Vui lòng xem màn hình thông tin tại sảnh đến.",
+  "en": "Flight not found. Please check the information screens in the arrivals hall."
+ },
+ {
+  "key": "route.arr_other",
+  "vi": "Chuyến bay này không đến nhà ga của hướng dẫn này. Vui lòng kiểm tra lại số hiệu.",
+  "en": "This flight does not arrive at this terminal. Please check the flight number."
+ },
+ {
+  "key": "route.arr_change",
+  "vi": "Đổi chuyến bay",
+  "en": "Change flight"
+ },
+ {
+  "key": "route.belt",
+  "vi": "Băng chuyền hành lý",
+  "en": "Baggage belt"
+ },
+ {
+  "key": "route.belt_no",
+  "vi": "Số",
+  "en": "No."
+ },
+ {
+  "key": "map.tap_hint",
+  "vi": "Bấm vào số trên sơ đồ để xem ảnh và hướng dẫn tại vị trí đó",
+  "en": "Tap a number on the map to see the photo and guidance there"
+ },
+ {
+  "key": "map.close",
+  "vi": "Đóng",
+  "en": "Close"
+ },
+ {
+  "key": "map.zoom_photo",
+  "vi": "Bấm vào ảnh để xem rõ hơn",
+  "en": "Tap the photo to see it larger"
+ },
+ {
+  "key": "map.pan_photo",
+  "vi": "Kéo ngang để xem hết ảnh",
+  "en": "Drag sideways to see the whole photo"
+ },
+ {
+  "key": "map.photo_pending",
+  "vi": "Ảnh sẽ được cập nhật",
+  "en": "Photo coming soon"
+ },
+ {
+  "key": "map.full",
+  "vi": "Xem toàn sơ đồ",
+  "en": "Full map"
+ },
+ {
+  "key": "map.focus",
+  "vi": "Phóng to đường đi",
+  "en": "Zoom to route"
+ },
+ {
+  "key": "route.belt_pending",
+  "vi": "Chưa có số băng chuyền cho chuyến bay này. Vui lòng xem màn hình thông tin tại sảnh đến.",
+  "en": "No belt assigned to this flight yet. Please check the information screens in the arrivals hall."
+ },
+ {
+  "key": "home.terminal",
+  "vi": "Nhà ga",
+  "en": "Terminal"
+ },
+ {
+  "key": "home.terminal_T1",
+  "vi": "Nội địa",
+  "en": "Domestic"
+ },
+ {
+  "key": "home.terminal_T2",
+  "vi": "Quốc tế",
+  "en": "International"
+ }
+]

@@ -1,0 +1,222 @@
+[
+ {
+  "group": "mct",
+  "key": "intl-intl",
+  "title_vi": "Quốc tế → Quốc tế",
+  "title_en": "International → International",
+  "body_vi": "60 phút",
+  "body_en": "60 minutes",
+  "source": "Anh Dũng điền 08/11/2026 – cần đối chiếu PHM",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "mct",
+  "key": "intl-dom",
+  "title_vi": "Quốc tế → Nội địa",
+  "title_en": "International → Domestic",
+  "body_vi": "120 phút",
+  "body_en": "120 minutes",
+  "source": "Anh Dũng điền 08/11/2026 – cần đối chiếu PHM",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "mct",
+  "key": "dom-intl",
+  "title_vi": "Nội địa → Quốc tế",
+  "title_en": "Domestic → International",
+  "body_vi": "90 phút",
+  "body_en": "90 minutes",
+  "source": "Anh Dũng điền 08/11/2026 – cần đối chiếu PHM",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "mct",
+  "key": "dom-dom",
+  "title_vi": "Nội địa → Nội địa",
+  "title_en": "Domestic → Domestic",
+  "body_vi": "60 phút",
+  "body_en": "60 minutes",
+  "source": "Anh Dũng điền 08/11/2026 – cần đối chiếu PHM",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "gate",
+  "key": "close-before-std",
+  "title_vi": "Giờ đóng cửa lên tàu",
+  "title_en": "Gate closing time",
+  "body_vi": "Cửa khởi hành đóng trước 15 phút so với giờ khởi hành dự kiến.",
+  "body_en": "The boarding gate closes 15 minutes before scheduled departure.",
+  "source": "II.html (bản cũ) – cần đối chiếu PHM",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "baggage",
+  "key": "through-checked",
+  "title_vi": "Hành lý ký gửi khi nối chuyến",
+  "title_en": "Checked baggage on connections",
+  "body_vi": "Hành lý ký gửi thông thường sẽ tự động chuyển thẳng đến đích cuối cùng. Quý khách vui lòng xác nhận lại trạng thái thẻ hành lý với nhân viên tại quầy.",
+  "body_en": "Checked baggage is usually transferred automatically to the final destination. Please confirm the baggage tag status with the staff at the counter.",
+  "source": "II.html (bản cũ)",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "transfer",
+  "key": "when-to-visit-desk",
+  "title_vi": "Khi nào cần đến quầy nối chuyến",
+  "title_en": "When to visit the transfer counter",
+  "body_vi": "Đa số hành khách đã được làm thủ tục (check-in) thẳng tới điểm đến cuối cùng. Tuy nhiên, quý khách vui lòng liên hệ Quầy Nối chuyến (Transfer Counter) để được nhân viên hỗ trợ nếu thuộc các trường hợp sau: Chưa được cấp thẻ lên máy bay (boarding pass) cho chặng bay tiếp theo. | Cần kiểm tra và xác nhận lại tình trạng hành lý ký gửi. | Cần xác minh tính hợp lệ của thị thực (visa) và giấy tờ nhập cảnh tại điểm đến cuối cùng. | Các thông tin cập nhật khác,...",
+  "body_en": "Most passengers have already been checked through to their final destination. However, please contact the Transfer Counter for assistance if you fall into one of the following cases: You have not been issued a boarding pass for the next flight segment. | You need to check and reconfirm the status of your checked baggage. | You need to verify the validity of your visa and entry documents for the final destination. | Other updated travel information, etc.",
+  "source": "II.html (bản cũ)",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "shuttle",
+  "key": "t1-t2",
+  "title_vi": "Xe buýt nối T1 – T2",
+  "title_en": "T1 – T2 shuttle bus",
+  "body_vi": "Di chuyển ra ngoài nhà ga, rẽ phải, xe shuttle bus ở làn 2 (Ảnh xe shuttle bus). Xe chạy từ 5h00 đến 1h30+ | Trung bình 15-20 phút/chuyến. | Xe miễn phí",
+  "body_en": "Exit the terminal, turn right; the shuttle bus is at lane 2 (Photo of shuttle bus). Operates from 5:00 AM to 1:30+ AM. | Average frequency: every 15-20 minutes. | Free of charge.",
+  "source": "DI.html (bản cũ)",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "immigration",
+  "key": "transit-24h",
+  "title_vi": "Quá cảnh không rời khu cách ly",
+  "title_en": "Transit without leaving the sterile area",
+  "body_vi": "Trong vòng 24 giờ không cần thị thực. [cần đối chiếu quy định hiện hành]",
+  "body_en": "No visa needed within 24 hours. [verify against current regulation]",
+  "source": "",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "immigration",
+  "key": "documents",
+  "title_vi": "Giấy tờ cần chuẩn bị",
+  "title_en": "Documents to prepare",
+  "body_vi": "Quý khách xếp hàng đi qua khu vực kiểm soát giấy tờ nối chuyến độc lập của Công an cửa khẩu nằm liền kề ngay bên cạnh quầy chuyển tiếp hành trình. Chuẩn bị sẵn hộ chiếu gốc và thẻ lên máy bay hợp lệ.",
+  "body_en": "Queue at the dedicated transit document checkpoint operated by the immigration authority, located right next to the transfer counter. Please have your original passport and valid boarding pass ready.",
+  "source": "II.html (bản cũ)",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "authority",
+  "key": "entry-requirements",
+  "title_vi": "Quy định của nhà chức trách – xuất nhập cảnh",
+  "title_en": "Authority regulations – immigration",
+  "body_vi": "[Giấy tờ bắt buộc, tờ khai điện tử, quá cảnh không visa…]",
+  "body_en": "[Required documents, e-declaration, visa-free transit…]",
+  "source": "[Cục QLXNC / Nghị định …]",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "authority",
+  "key": "aviation-security",
+  "title_vi": "Quy định của nhà chức trách – an ninh hàng không",
+  "title_en": "Authority regulations – aviation security",
+  "body_vi": "[Vật phẩm cấm, giấy tờ tuỳ thân khi lên tàu…]",
+  "body_en": "[Prohibited items, ID at boarding…]",
+  "source": "[Cục HKVN – Thông tư …]",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "cabin-baggage",
+  "key": "allowance",
+  "title_vi": "Hành lý xách tay – số kiện và trọng lượng",
+  "title_en": "Cabin baggage – pieces and weight",
+  "body_vi": "[Theo hạng vé: … kiện, … kg, kích thước … cm]",
+  "body_en": "[By cabin class: … pieces, … kg, … cm]",
+  "source": "[PHM / Điều lệ vận chuyển]",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "cabin-baggage",
+  "key": "restricted-items",
+  "title_vi": "Hành lý xách tay – vật phẩm hạn chế",
+  "title_en": "Cabin baggage – restricted items",
+  "body_vi": "[Chất lỏng ≤ 100 ml trong túi 1 lít; vật sắc nhọn; …]",
+  "body_en": "[Liquids ≤ 100 ml in 1 L bag; sharp objects; …]",
+  "source": "",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "security",
+  "key": "screening-steps",
+  "title_vi": "Soi chiếu an ninh – cần làm gì",
+  "title_en": "Security screening – what to do",
+  "body_vi": "[Bỏ thiết bị điện tử, chất lỏng ra khay; tháo áo khoác, thắt lưng…]",
+  "body_en": "[Electronics and liquids in tray; remove jacket, belt…]",
+  "source": "",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "security",
+  "key": "transfer-screening",
+  "title_vi": "Soi chiếu an ninh – khách nối chuyến",
+  "title_en": "Security screening – transfer passengers",
+  "body_vi": "[Hàng miễn thuế mua tại sân bay trước: túi STEB niêm phong…]",
+  "body_en": "[Duty-free from previous airport: sealed STEB…]",
+  "source": "",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "customs",
+  "key": "declaration",
+  "title_vi": "Hải quan – khai báo",
+  "title_en": "Customs – declaration",
+  "body_vi": "[Ngưỡng tiền mặt … ; hàng hoá phải khai; luồng xanh / đỏ]",
+  "body_en": "[Cash threshold …; goods to declare; green / red channel]",
+  "source": "[Tổng cục Hải quan – …]",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "customs",
+  "key": "prohibited",
+  "title_vi": "Hải quan – hàng cấm và hạn chế",
+  "title_en": "Customs – prohibited and restricted goods",
+  "body_vi": "[…]",
+  "body_en": "[…]",
+  "source": "",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "lithium",
+  "key": "power-bank",
+  "title_vi": "Pin lithium – pin dự phòng / sạc dự phòng",
+  "title_en": "Lithium batteries – power banks",
+  "body_vi": "[Chỉ xách tay, không ký gửi; ≤ 100 Wh tự do; > không chấp nhận trong hành lý ký gửi và hành lý xách tay]",
+  "body_en": "[Carry-on only; ≤ 100 Wh allowed; 100–160 Wh max 2 with approval; > 160 Wh prohibited]",
+  "source": "[PHM / IATA DGR – cần đối chiếu]",
+  "effective_from": "",
+  "approved_by": ""
+ },
+ {
+  "group": "lithium",
+  "key": "devices",
+  "title_vi": "Pin lithium – thiết bị điện tử, xe điện cá nhân",
+  "title_en": "Lithium batteries – devices, personal mobility",
+  "body_vi": "[Thiết bị tắt nguồn khi ký gửi; ván trượt / xe điện…]",
+  "body_en": "[Devices off when checked; e-scooters…]",
+  "source": "",
+  "effective_from": "",
+  "approved_by": ""
+ }
+]

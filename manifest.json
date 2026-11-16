@@ -1,0 +1,14 @@
+{
+  "name": "Nội Bài Connect – Vietnam Airlines",
+  "short_name": "Nội Bài Connect",
+  "description": "Hướng dẫn di chuyển và nối chuyến tại sân bay Nội Bài",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F3F4F6",
+  "theme_color": "#166987",
+  "lang": "vi",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

@@ -1,0 +1,10 @@
+Mo Git Bash / PowerShell trong thu muc nay (D:\Smartway\noi-bai-connect-app) roi chay:
+
+git init -b main
+git add -A
+git commit -m "Noi Bai Connect - ban chay thu"
+git remote add origin https://github.com/trandung0301/noi-bai-connect-app.git
+git push -u origin main
+
+Sau do tren GitHub: Settings > Pages > Source: Deploy from a branch > Branch: main, thu muc / (root) > Save.
+Dia chi sau 1-2 phut: https://trandung0301.github.io/noi-bai-connect-app/

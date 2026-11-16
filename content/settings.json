@@ -1,0 +1,37 @@
+[
+ {
+  "key": "gate_close_before_departure",
+  "value": "15",
+  "unit": "phút",
+  "desc_vi": "Cửa lên tàu đóng trước giờ khởi hành",
+  "source": "II.html (bản cũ) – cần đối chiếu PHM"
+ },
+ {
+  "key": "boarding_before_departure",
+  "value": "[__]",
+  "unit": "phút",
+  "desc_vi": "Bắt đầu lên tàu trước giờ khởi hành",
+  "source": ""
+ },
+ {
+  "key": "flight_data_max_age",
+  "value": "60",
+  "unit": "giây",
+  "desc_vi": "Dữ liệu chuyến bay cũ hơn mức này thì hiện \"xem màn hình FIDS\"",
+  "source": ""
+ },
+ {
+  "key": "shuttle_hours",
+  "value": "05:00-01:30",
+  "unit": "",
+  "desc_vi": "Giờ chạy xe buýt nối T1–T2",
+  "source": "DI.html (bản cũ)"
+ },
+ {
+  "key": "shuttle_interval",
+  "value": "15-20",
+  "unit": "phút",
+  "desc_vi": "Tần suất xe buýt nối",
+  "source": "DI.html (bản cũ)"
+ }
+]

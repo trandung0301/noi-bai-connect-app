@@ -1,0 +1,123 @@
+[
+ {
+  "code": "pt1-ii",
+  "terminal": "T2",
+  "order": "1",
+  "label_vi": "Nối chuyến Quốc tế – Quốc tế",
+  "label_en": "International → International transit",
+  "sub_vi": "Không nhập cảnh, đi thẳng khu nối chuyến",
+  "sub_en": "No immigration, straight to transfer",
+  "route_code": "ii-arrival__gate",
+  "icon": "plane"
+ },
+ {
+  "code": "pt2-id",
+  "terminal": "T2",
+  "order": "2",
+  "label_vi": "Nối chuyến Quốc tế – Nội địa",
+  "label_en": "International → Domestic transit",
+  "sub_vi": "Nhập cảnh, lấy hành lý, sang T1",
+  "sub_en": "Immigration, bags, shuttle to T1",
+  "route_code": "id-arrival__t1",
+  "icon": "plane"
+ },
+ {
+  "code": "pt5-den-qt",
+  "terminal": "T2",
+  "order": "3",
+  "label_vi": "Đến quốc tế",
+  "label_en": "International arrival",
+  "sub_vi": "Nhập cảnh, nhận hành lý, ra sảnh đến",
+  "sub_en": "Immigration, baggage, exit",
+  "route_code": "t2-arrival__exit",
+  "icon": "bag"
+ },
+ {
+  "code": "pt6-di-qt",
+  "terminal": "T2",
+  "order": "4",
+  "label_vi": "Đi quốc tế",
+  "label_en": "International departure",
+  "sub_vi": "Làm thủ tục, xuất cảnh, an ninh, ra cửa",
+  "sub_en": "Check-in, emigration, security, gate",
+  "route_code": "t2-departure__gate",
+  "icon": "gate"
+ },
+ {
+  "code": "t2-gate",
+  "terminal": "T2",
+  "order": "5",
+  "label_vi": "Đi đến cửa lên tàu (đã qua an ninh)",
+  "label_en": "To my gate (past security)",
+  "sub_vi": "Tìm cửa trong phòng chờ",
+  "sub_en": "Find the gate airside",
+  "route_code": "t2-security__gate",
+  "icon": "gate"
+ },
+ {
+  "code": "t2-lounge",
+  "terminal": "T2",
+  "order": "6",
+  "label_vi": "Đi phòng chờ Thương gia",
+  "label_en": "Business lounge",
+  "sub_vi": "Lotus Lounge, tầng 3",
+  "sub_en": "Lotus Lounge, level 3",
+  "route_code": "t2-security__lounge",
+  "icon": "lounge"
+ },
+ {
+  "code": "pt3-di",
+  "terminal": "T1",
+  "order": "1",
+  "label_vi": "Nối chuyến Nội địa – Quốc tế",
+  "label_en": "Domestic → International transit",
+  "sub_vi": "Sang T2 bằng xe buýt, làm thủ tục quốc tế",
+  "sub_en": "Shuttle to T2, international check-in",
+  "route_code": "di-t1__t2-gate",
+  "icon": "plane"
+ },
+ {
+  "code": "pt4-dd",
+  "terminal": "T1",
+  "order": "2",
+  "label_vi": "Nối chuyến Nội địa – Nội địa",
+  "label_en": "Domestic → Domestic transit",
+  "sub_vi": "Ở lại T1, qua an ninh",
+  "sub_en": "Stay in T1, through security",
+  "route_code": "dd-t1-arrival__t1-gate",
+  "icon": "plane"
+ },
+ {
+  "code": "pt7-den-nd",
+  "terminal": "T1",
+  "order": "3",
+  "label_vi": "Đến nội địa",
+  "label_en": "Domestic arrival",
+  "sub_vi": "Nhận hành lý, ra sảnh đến",
+  "sub_en": "Baggage, exit",
+  "route_code": "t1-arrival__exit",
+  "icon": "bag"
+ },
+ {
+  "code": "pt8-di-nd",
+  "terminal": "T1",
+  "order": "4",
+  "label_vi": "Đi nội địa",
+  "label_en": "Domestic departure",
+  "sub_vi": "Làm thủ tục, an ninh, ra cửa",
+  "sub_en": "Check-in, security, gate",
+  "route_code": "t1-departure__gate",
+  "icon": "gate"
+ },
+ {
+  "code": "t1-gate",
+  "terminal": "T1",
+  "order": "5",
+  "label_vi": "Đi đến cửa lên tàu (đã qua an ninh)",
+  "label_en": "To my gate (past security)",
+  "sub_vi": "Tìm cửa trong khu khởi hành",
+  "sub_en": "Find the gate airside",
+  "route_code": "t1-security__gate",
+  "icon": "gate"
+ }
+]
