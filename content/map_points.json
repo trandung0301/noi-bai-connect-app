@@ -15,7 +15,8 @@
   "show_if": "",
   "step_no": "1",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -33,7 +34,8 @@
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -51,7 +53,8 @@
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -69,7 +72,8 @@
   "show_if": "",
   "step_no": "3",
   "travel": "bus",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -87,7 +91,8 @@
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -105,7 +110,8 @@
   "show_if": "",
   "step_no": "",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -123,7 +129,8 @@
   "show_if": "gate",
   "step_no": "4",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t1-arrival__exit",
@@ -141,7 +148,8 @@
   "show_if": "",
   "step_no": "1",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t1-arrival__exit",
@@ -159,7 +167,8 @@
   "show_if": "",
   "step_no": "1",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t1-arrival__exit",
@@ -177,7 +186,8 @@
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t1-arrival__exit",
@@ -195,7 +205,8 @@
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t1-arrival__exit",
@@ -213,7 +224,8 @@
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t1-arrival__exit",
@@ -231,7 +243,8 @@
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t1-arrival__exit",
@@ -249,7 +262,8 @@
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t1-arrival__exit",
@@ -267,7 +281,8 @@
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t1-arrival__exit",
@@ -285,7 +300,8 @@
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t1-arrival__exit",
@@ -303,7 +319,8 @@
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "ii-arrival__gate",
@@ -321,7 +338,8 @@
   "show_if": "",
   "step_no": "1",
   "travel": "",
-  "mau": "vang"
+  "mau": "vang",
+  "cua": ""
  },
  {
   "route_code": "ii-arrival__gate",
@@ -339,7 +357,8 @@
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": "vang"
+  "mau": "vang",
+  "cua": ""
  },
  {
   "route_code": "ii-arrival__gate",
@@ -357,7 +376,8 @@
   "show_if": "",
   "step_no": "",
   "travel": "",
-  "mau": "vang"
+  "mau": "vang",
+  "cua": ""
  },
  {
   "route_code": "ii-arrival__gate",
@@ -375,7 +395,8 @@
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "ii-arrival__gate",
@@ -393,7 +414,8 @@
   "show_if": "gate",
   "step_no": "4",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -404,14 +426,15 @@
   "label_en": "Arrival corridor",
   "desc_vi": "Đi theo biển Nhập cảnh · Arrival. Khách nối chuyến tới Quầy nối chuyến; khách cần thị thực tới Quầy cấp thị thực tại cửa khẩu trước khi nhập cảnh.",
   "desc_en": "Follow the Arrival signs. Transfer passengers go to the Transfer counter; passengers needing a visa go to the Visa on arrival counter before immigration.",
-  "image": "",
+  "image": "t2-immigration.jpg",
   "map_x": "28.68",
   "map_y": "15.65",
   "path": "7.65,15.65; 28.68,15.65",
   "show_if": "",
   "step_no": "1",
   "travel": "",
-  "mau": "vang"
+  "mau": "vang",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -429,7 +452,8 @@
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": "vang"
+  "mau": "vang",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -440,14 +464,15 @@
   "label_en": "Baggage belt [belt]",
   "desc_vi": "Băng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
   "desc_en": "Belts are numbered 1–8 from right to left as you come down.",
-  "image": "",
+  "image": "t2-belt-1.jpg",
   "map_x": "79.67",
   "map_y": "61.57",
   "path": "65.33,34.35; 65.33,58.06; 65.33,58.52; 79.67,58.52; 79.67,61.57",
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -465,7 +490,8 @@
   "show_if": "",
   "step_no": "4",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -483,7 +509,8 @@
   "show_if": "",
   "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -494,14 +521,15 @@
   "label_en": "Baggage belt [belt]",
   "desc_vi": "Băng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
   "desc_en": "Belts are numbered 1–8 from right to left as you come down.",
-  "image": "",
+  "image": "t2-belt-2.jpg",
   "map_x": "72.98",
   "map_y": "61.57",
   "path": "65.33,34.35; 65.33,58.06; 65.33,58.52; 72.98,58.52; 72.98,61.57",
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -519,7 +547,8 @@
   "show_if": "",
   "step_no": "4",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -537,7 +566,8 @@
   "show_if": "",
   "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -548,14 +578,15 @@
   "label_en": "Baggage belt [belt]",
   "desc_vi": "Băng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
   "desc_en": "Belts are numbered 1–8 from right to left as you come down.",
-  "image": "",
+  "image": "t2-belt-3.jpg",
   "map_x": "59.59",
   "map_y": "61.57",
   "path": "65.33,34.35; 65.33,58.06; 65.33,58.52; 59.59,58.52; 59.59,61.57",
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -573,7 +604,8 @@
   "show_if": "",
   "step_no": "4",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -591,7 +623,8 @@
   "show_if": "",
   "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -602,14 +635,15 @@
   "label_en": "Baggage belt [belt]",
   "desc_vi": "Băng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
   "desc_en": "Belts are numbered 1–8 from right to left as you come down.",
-  "image": "",
+  "image": "t2-belt-4.jpg",
   "map_x": "53.54",
   "map_y": "61.57",
   "path": "65.33,34.35; 65.33,58.06; 65.33,58.52; 53.54,58.52; 53.54,61.57",
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -627,7 +661,8 @@
   "show_if": "",
   "step_no": "4",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -645,7 +680,8 @@
   "show_if": "",
   "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -656,14 +692,15 @@
   "label_en": "Baggage belt [belt]",
   "desc_vi": "Băng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
   "desc_en": "Belts are numbered 1–8 from right to left as you come down.",
-  "image": "",
+  "image": "t2-belt-5.jpg",
   "map_x": "47.48",
   "map_y": "61.57",
   "path": "34.74,34.35; 34.74,58.06; 34.74,58.52; 47.48,58.52; 47.48,61.57",
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -681,7 +718,8 @@
   "show_if": "",
   "step_no": "4",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -699,7 +737,8 @@
   "show_if": "",
   "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -710,14 +749,15 @@
   "label_en": "Baggage belt [belt]",
   "desc_vi": "Băng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
   "desc_en": "Belts are numbered 1–8 from right to left as you come down.",
-  "image": "",
+  "image": "t2-belt-6.jpg",
   "map_x": "41.43",
   "map_y": "61.57",
   "path": "34.74,34.35; 34.74,58.06; 34.74,58.52; 41.43,58.52; 41.43,61.57",
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -735,7 +775,8 @@
   "show_if": "",
   "step_no": "4",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -753,7 +794,8 @@
   "show_if": "",
   "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -764,14 +806,15 @@
   "label_en": "Baggage belt [belt]",
   "desc_vi": "Băng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
   "desc_en": "Belts are numbered 1–8 from right to left as you come down.",
-  "image": "",
+  "image": "t2-belt-7.jpg",
   "map_x": "27.09",
   "map_y": "61.57",
   "path": "34.74,34.35; 34.74,58.06; 34.74,58.52; 27.09,58.52; 27.09,61.57",
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -789,7 +832,8 @@
   "show_if": "",
   "step_no": "4",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -807,7 +851,8 @@
   "show_if": "",
   "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -825,7 +870,8 @@
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -843,7 +889,8 @@
   "show_if": "",
   "step_no": "4",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -861,7 +908,8 @@
   "show_if": "",
   "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -879,7 +927,8 @@
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -897,7 +946,8 @@
   "show_if": "",
   "step_no": "4",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -915,7 +965,8 @@
   "show_if": "",
   "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -926,14 +977,15 @@
   "label_en": "Immigration",
   "desc_vi": "Từ hành lang ga đến, đi theo biển Nhập cảnh · Arrival tới bục kiểm soát của Công an cửa khẩu.",
   "desc_en": "From the arrival corridor follow the Arrival signs to the immigration counters.",
-  "image": "",
+  "image": "t2-immigration.jpg",
   "map_x": "50.03",
   "map_y": "16.7",
   "path": "7.65,7.61; 50.03,7.61; 50.03,16.7",
   "show_if": "",
   "step_no": "1",
   "travel": "",
-  "mau": "vang"
+  "mau": "vang",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -951,43 +1003,46 @@
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
   "no": "3",
   "belt": "8",
-  "label_vi": "Hải quan · gửi lại hành lý nối chuyến",
-  "label_en": "Customs · transfer baggage drop",
-  "desc_vi": "Qua hải quan rồi bàn giao hành lý ký gửi tại khu vực tiếp nhận hành lý nối chuyến.",
-  "desc_en": "Clear customs, then hand your checked baggage over at the transfer baggage drop.",
+  "label_vi": "Hải quan",
+  "label_en": "Customs",
+  "desc_vi": "Quý khách làm thủ tục hải quan.",
+  "desc_en": "Complete the customs check.",
   "image": "",
-  "map_x": "34.1",
+  "map_x": "50",
   "map_y": "40.55",
-  "path": "22.56,29.93; 22.56,39.06; 34.1,39.06; 34.1,40.55",
+  "path": "22.56,29.93; 22.56,39.06; 50,39.06; 50,40.55",
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
-  "no": "4",
+  "no": "5",
   "belt": "8",
-  "label_vi": "Điểm đón xe buýt sang T1",
-  "label_en": "Shuttle bus to Terminal 1",
-  "desc_vi": "Cột 18, làn 1 trước sảnh đến.",
-  "desc_en": "Pillar 18, lane 1 outside the arrivals hall.",
+  "label_vi": "Đón xe buýt sang T1 (cột 18)",
+  "label_en": "Shuttle to T1 (pillar 18)",
+  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
+  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
   "image": "shuttle-t2-01.jpg",
-  "map_x": "70.11",
+  "map_x": "18",
   "map_y": "45.93",
-  "path": "34.1,45.93; 70.11,45.93",
+  "path": "71,40.55; 71,45.93; 18,45.93",
   "show_if": "",
-  "step_no": "4",
+  "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -998,50 +1053,53 @@
   "label_en": "Baggage belt [belt]",
   "desc_vi": "Tự nhận lại toàn bộ hành lý ký gửi.",
   "desc_en": "Collect all your checked baggage.",
-  "image": "",
+  "image": "t2-belt-7.jpg",
   "map_x": "27.09",
   "map_y": "29.93",
   "path": "34.74,16.7; 34.74,28.22; 34.74,28.44; 27.09,28.44; 27.09,29.93",
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
   "no": "3",
   "belt": "7",
-  "label_vi": "Hải quan · gửi lại hành lý nối chuyến",
-  "label_en": "Customs · transfer baggage drop",
-  "desc_vi": "Qua hải quan rồi bàn giao hành lý ký gửi tại khu vực tiếp nhận hành lý nối chuyến.",
-  "desc_en": "Clear customs, then hand your checked baggage over at the transfer baggage drop.",
+  "label_vi": "Hải quan",
+  "label_en": "Customs",
+  "desc_vi": "Quý khách làm thủ tục hải quan.",
+  "desc_en": "Complete the customs check.",
   "image": "",
-  "map_x": "34.1",
+  "map_x": "50",
   "map_y": "40.55",
-  "path": "29.25,29.93; 29.25,39.06; 34.1,39.06; 34.1,40.55",
+  "path": "29.25,29.93; 29.25,39.06; 50,39.06; 50,40.55",
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
-  "no": "4",
+  "no": "5",
   "belt": "7",
-  "label_vi": "Điểm đón xe buýt sang T1",
-  "label_en": "Shuttle bus to Terminal 1",
-  "desc_vi": "Cột 18, làn 1 trước sảnh đến.",
-  "desc_en": "Pillar 18, lane 1 outside the arrivals hall.",
+  "label_vi": "Đón xe buýt sang T1 (cột 18)",
+  "label_en": "Shuttle to T1 (pillar 18)",
+  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
+  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
   "image": "shuttle-t2-01.jpg",
-  "map_x": "70.11",
+  "map_x": "18",
   "map_y": "45.93",
-  "path": "34.1,45.93; 70.11,45.93",
+  "path": "71,40.55; 71,45.93; 18,45.93",
   "show_if": "",
-  "step_no": "4",
+  "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -1052,50 +1110,53 @@
   "label_en": "Baggage belt [belt]",
   "desc_vi": "Tự nhận lại toàn bộ hành lý ký gửi.",
   "desc_en": "Collect all your checked baggage.",
-  "image": "",
+  "image": "t2-belt-6.jpg",
   "map_x": "41.43",
   "map_y": "29.93",
   "path": "34.74,16.7; 34.74,28.22; 34.74,28.44; 41.43,28.44; 41.43,29.93",
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
   "no": "3",
   "belt": "6",
-  "label_vi": "Hải quan · gửi lại hành lý nối chuyến",
-  "label_en": "Customs · transfer baggage drop",
-  "desc_vi": "Qua hải quan rồi bàn giao hành lý ký gửi tại khu vực tiếp nhận hành lý nối chuyến.",
-  "desc_en": "Clear customs, then hand your checked baggage over at the transfer baggage drop.",
+  "label_vi": "Hải quan",
+  "label_en": "Customs",
+  "desc_vi": "Quý khách làm thủ tục hải quan.",
+  "desc_en": "Complete the customs check.",
   "image": "",
-  "map_x": "34.1",
+  "map_x": "50",
   "map_y": "40.55",
-  "path": "43.59,29.93; 43.59,39.06; 34.1,39.06; 34.1,40.55",
+  "path": "43.59,29.93; 43.59,39.06; 50,39.06; 50,40.55",
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
-  "no": "4",
+  "no": "5",
   "belt": "6",
-  "label_vi": "Điểm đón xe buýt sang T1",
-  "label_en": "Shuttle bus to Terminal 1",
-  "desc_vi": "Cột 18, làn 1 trước sảnh đến.",
-  "desc_en": "Pillar 18, lane 1 outside the arrivals hall.",
+  "label_vi": "Đón xe buýt sang T1 (cột 18)",
+  "label_en": "Shuttle to T1 (pillar 18)",
+  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
+  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
   "image": "shuttle-t2-01.jpg",
-  "map_x": "70.11",
+  "map_x": "18",
   "map_y": "45.93",
-  "path": "34.1,45.93; 70.11,45.93",
+  "path": "71,40.55; 71,45.93; 18,45.93",
   "show_if": "",
-  "step_no": "4",
+  "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -1106,50 +1167,53 @@
   "label_en": "Baggage belt [belt]",
   "desc_vi": "Tự nhận lại toàn bộ hành lý ký gửi.",
   "desc_en": "Collect all your checked baggage.",
-  "image": "",
+  "image": "t2-belt-5.jpg",
   "map_x": "47.48",
   "map_y": "29.93",
   "path": "34.74,16.7; 34.74,28.22; 34.74,28.44; 47.48,28.44; 47.48,29.93",
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
   "no": "3",
   "belt": "5",
-  "label_vi": "Hải quan · gửi lại hành lý nối chuyến",
-  "label_en": "Customs · transfer baggage drop",
-  "desc_vi": "Qua hải quan rồi bàn giao hành lý ký gửi tại khu vực tiếp nhận hành lý nối chuyến.",
-  "desc_en": "Clear customs, then hand your checked baggage over at the transfer baggage drop.",
+  "label_vi": "Hải quan",
+  "label_en": "Customs",
+  "desc_vi": "Quý khách làm thủ tục hải quan.",
+  "desc_en": "Complete the customs check.",
   "image": "",
-  "map_x": "34.1",
+  "map_x": "50",
   "map_y": "40.55",
-  "path": "49.65,29.93; 49.65,39.06; 34.1,39.06; 34.1,40.55",
+  "path": "49.65,29.93; 49.65,39.06; 50,39.06; 50,40.55",
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
-  "no": "4",
+  "no": "5",
   "belt": "5",
-  "label_vi": "Điểm đón xe buýt sang T1",
-  "label_en": "Shuttle bus to Terminal 1",
-  "desc_vi": "Cột 18, làn 1 trước sảnh đến.",
-  "desc_en": "Pillar 18, lane 1 outside the arrivals hall.",
+  "label_vi": "Đón xe buýt sang T1 (cột 18)",
+  "label_en": "Shuttle to T1 (pillar 18)",
+  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
+  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
   "image": "shuttle-t2-01.jpg",
-  "map_x": "70.11",
+  "map_x": "18",
   "map_y": "45.93",
-  "path": "34.1,45.93; 70.11,45.93",
+  "path": "71,40.55; 71,45.93; 18,45.93",
   "show_if": "",
-  "step_no": "4",
+  "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -1160,50 +1224,53 @@
   "label_en": "Baggage belt [belt]",
   "desc_vi": "Tự nhận lại toàn bộ hành lý ký gửi.",
   "desc_en": "Collect all your checked baggage.",
-  "image": "",
+  "image": "t2-belt-4.jpg",
   "map_x": "53.54",
   "map_y": "29.93",
   "path": "65.33,16.7; 65.33,28.22; 65.33,28.44; 53.54,28.44; 53.54,29.93",
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
   "no": "3",
   "belt": "4",
-  "label_vi": "Hải quan · gửi lại hành lý nối chuyến",
-  "label_en": "Customs · transfer baggage drop",
-  "desc_vi": "Qua hải quan rồi bàn giao hành lý ký gửi tại khu vực tiếp nhận hành lý nối chuyến.",
-  "desc_en": "Clear customs, then hand your checked baggage over at the transfer baggage drop.",
+  "label_vi": "Hải quan",
+  "label_en": "Customs",
+  "desc_vi": "Quý khách làm thủ tục hải quan.",
+  "desc_en": "Complete the customs check.",
   "image": "",
-  "map_x": "65.97",
+  "map_x": "50",
   "map_y": "40.55",
-  "path": "55.7,29.93; 55.7,39.06; 65.97,39.06; 65.97,40.55",
+  "path": "55.7,29.93; 55.7,39.06; 50,39.06; 50,40.55",
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
-  "no": "4",
+  "no": "5",
   "belt": "4",
-  "label_vi": "Điểm đón xe buýt sang T1",
-  "label_en": "Shuttle bus to Terminal 1",
-  "desc_vi": "Cột 18, làn 1 trước sảnh đến.",
-  "desc_en": "Pillar 18, lane 1 outside the arrivals hall.",
+  "label_vi": "Đón xe buýt sang T1 (cột 18)",
+  "label_en": "Shuttle to T1 (pillar 18)",
+  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
+  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
   "image": "shuttle-t2-01.jpg",
-  "map_x": "70.11",
+  "map_x": "18",
   "map_y": "45.93",
-  "path": "65.97,45.93; 70.11,45.93",
+  "path": "71,40.55; 71,45.93; 18,45.93",
   "show_if": "",
-  "step_no": "4",
+  "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -1214,50 +1281,53 @@
   "label_en": "Baggage belt [belt]",
   "desc_vi": "Tự nhận lại toàn bộ hành lý ký gửi.",
   "desc_en": "Collect all your checked baggage.",
-  "image": "",
+  "image": "t2-belt-3.jpg",
   "map_x": "59.59",
   "map_y": "29.93",
   "path": "65.33,16.7; 65.33,28.22; 65.33,28.44; 59.59,28.44; 59.59,29.93",
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
   "no": "3",
   "belt": "3",
-  "label_vi": "Hải quan · gửi lại hành lý nối chuyến",
-  "label_en": "Customs · transfer baggage drop",
-  "desc_vi": "Qua hải quan rồi bàn giao hành lý ký gửi tại khu vực tiếp nhận hành lý nối chuyến.",
-  "desc_en": "Clear customs, then hand your checked baggage over at the transfer baggage drop.",
+  "label_vi": "Hải quan",
+  "label_en": "Customs",
+  "desc_vi": "Quý khách làm thủ tục hải quan.",
+  "desc_en": "Complete the customs check.",
   "image": "",
-  "map_x": "65.97",
+  "map_x": "50",
   "map_y": "40.55",
-  "path": "61.76,29.93; 61.76,39.06; 65.97,39.06; 65.97,40.55",
+  "path": "61.76,29.93; 61.76,39.06; 50,39.06; 50,40.55",
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
-  "no": "4",
+  "no": "5",
   "belt": "3",
-  "label_vi": "Điểm đón xe buýt sang T1",
-  "label_en": "Shuttle bus to Terminal 1",
-  "desc_vi": "Cột 18, làn 1 trước sảnh đến.",
-  "desc_en": "Pillar 18, lane 1 outside the arrivals hall.",
+  "label_vi": "Đón xe buýt sang T1 (cột 18)",
+  "label_en": "Shuttle to T1 (pillar 18)",
+  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
+  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
   "image": "shuttle-t2-01.jpg",
-  "map_x": "70.11",
+  "map_x": "18",
   "map_y": "45.93",
-  "path": "65.97,45.93; 70.11,45.93",
+  "path": "71,40.55; 71,45.93; 18,45.93",
   "show_if": "",
-  "step_no": "4",
+  "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -1268,50 +1338,53 @@
   "label_en": "Baggage belt [belt]",
   "desc_vi": "Tự nhận lại toàn bộ hành lý ký gửi.",
   "desc_en": "Collect all your checked baggage.",
-  "image": "",
+  "image": "t2-belt-2.jpg",
   "map_x": "72.98",
   "map_y": "29.93",
   "path": "65.33,16.7; 65.33,28.22; 65.33,28.44; 72.98,28.44; 72.98,29.93",
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
   "no": "3",
   "belt": "2",
-  "label_vi": "Hải quan · gửi lại hành lý nối chuyến",
-  "label_en": "Customs · transfer baggage drop",
-  "desc_vi": "Qua hải quan rồi bàn giao hành lý ký gửi tại khu vực tiếp nhận hành lý nối chuyến.",
-  "desc_en": "Clear customs, then hand your checked baggage over at the transfer baggage drop.",
+  "label_vi": "Hải quan",
+  "label_en": "Customs",
+  "desc_vi": "Quý khách làm thủ tục hải quan.",
+  "desc_en": "Complete the customs check.",
   "image": "",
-  "map_x": "65.97",
+  "map_x": "50",
   "map_y": "40.55",
-  "path": "75.14,29.93; 75.14,39.06; 65.97,39.06; 65.97,40.55",
+  "path": "75.14,29.93; 75.14,39.06; 50,39.06; 50,40.55",
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
-  "no": "4",
+  "no": "5",
   "belt": "2",
-  "label_vi": "Điểm đón xe buýt sang T1",
-  "label_en": "Shuttle bus to Terminal 1",
-  "desc_vi": "Cột 18, làn 1 trước sảnh đến.",
-  "desc_en": "Pillar 18, lane 1 outside the arrivals hall.",
+  "label_vi": "Đón xe buýt sang T1 (cột 18)",
+  "label_en": "Shuttle to T1 (pillar 18)",
+  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
+  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
   "image": "shuttle-t2-01.jpg",
-  "map_x": "70.11",
+  "map_x": "18",
   "map_y": "45.93",
-  "path": "65.97,45.93; 70.11,45.93",
+  "path": "71,40.55; 71,45.93; 18,45.93",
   "show_if": "",
-  "step_no": "4",
+  "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -1322,50 +1395,53 @@
   "label_en": "Baggage belt [belt]",
   "desc_vi": "Tự nhận lại toàn bộ hành lý ký gửi.",
   "desc_en": "Collect all your checked baggage.",
-  "image": "",
+  "image": "t2-belt-1.jpg",
   "map_x": "79.67",
   "map_y": "29.93",
   "path": "65.33,16.7; 65.33,28.22; 65.33,28.44; 79.67,28.44; 79.67,29.93",
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
   "no": "3",
   "belt": "1",
-  "label_vi": "Hải quan · gửi lại hành lý nối chuyến",
-  "label_en": "Customs · transfer baggage drop",
-  "desc_vi": "Qua hải quan rồi bàn giao hành lý ký gửi tại khu vực tiếp nhận hành lý nối chuyến.",
-  "desc_en": "Clear customs, then hand your checked baggage over at the transfer baggage drop.",
+  "label_vi": "Hải quan",
+  "label_en": "Customs",
+  "desc_vi": "Quý khách làm thủ tục hải quan.",
+  "desc_en": "Complete the customs check.",
   "image": "",
-  "map_x": "65.97",
+  "map_x": "50",
   "map_y": "40.55",
-  "path": "81.84,29.93; 81.84,39.06; 65.97,39.06; 65.97,40.55",
+  "path": "81.84,29.93; 81.84,39.06; 50,39.06; 50,40.55",
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
-  "no": "4",
+  "no": "5",
   "belt": "1",
-  "label_vi": "Điểm đón xe buýt sang T1",
-  "label_en": "Shuttle bus to Terminal 1",
-  "desc_vi": "Cột 18, làn 1 trước sảnh đến.",
-  "desc_en": "Pillar 18, lane 1 outside the arrivals hall.",
+  "label_vi": "Đón xe buýt sang T1 (cột 18)",
+  "label_en": "Shuttle to T1 (pillar 18)",
+  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
+  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
   "image": "shuttle-t2-01.jpg",
-  "map_x": "70.11",
+  "map_x": "18",
   "map_y": "45.93",
-  "path": "65.97,45.93; 70.11,45.93",
+  "path": "71,40.55; 71,45.93; 18,45.93",
   "show_if": "",
-  "step_no": "4",
+  "step_no": "5",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -1383,48 +1459,51 @@
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
   "no": "3",
   "belt": "",
-  "label_vi": "Hải quan · gửi lại hành lý nối chuyến",
-  "label_en": "Customs · transfer baggage drop",
-  "desc_vi": "Qua hải quan rồi bàn giao hành lý ký gửi tại khu vực tiếp nhận hành lý nối chuyến.",
-  "desc_en": "Clear customs, then hand your checked baggage over at the transfer baggage drop.",
+  "label_vi": "Hải quan",
+  "label_en": "Customs",
+  "desc_vi": "Quý khách làm thủ tục hải quan.",
+  "desc_en": "Complete the customs check.",
   "image": "",
-  "map_x": "34.1",
+  "map_x": "50",
   "map_y": "40.55",
-  "path": "38.24,39.06; 34.1,39.06; 34.1,40.55",
+  "path": "38.24,39.06; 38.24,39.06; 50,39.06; 50,40.55",
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
- },
- {
-  "route_code": "id-arrival__t1",
-  "leg": "1",
-  "no": "4",
-  "belt": "",
-  "label_vi": "Điểm đón xe buýt sang T1",
-  "label_en": "Shuttle bus to Terminal 1",
-  "desc_vi": "Cột 18, làn 1 trước sảnh đến.",
-  "desc_en": "Pillar 18, lane 1 outside the arrivals hall.",
-  "image": "shuttle-t2-01.jpg",
-  "map_x": "70.11",
-  "map_y": "45.93",
-  "path": "34.1,45.93; 70.11,45.93",
-  "show_if": "",
-  "step_no": "4",
-  "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
   "no": "5",
+  "belt": "",
+  "label_vi": "Đón xe buýt sang T1 (cột 18)",
+  "label_en": "Shuttle to T1 (pillar 18)",
+  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
+  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
+  "image": "shuttle-t2-01.jpg",
+  "map_x": "18",
+  "map_y": "45.93",
+  "path": "71,40.55; 71,45.93; 18,45.93",
+  "show_if": "",
+  "step_no": "5",
+  "travel": "",
+  "mau": "",
+  "cua": ""
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "6",
   "belt": "",
   "label_vi": "Soi chiếu an ninh T1",
   "label_en": "T1 security check",
@@ -1433,16 +1512,17 @@
   "image": "",
   "map_x": "51.21",
   "map_y": "87.07",
-  "path": "70.11,45.93; 70.11,49.8; 97.2,49.8; 97.2,98.42; 51.21,98.42; 51.21,93.82",
+  "path": "18,45.93; 18,49.3; 97.2,49.3; 97.2,98.42; 51.21,98.42; 51.21,93.82",
   "show_if": "",
-  "step_no": "5",
+  "step_no": "6",
   "travel": "bus",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "id-arrival__t1",
   "leg": "1",
-  "no": "6",
+  "no": "7",
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
@@ -1453,9 +1533,10 @@
   "map_y": "85.42",
   "path": "51.21,85.42",
   "show_if": "gate",
-  "step_no": "6",
+  "step_no": "7",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -1473,7 +1554,8 @@
   "show_if": "",
   "step_no": "1",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -1491,7 +1573,8 @@
   "show_if": "",
   "step_no": "2",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -1509,7 +1592,8 @@
   "show_if": "",
   "step_no": "3",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -1527,6 +1611,482 @@
   "show_if": "gate",
   "step_no": "4",
   "travel": "",
-  "mau": ""
+  "mau": "",
+  "cua": ""
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "4",
+  "belt": "8",
+  "label_vi": "Bàn giao hành lý",
+  "label_en": "Transfer drop bag",
+  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "image": "domestic-transfer-drop-bag.jpg",
+  "map_x": "71",
+  "map_y": "40.55",
+  "path": "50,40.55; 71,40.55",
+  "show_if": "",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": ""
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "4",
+  "belt": "7",
+  "label_vi": "Bàn giao hành lý",
+  "label_en": "Transfer drop bag",
+  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "image": "domestic-transfer-drop-bag.jpg",
+  "map_x": "71",
+  "map_y": "40.55",
+  "path": "50,40.55; 71,40.55",
+  "show_if": "",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": ""
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "4",
+  "belt": "6",
+  "label_vi": "Bàn giao hành lý",
+  "label_en": "Transfer drop bag",
+  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "image": "domestic-transfer-drop-bag.jpg",
+  "map_x": "71",
+  "map_y": "40.55",
+  "path": "50,40.55; 71,40.55",
+  "show_if": "",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": ""
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "4",
+  "belt": "5",
+  "label_vi": "Bàn giao hành lý",
+  "label_en": "Transfer drop bag",
+  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "image": "domestic-transfer-drop-bag.jpg",
+  "map_x": "71",
+  "map_y": "40.55",
+  "path": "50,40.55; 71,40.55",
+  "show_if": "",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": ""
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "4",
+  "belt": "4",
+  "label_vi": "Bàn giao hành lý",
+  "label_en": "Transfer drop bag",
+  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "image": "domestic-transfer-drop-bag.jpg",
+  "map_x": "71",
+  "map_y": "40.55",
+  "path": "50,40.55; 71,40.55",
+  "show_if": "",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": ""
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "4",
+  "belt": "3",
+  "label_vi": "Bàn giao hành lý",
+  "label_en": "Transfer drop bag",
+  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "image": "domestic-transfer-drop-bag.jpg",
+  "map_x": "71",
+  "map_y": "40.55",
+  "path": "50,40.55; 71,40.55",
+  "show_if": "",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": ""
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "4",
+  "belt": "2",
+  "label_vi": "Bàn giao hành lý",
+  "label_en": "Transfer drop bag",
+  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "image": "domestic-transfer-drop-bag.jpg",
+  "map_x": "71",
+  "map_y": "40.55",
+  "path": "50,40.55; 71,40.55",
+  "show_if": "",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": ""
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "4",
+  "belt": "1",
+  "label_vi": "Bàn giao hành lý",
+  "label_en": "Transfer drop bag",
+  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "image": "domestic-transfer-drop-bag.jpg",
+  "map_x": "71",
+  "map_y": "40.55",
+  "path": "50,40.55; 71,40.55",
+  "show_if": "",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": ""
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "4",
+  "belt": "",
+  "label_vi": "Bàn giao hành lý",
+  "label_en": "Transfer drop bag",
+  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "image": "domestic-transfer-drop-bag.jpg",
+  "map_x": "71",
+  "map_y": "40.55",
+  "path": "50,40.55; 71,40.55",
+  "show_if": "",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": ""
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "7",
+  "belt": "",
+  "label_vi": "Cửa ra tàu bay [gate]",
+  "label_en": "Boarding gate [gate]",
+  "desc_vi": "Khu cách ly nhà ga T1.",
+  "desc_en": "Terminal 1 airside.",
+  "image": "t1-boarding-gate-5.jpg",
+  "map_x": "51.21",
+  "map_y": "85.42",
+  "path": "51.21,85.42",
+  "show_if": "gate",
+  "step_no": "7",
+  "travel": "",
+  "mau": "",
+  "cua": "5"
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "7",
+  "belt": "",
+  "label_vi": "Cửa ra tàu bay [gate]",
+  "label_en": "Boarding gate [gate]",
+  "desc_vi": "Khu cách ly nhà ga T1.",
+  "desc_en": "Terminal 1 airside.",
+  "image": "t1-boarding-gate-6.jpg",
+  "map_x": "51.21",
+  "map_y": "85.42",
+  "path": "51.21,85.42",
+  "show_if": "gate",
+  "step_no": "7",
+  "travel": "",
+  "mau": "",
+  "cua": "6"
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "7",
+  "belt": "",
+  "label_vi": "Cửa ra tàu bay [gate]",
+  "label_en": "Boarding gate [gate]",
+  "desc_vi": "Khu cách ly nhà ga T1.",
+  "desc_en": "Terminal 1 airside.",
+  "image": "t1-boarding-gate-7.jpg",
+  "map_x": "51.21",
+  "map_y": "85.42",
+  "path": "51.21,85.42",
+  "show_if": "gate",
+  "step_no": "7",
+  "travel": "",
+  "mau": "",
+  "cua": "7"
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "7",
+  "belt": "",
+  "label_vi": "Cửa ra tàu bay [gate]",
+  "label_en": "Boarding gate [gate]",
+  "desc_vi": "Khu cách ly nhà ga T1.",
+  "desc_en": "Terminal 1 airside.",
+  "image": "t1-boarding-gate-8.jpg",
+  "map_x": "51.21",
+  "map_y": "85.42",
+  "path": "51.21,85.42",
+  "show_if": "gate",
+  "step_no": "7",
+  "travel": "",
+  "mau": "",
+  "cua": "8"
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "7",
+  "belt": "",
+  "label_vi": "Cửa ra tàu bay [gate]",
+  "label_en": "Boarding gate [gate]",
+  "desc_vi": "Khu cách ly nhà ga T1.",
+  "desc_en": "Terminal 1 airside.",
+  "image": "t1-boarding-gate-9.jpg",
+  "map_x": "51.21",
+  "map_y": "85.42",
+  "path": "51.21,85.42",
+  "show_if": "gate",
+  "step_no": "7",
+  "travel": "",
+  "mau": "",
+  "cua": "9"
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "7",
+  "belt": "",
+  "label_vi": "Cửa ra tàu bay [gate]",
+  "label_en": "Boarding gate [gate]",
+  "desc_vi": "Khu cách ly nhà ga T1.",
+  "desc_en": "Terminal 1 airside.",
+  "image": "t1-boarding-gate-10.jpg",
+  "map_x": "51.21",
+  "map_y": "85.42",
+  "path": "51.21,85.42",
+  "show_if": "gate",
+  "step_no": "7",
+  "travel": "",
+  "mau": "",
+  "cua": "10"
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "7",
+  "belt": "",
+  "label_vi": "Cửa ra tàu bay [gate]",
+  "label_en": "Boarding gate [gate]",
+  "desc_vi": "Khu cách ly nhà ga T1.",
+  "desc_en": "Terminal 1 airside.",
+  "image": "t1-boarding-gate-11.jpg",
+  "map_x": "51.21",
+  "map_y": "85.42",
+  "path": "51.21,85.42",
+  "show_if": "gate",
+  "step_no": "7",
+  "travel": "",
+  "mau": "",
+  "cua": "11"
+ },
+ {
+  "route_code": "id-arrival__t1",
+  "leg": "1",
+  "no": "7",
+  "belt": "",
+  "label_vi": "Cửa ra tàu bay [gate]",
+  "label_en": "Boarding gate [gate]",
+  "desc_vi": "Khu cách ly nhà ga T1.",
+  "desc_en": "Terminal 1 airside.",
+  "image": "t1-boarding-gate-12.jpg",
+  "map_x": "51.21",
+  "map_y": "85.42",
+  "path": "51.21,85.42",
+  "show_if": "gate",
+  "step_no": "7",
+  "travel": "",
+  "mau": "",
+  "cua": "12"
+ },
+ {
+  "route_code": "dd-t1-arrival__t1-gate",
+  "leg": "2",
+  "no": "4",
+  "belt": "",
+  "label_vi": "Cửa ra tàu bay [gate]",
+  "label_en": "Boarding gate [gate]",
+  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "image": "t1-boarding-gate-5.jpg",
+  "map_x": "51.3",
+  "map_y": "73.6",
+  "path": "51.3,73.6",
+  "show_if": "gate",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": "5"
+ },
+ {
+  "route_code": "dd-t1-arrival__t1-gate",
+  "leg": "2",
+  "no": "4",
+  "belt": "",
+  "label_vi": "Cửa ra tàu bay [gate]",
+  "label_en": "Boarding gate [gate]",
+  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "image": "t1-boarding-gate-6.jpg",
+  "map_x": "51.3",
+  "map_y": "73.6",
+  "path": "51.3,73.6",
+  "show_if": "gate",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": "6"
+ },
+ {
+  "route_code": "dd-t1-arrival__t1-gate",
+  "leg": "2",
+  "no": "4",
+  "belt": "",
+  "label_vi": "Cửa ra tàu bay [gate]",
+  "label_en": "Boarding gate [gate]",
+  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "image": "t1-boarding-gate-7.jpg",
+  "map_x": "51.3",
+  "map_y": "73.6",
+  "path": "51.3,73.6",
+  "show_if": "gate",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": "7"
+ },
+ {
+  "route_code": "dd-t1-arrival__t1-gate",
+  "leg": "2",
+  "no": "4",
+  "belt": "",
+  "label_vi": "Cửa ra tàu bay [gate]",
+  "label_en": "Boarding gate [gate]",
+  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "image": "t1-boarding-gate-8.jpg",
+  "map_x": "51.3",
+  "map_y": "73.6",
+  "path": "51.3,73.6",
+  "show_if": "gate",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": "8"
+ },
+ {
+  "route_code": "dd-t1-arrival__t1-gate",
+  "leg": "2",
+  "no": "4",
+  "belt": "",
+  "label_vi": "Cửa ra tàu bay [gate]",
+  "label_en": "Boarding gate [gate]",
+  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "image": "t1-boarding-gate-9.jpg",
+  "map_x": "51.3",
+  "map_y": "73.6",
+  "path": "51.3,73.6",
+  "show_if": "gate",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": "9"
+ },
+ {
+  "route_code": "dd-t1-arrival__t1-gate",
+  "leg": "2",
+  "no": "4",
+  "belt": "",
+  "label_vi": "Cửa ra tàu bay [gate]",
+  "label_en": "Boarding gate [gate]",
+  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "image": "t1-boarding-gate-10.jpg",
+  "map_x": "51.3",
+  "map_y": "73.6",
+  "path": "51.3,73.6",
+  "show_if": "gate",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": "10"
+ },
+ {
+  "route_code": "dd-t1-arrival__t1-gate",
+  "leg": "2",
+  "no": "4",
+  "belt": "",
+  "label_vi": "Cửa ra tàu bay [gate]",
+  "label_en": "Boarding gate [gate]",
+  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "image": "t1-boarding-gate-11.jpg",
+  "map_x": "51.3",
+  "map_y": "73.6",
+  "path": "51.3,73.6",
+  "show_if": "gate",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": "11"
+ },
+ {
+  "route_code": "dd-t1-arrival__t1-gate",
+  "leg": "2",
+  "no": "4",
+  "belt": "",
+  "label_vi": "Cửa ra tàu bay [gate]",
+  "label_en": "Boarding gate [gate]",
+  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "image": "t1-boarding-gate-12.jpg",
+  "map_x": "51.3",
+  "map_y": "73.6",
+  "path": "51.3,73.6",
+  "show_if": "gate",
+  "step_no": "4",
+  "travel": "",
+  "mau": "",
+  "cua": "12"
  }
 ]

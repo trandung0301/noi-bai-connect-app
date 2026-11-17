@@ -516,8 +516,8 @@
  },
  {
   "key": "map.tap_hint",
-  "vi": "Bấm vào số trên sơ đồ để xem ảnh và hướng dẫn tại vị trí đó",
-  "en": "Tap a number on the map to see the photo and guidance there"
+  "vi": "Bấm vào tên điểm trên sơ đồ để xem ảnh và hướng dẫn tại vị trí đó",
+  "en": "Tap a place name on the map to see the photo and guidance there"
  },
  {
   "key": "map.close",

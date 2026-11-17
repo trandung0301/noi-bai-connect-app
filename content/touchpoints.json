@@ -78,9 +78,9 @@
   "image": "belt-01.jpg"
  },
  {
-  "code": "emigration",
+  "code": "Imigration",
   "name_vi": "Thủ tục xuất cảnh",
-  "name_en": "Emigration",
+  "name_en": "Imigration",
   "terminal": "T2",
   "floor": "3",
   "desc_vi": "",
@@ -91,12 +91,12 @@
   "image": "emigration-01.jpg"
  },
  {
-  "code": "checkin-islands",
-  "name_vi": "Đảo thủ tục A/B/C",
-  "name_en": "Check-in A/B/C",
+  "code": "checkin",
+  "name_vi": "Đảo thủ tục B/C/D",
+  "name_en": "Check-in B/C/D",
   "terminal": "T2",
   "floor": "3",
-  "desc_vi": "Khách chưa có thẻ lên tàu làm thủ tục tại đảo A B",
+  "desc_vi": "Khách chưa có thẻ lên tàu làm thủ tục tại đảo B/C/D",
   "desc_en": "Passengers without boarding pass check in at islands A B",
   "hours": "24/7",
   "map_x": "62",

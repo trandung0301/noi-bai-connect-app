@@ -44,17 +44,6 @@
   "icon": "gate"
  },
  {
-  "code": "t2-gate",
-  "terminal": "T2",
-  "order": "5",
-  "label_vi": "Đi đến cửa lên tàu (đã qua an ninh)",
-  "label_en": "To my gate (past security)",
-  "sub_vi": "Tìm cửa trong phòng chờ",
-  "sub_en": "Find the gate airside",
-  "route_code": "t2-security__gate",
-  "icon": "gate"
- },
- {
   "code": "t2-lounge",
   "terminal": "T2",
   "order": "6",
@@ -110,14 +99,14 @@
   "icon": "gate"
  },
  {
-  "code": "t1-gate",
+  "code": "t1-lounge",
   "terminal": "T1",
-  "order": "5",
-  "label_vi": "Đi đến cửa lên tàu (đã qua an ninh)",
-  "label_en": "To my gate (past security)",
-  "sub_vi": "Tìm cửa trong khu khởi hành",
-  "sub_en": "Find the gate airside",
-  "route_code": "t1-security__gate",
-  "icon": "gate"
+  "order": "6",
+  "label_vi": "Đi phòng chờ Thương gia",
+  "label_en": "Business lounge",
+  "sub_vi": "Lotus Lounge, tầng 3",
+  "sub_en": "Lotus Lounge, level 3",
+  "route_code": "t1-security__lounge",
+  "icon": "lounge"
  }
 ]
