@@ -568,5 +568,35 @@
   "key": "home.terminal_T2",
   "vi": "Quốc tế",
   "en": "International"
+ },
+ {
+  "key": "route.bad_title",
+  "vi": "Chuyến bay không phù hợp với hành trình này",
+  "en": "This flight does not match your journey"
+ },
+ {
+  "key": "route.bad_msg",
+  "vi": "Chuyến bay {f} là chuyến {k}, không phù hợp với hành trình “{label}” (cần chuyến {w}). Vui lòng kiểm tra lại số hiệu chuyến bay hoặc chọn lại hành trình ở trang đầu.",
+  "en": "Flight {f} is {k}, which does not match the journey “{label}” (a {w} flight is needed). Please check the flight number or choose your journey again on the first page."
+ },
+ {
+  "key": "kind.dom",
+  "vi": "nội địa",
+  "en": "domestic"
+ },
+ {
+  "key": "kind.intl",
+  "vi": "quốc tế",
+  "en": "international"
+ },
+ {
+  "key": "route.bad_retry",
+  "vi": "Nhập lại số hiệu",
+  "en": "Re-enter flight number"
+ },
+ {
+  "key": "route.bad_home",
+  "vi": "Chọn lại hành trình",
+  "en": "Choose journey again"
  }
 ]
