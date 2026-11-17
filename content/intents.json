@@ -10,7 +10,9 @@
   "route_code": "ii-arrival__gate",
   "icon": "plane",
   "den_loai": "QT",
-  "di_loai": "QT"
+  "di_loai": "QT",
+  "luu_y_vi": "",
+  "luu_y_en": ""
  },
  {
   "code": "pt2-id",
@@ -23,7 +25,9 @@
   "route_code": "id-arrival__t1",
   "icon": "plane",
   "den_loai": "QT",
-  "di_loai": "NĐ"
+  "di_loai": "NĐ",
+  "luu_y_vi": "Lưu ý quan trọng: Quý khách cần tự lấy hành lý ký gửi tại băng chuyền và làm thủ tục hải quan tại Nội Bài, sau đó bàn giao lại hành lý tại điểm transfer drop bag rồi đi xe buýt sang T1.",
+  "luu_y_en": "Important: You must collect your checked baggage at the carousel and clear customs at Noi Bai, then hand your bag over at the transfer drop-bag point before taking the shuttle bus to T1."
  },
  {
   "code": "pt5-den-qt",
@@ -36,7 +40,9 @@
   "route_code": "t2-arrival__exit",
   "icon": "bag",
   "den_loai": "QT",
-  "di_loai": ""
+  "di_loai": "",
+  "luu_y_vi": "",
+  "luu_y_en": ""
  },
  {
   "code": "pt6-di-qt",
@@ -49,7 +55,9 @@
   "route_code": "t2-departure__gate",
   "icon": "gate",
   "den_loai": "",
-  "di_loai": "QT"
+  "di_loai": "QT",
+  "luu_y_vi": "",
+  "luu_y_en": ""
  },
  {
   "code": "t2-lounge",
@@ -62,7 +70,9 @@
   "route_code": "t2-security__lounge",
   "icon": "lounge",
   "den_loai": "",
-  "di_loai": ""
+  "di_loai": "",
+  "luu_y_vi": "",
+  "luu_y_en": ""
  },
  {
   "code": "pt3-di",
@@ -75,7 +85,9 @@
   "route_code": "di-t1__t2-gate",
   "icon": "plane",
   "den_loai": "NĐ",
-  "di_loai": "QT"
+  "di_loai": "QT",
+  "luu_y_vi": "",
+  "luu_y_en": ""
  },
  {
   "code": "pt4-dd",
@@ -88,7 +100,9 @@
   "route_code": "dd-t1-arrival__t1-gate",
   "icon": "plane",
   "den_loai": "NĐ",
-  "di_loai": "NĐ"
+  "di_loai": "NĐ",
+  "luu_y_vi": "",
+  "luu_y_en": ""
  },
  {
   "code": "pt7-den-nd",
@@ -101,7 +115,9 @@
   "route_code": "t1-arrival__exit",
   "icon": "bag",
   "den_loai": "NĐ",
-  "di_loai": ""
+  "di_loai": "",
+  "luu_y_vi": "",
+  "luu_y_en": ""
  },
  {
   "code": "pt8-di-nd",
@@ -114,7 +130,9 @@
   "route_code": "t1-departure__gate",
   "icon": "gate",
   "den_loai": "",
-  "di_loai": "NĐ"
+  "di_loai": "NĐ",
+  "luu_y_vi": "",
+  "luu_y_en": ""
  },
  {
   "code": "t1-lounge",
@@ -127,6 +145,8 @@
   "route_code": "t1-security__lounge",
   "icon": "lounge",
   "den_loai": "",
-  "di_loai": ""
+  "di_loai": "",
+  "luu_y_vi": "",
+  "luu_y_en": ""
  }
 ]
