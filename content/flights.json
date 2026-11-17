@@ -1,6 +1,6 @@
 {
  "source": "lich-bay.xlsx",
- "generated_at": "2026-11-17T11:20:31.869Z",
+ "generated_at": "2026-11-17T11:42:10.526Z",
  "flights": [
   {
    "flight_no": "VN244",
@@ -12,7 +12,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN1602",
@@ -24,7 +24,7 @@
    "baggage_belt": "3",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN1572",
@@ -36,7 +36,7 @@
    "baggage_belt": "2",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN164",
@@ -48,7 +48,7 @@
    "baggage_belt": "5",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN1590",
@@ -60,7 +60,7 @@
    "baggage_belt": "6",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN1200",
@@ -72,7 +72,7 @@
    "baggage_belt": "5",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN1236",
@@ -84,7 +84,7 @@
    "baggage_belt": "6",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN210",
@@ -96,7 +96,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN357",
@@ -108,7 +108,7 @@
    "baggage_belt": "4",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN234",
@@ -120,7 +120,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN246",
@@ -132,7 +132,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN349",
@@ -144,7 +144,7 @@
    "baggage_belt": "2",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN429",
@@ -156,7 +156,7 @@
    "baggage_belt": "3",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN166",
@@ -168,7 +168,7 @@
    "baggage_belt": "6",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN417",
@@ -180,7 +180,7 @@
    "baggage_belt": "4",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN335",
@@ -192,7 +192,7 @@
    "baggage_belt": "1",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN160",
@@ -204,7 +204,7 @@
    "baggage_belt": "5",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN311",
@@ -216,7 +216,7 @@
    "baggage_belt": "2",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN585",
@@ -228,7 +228,7 @@
    "baggage_belt": "3",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN168",
@@ -240,7 +240,7 @@
    "baggage_belt": "",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN212",
@@ -252,7 +252,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN610",
@@ -264,7 +264,7 @@
    "baggage_belt": "2",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN1552",
@@ -276,7 +276,7 @@
    "baggage_belt": "3",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN170",
@@ -288,7 +288,7 @@
    "baggage_belt": "5",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN248",
@@ -300,7 +300,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN1622",
@@ -312,7 +312,7 @@
    "baggage_belt": "5",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN577",
@@ -324,7 +324,7 @@
    "baggage_belt": "4",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN593",
@@ -336,7 +336,7 @@
    "baggage_belt": "5",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN660",
@@ -348,7 +348,7 @@
    "baggage_belt": "2",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN1650",
@@ -360,7 +360,7 @@
    "baggage_belt": "5",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN214",
@@ -372,7 +372,7 @@
    "baggage_belt": "3",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN172",
@@ -384,7 +384,7 @@
    "baggage_belt": "3",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN1238",
@@ -396,7 +396,7 @@
    "baggage_belt": "6",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN1574",
@@ -408,7 +408,7 @@
    "baggage_belt": "5",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN1805",
@@ -420,7 +420,7 @@
    "baggage_belt": "6",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN1202",
@@ -432,7 +432,7 @@
    "baggage_belt": "3",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN250",
@@ -444,7 +444,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN507",
@@ -456,7 +456,7 @@
    "baggage_belt": "4",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN1562",
@@ -468,7 +468,7 @@
    "baggage_belt": "3",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN614",
@@ -480,7 +480,7 @@
    "baggage_belt": "5",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN7572",
@@ -492,7 +492,7 @@
    "baggage_belt": "5",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN533",
@@ -504,7 +504,7 @@
    "baggage_belt": "1",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN176",
@@ -516,7 +516,7 @@
    "baggage_belt": "6",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN216",
@@ -528,7 +528,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN662",
@@ -540,7 +540,7 @@
    "baggage_belt": "2",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN254",
@@ -552,7 +552,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN339",
@@ -564,7 +564,7 @@
    "baggage_belt": "3",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN1718",
@@ -576,7 +576,7 @@
    "baggage_belt": "3",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN180",
@@ -588,7 +588,7 @@
    "baggage_belt": "",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN836",
@@ -600,7 +600,7 @@
    "baggage_belt": "4",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN1544",
@@ -612,7 +612,7 @@
    "baggage_belt": "3",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN178",
@@ -624,7 +624,7 @@
    "baggage_belt": "3",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN218",
@@ -636,7 +636,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN188",
@@ -648,7 +648,7 @@
    "baggage_belt": "3",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN930",
@@ -660,7 +660,7 @@
    "baggage_belt": "1",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN385",
@@ -672,7 +672,7 @@
    "baggage_belt": "3",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN415",
@@ -684,7 +684,7 @@
    "baggage_belt": "2",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN618",
@@ -696,7 +696,7 @@
    "baggage_belt": "5",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN920",
@@ -708,7 +708,7 @@
    "baggage_belt": "4",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN258",
@@ -720,7 +720,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN262",
@@ -732,7 +732,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN220",
@@ -744,7 +744,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN842",
@@ -756,7 +756,7 @@
    "baggage_belt": "1",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN680",
@@ -768,7 +768,7 @@
    "baggage_belt": "4",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN260",
@@ -780,7 +780,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN1548",
@@ -792,7 +792,7 @@
    "baggage_belt": "6",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN224",
@@ -804,7 +804,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN616",
@@ -816,7 +816,7 @@
    "baggage_belt": "2",
    "terminal": "T2",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN256",
@@ -828,7 +828,7 @@
    "baggage_belt": "5",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN7224",
@@ -840,7 +840,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN270",
@@ -852,7 +852,7 @@
    "baggage_belt": "4",
    "terminal": "T1",
    "status": "ARR",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.525Z"
   },
   {
    "flight_no": "VN205",
@@ -865,7 +865,7 @@
    "boarding_time": "04:20",
    "gate_close_time": "04:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1541",
@@ -878,7 +878,7 @@
    "boarding_time": "05:15",
    "gate_close_time": "05:40",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN243",
@@ -891,7 +891,7 @@
    "boarding_time": "05:20",
    "gate_close_time": "05:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN157",
@@ -904,7 +904,7 @@
    "boarding_time": "05:20",
    "gate_close_time": "05:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.868Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN161",
@@ -917,7 +917,7 @@
    "boarding_time": "06:00",
    "gate_close_time": "06:25",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1201",
@@ -930,7 +930,7 @@
    "boarding_time": "06:05",
    "gate_close_time": "06:30",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN207",
@@ -943,7 +943,7 @@
    "boarding_time": "06:20",
    "gate_close_time": "06:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1573",
@@ -956,7 +956,7 @@
    "boarding_time": "06:15",
    "gate_close_time": "06:40",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1715",
@@ -969,7 +969,7 @@
    "boarding_time": "06:25",
    "gate_close_time": "06:50",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1237",
@@ -982,7 +982,7 @@
    "boarding_time": "06:25",
    "gate_close_time": "06:50",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1603",
@@ -995,7 +995,7 @@
    "boarding_time": "06:30",
    "gate_close_time": "06:55",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1615",
@@ -1008,7 +1008,7 @@
    "boarding_time": "06:35",
    "gate_close_time": "07:00",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN584",
@@ -1021,7 +1021,7 @@
    "boarding_time": "06:50",
    "gate_close_time": "07:15",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN661",
@@ -1034,7 +1034,7 @@
    "boarding_time": "07:25",
    "gate_close_time": "07:50",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN245",
@@ -1047,7 +1047,7 @@
    "boarding_time": "07:20",
    "gate_close_time": "07:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN163",
@@ -1060,7 +1060,7 @@
    "boarding_time": "07:25",
    "gate_close_time": "07:50",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN576",
@@ -1073,7 +1073,7 @@
    "boarding_time": "07:55",
    "gate_close_time": "08:20",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN338",
@@ -1086,7 +1086,7 @@
    "boarding_time": "07:50",
    "gate_close_time": "08:15",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1543",
@@ -1099,7 +1099,7 @@
    "boarding_time": "08:10",
    "gate_close_time": "08:35",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN384",
@@ -1112,7 +1112,7 @@
    "boarding_time": "07:55",
    "gate_close_time": "08:20",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1591",
@@ -1125,7 +1125,7 @@
    "boarding_time": "08:00",
    "gate_close_time": "08:25",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN611",
@@ -1138,7 +1138,7 @@
    "boarding_time": "08:25",
    "gate_close_time": "08:50",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN209",
@@ -1151,7 +1151,7 @@
    "boarding_time": "08:20",
    "gate_close_time": "08:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN779",
@@ -1164,7 +1164,7 @@
    "boarding_time": "08:35",
    "gate_close_time": "09:00",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN921",
@@ -1177,7 +1177,7 @@
    "boarding_time": "08:45",
    "gate_close_time": "09:10",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN530",
@@ -1190,7 +1190,7 @@
    "boarding_time": "09:10",
    "gate_close_time": "09:35",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1553",
@@ -1203,7 +1203,7 @@
    "boarding_time": "09:15",
    "gate_close_time": "09:40",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN247",
@@ -1216,7 +1216,7 @@
    "boarding_time": "09:20",
    "gate_close_time": "09:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN165",
@@ -1229,7 +1229,7 @@
    "boarding_time": "09:15",
    "gate_close_time": "09:40",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN159",
@@ -1242,7 +1242,7 @@
    "boarding_time": "09:35",
    "gate_close_time": "10:00",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1233",
@@ -1255,7 +1255,7 @@
    "boarding_time": "09:50",
    "gate_close_time": "10:15",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN532",
@@ -1268,7 +1268,7 @@
    "boarding_time": "09:30",
    "gate_close_time": "09:55",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN414",
@@ -1281,7 +1281,7 @@
    "boarding_time": "09:55",
    "gate_close_time": "10:20",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN592",
@@ -1294,7 +1294,7 @@
    "boarding_time": "09:55",
    "gate_close_time": "10:20",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN167",
@@ -1307,7 +1307,7 @@
    "boarding_time": "09:55",
    "gate_close_time": "10:20",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN663",
@@ -1320,7 +1320,7 @@
    "boarding_time": "10:10",
    "gate_close_time": "10:35",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN169",
@@ -1333,7 +1333,7 @@
    "boarding_time": "10:35",
    "gate_close_time": "11:00",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN211",
@@ -1346,7 +1346,7 @@
    "boarding_time": "10:20",
    "gate_close_time": "10:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1239",
@@ -1359,7 +1359,7 @@
    "boarding_time": "10:40",
    "gate_close_time": "11:05",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1623",
@@ -1372,7 +1372,7 @@
    "boarding_time": "11:00",
    "gate_close_time": "11:25",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1575",
@@ -1385,7 +1385,7 @@
    "boarding_time": "11:20",
    "gate_close_time": "11:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1203",
@@ -1398,7 +1398,7 @@
    "boarding_time": "11:20",
    "gate_close_time": "11:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1651",
@@ -1411,7 +1411,7 @@
    "boarding_time": "11:20",
    "gate_close_time": "11:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN251",
@@ -1424,7 +1424,7 @@
    "boarding_time": "11:20",
    "gate_close_time": "11:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN615",
@@ -1437,7 +1437,7 @@
    "boarding_time": "11:55",
    "gate_close_time": "12:20",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN506",
@@ -1450,7 +1450,7 @@
    "boarding_time": "12:00",
    "gate_close_time": "12:25",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN931",
@@ -1463,7 +1463,7 @@
    "boarding_time": "12:00",
    "gate_close_time": "12:25",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN171",
@@ -1476,7 +1476,7 @@
    "boarding_time": "12:05",
    "gate_close_time": "12:30",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN213",
@@ -1489,7 +1489,7 @@
    "boarding_time": "12:20",
    "gate_close_time": "12:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN7573",
@@ -1502,7 +1502,7 @@
    "boarding_time": "12:50",
    "gate_close_time": "13:15",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1577",
@@ -1515,7 +1515,7 @@
    "boarding_time": "12:55",
    "gate_close_time": "13:20",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN253",
@@ -1528,7 +1528,7 @@
    "boarding_time": "13:20",
    "gate_close_time": "13:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1804",
@@ -1541,7 +1541,7 @@
    "boarding_time": "13:30",
    "gate_close_time": "13:55",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN175",
@@ -1554,7 +1554,7 @@
    "boarding_time": "14:00",
    "gate_close_time": "14:25",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN681",
@@ -1567,7 +1567,7 @@
    "boarding_time": "14:10",
    "gate_close_time": "14:35",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN215",
@@ -1580,7 +1580,7 @@
    "boarding_time": "14:20",
    "gate_close_time": "14:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN837",
@@ -1593,7 +1593,7 @@
    "boarding_time": "14:35",
    "gate_close_time": "15:00",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1559",
@@ -1606,7 +1606,7 @@
    "boarding_time": "14:45",
    "gate_close_time": "15:10",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN249",
@@ -1619,7 +1619,7 @@
    "boarding_time": "14:50",
    "gate_close_time": "15:15",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN619",
@@ -1632,7 +1632,7 @@
    "boarding_time": "15:05",
    "gate_close_time": "15:30",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1207",
@@ -1645,7 +1645,7 @@
    "boarding_time": "15:10",
    "gate_close_time": "15:35",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN269",
@@ -1658,7 +1658,7 @@
    "boarding_time": "15:20",
    "gate_close_time": "15:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN273",
@@ -1671,7 +1671,7 @@
    "boarding_time": "15:20",
    "gate_close_time": "15:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN179",
@@ -1684,7 +1684,7 @@
    "boarding_time": "15:35",
    "gate_close_time": "16:00",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN181",
@@ -1697,7 +1697,7 @@
    "boarding_time": "15:40",
    "gate_close_time": "16:05",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1545",
@@ -1710,7 +1710,7 @@
    "boarding_time": "15:50",
    "gate_close_time": "16:15",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN177",
@@ -1723,7 +1723,7 @@
    "boarding_time": "16:00",
    "gate_close_time": "16:25",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1717",
@@ -1736,7 +1736,7 @@
    "boarding_time": "16:10",
    "gate_close_time": "16:35",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN217",
@@ -1749,7 +1749,7 @@
    "boarding_time": "16:20",
    "gate_close_time": "16:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN187",
@@ -1762,7 +1762,7 @@
    "boarding_time": "16:25",
    "gate_close_time": "16:50",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN578",
@@ -1775,7 +1775,7 @@
    "boarding_time": "16:50",
    "gate_close_time": "17:15",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN969",
@@ -1788,7 +1788,7 @@
    "boarding_time": "16:55",
    "gate_close_time": "17:20",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN973",
@@ -1801,7 +1801,7 @@
    "boarding_time": "17:00",
    "gate_close_time": "17:25",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN843",
@@ -1814,7 +1814,7 @@
    "boarding_time": "17:20",
    "gate_close_time": "17:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN275",
@@ -1827,7 +1827,7 @@
    "boarding_time": "17:20",
    "gate_close_time": "17:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN259",
@@ -1840,7 +1840,7 @@
    "boarding_time": "17:20",
    "gate_close_time": "17:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN183",
@@ -1853,7 +1853,7 @@
    "boarding_time": "17:25",
    "gate_close_time": "17:50",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1563",
@@ -1866,7 +1866,7 @@
    "boarding_time": "17:50",
    "gate_close_time": "18:15",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN586",
@@ -1879,7 +1879,7 @@
    "boarding_time": "18:00",
    "gate_close_time": "18:25",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN617",
@@ -1892,7 +1892,7 @@
    "boarding_time": "18:10",
    "gate_close_time": "18:35",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN983",
@@ -1905,7 +1905,7 @@
    "boarding_time": "18:10",
    "gate_close_time": "18:35",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN219",
@@ -1918,7 +1918,7 @@
    "boarding_time": "18:20",
    "gate_close_time": "18:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN185",
@@ -1931,7 +1931,7 @@
    "boarding_time": "19:05",
    "gate_close_time": "19:30",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN263",
@@ -1944,7 +1944,7 @@
    "boarding_time": "19:20",
    "gate_close_time": "19:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN283",
@@ -1957,7 +1957,7 @@
    "boarding_time": "19:20",
    "gate_close_time": "19:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN1549",
@@ -1970,7 +1970,7 @@
    "boarding_time": "19:20",
    "gate_close_time": "19:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN7221",
@@ -1983,7 +1983,7 @@
    "boarding_time": "19:20",
    "gate_close_time": "19:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN265",
@@ -1996,7 +1996,7 @@
    "boarding_time": "19:50",
    "gate_close_time": "20:15",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN195",
@@ -2009,7 +2009,7 @@
    "boarding_time": "19:50",
    "gate_close_time": "20:15",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN193",
@@ -2022,7 +2022,7 @@
    "boarding_time": "20:00",
    "gate_close_time": "20:25",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN221",
@@ -2035,7 +2035,7 @@
    "boarding_time": "20:20",
    "gate_close_time": "20:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN267",
@@ -2048,7 +2048,7 @@
    "boarding_time": "21:20",
    "gate_close_time": "21:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN289",
@@ -2061,7 +2061,7 @@
    "boarding_time": "21:50",
    "gate_close_time": "22:15",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN643",
@@ -2074,7 +2074,7 @@
    "boarding_time": "22:10",
    "gate_close_time": "22:35",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN37",
@@ -2087,7 +2087,7 @@
    "boarding_time": "22:45",
    "gate_close_time": "23:10",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN416",
@@ -2100,7 +2100,7 @@
    "boarding_time": "22:55",
    "gate_close_time": "23:20",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN787",
@@ -2113,7 +2113,7 @@
    "boarding_time": "22:55",
    "gate_close_time": "23:20",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN19",
@@ -2126,7 +2126,7 @@
    "boarding_time": "23:00",
    "gate_close_time": "23:25",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN330",
@@ -2139,7 +2139,7 @@
    "boarding_time": "23:35",
    "gate_close_time": "00:00",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN647",
@@ -2152,7 +2152,7 @@
    "boarding_time": "23:40",
    "gate_close_time": "00:05",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN346",
@@ -2165,7 +2165,7 @@
    "boarding_time": "23:40",
    "gate_close_time": "00:05",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN348",
@@ -2178,7 +2178,7 @@
    "boarding_time": "23:45",
    "gate_close_time": "00:10",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN310",
@@ -2191,7 +2191,7 @@
    "boarding_time": "23:45",
    "gate_close_time": "00:10",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN428",
@@ -2204,7 +2204,7 @@
    "boarding_time": "23:45",
    "gate_close_time": "00:10",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN334",
@@ -2217,7 +2217,7 @@
    "boarding_time": "00:20",
    "gate_close_time": "00:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN426",
@@ -2230,7 +2230,7 @@
    "boarding_time": "00:20",
    "gate_close_time": "00:45",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN55",
@@ -2243,7 +2243,7 @@
    "boarding_time": "00:25",
    "gate_close_time": "00:50",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN73",
@@ -2256,7 +2256,7 @@
    "boarding_time": "00:45",
    "gate_close_time": "01:10",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   },
   {
    "flight_no": "VN356",
@@ -2269,7 +2269,7 @@
    "boarding_time": "01:10",
    "gate_close_time": "01:35",
    "status": "SCH",
-   "updated_at": "2026-11-17T11:20:31.869Z"
+   "updated_at": "2026-11-17T11:42:10.526Z"
   }
  ]
 }

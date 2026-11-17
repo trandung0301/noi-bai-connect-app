@@ -232,5 +232,18 @@
   "map_x": "",
   "map_y": "",
   "image": ""
+ },
+ {
+  "code": "visa-app",
+  "name_vi": "Thủ tục visa điểm đến",
+  "name_en": "Visa application",
+  "terminal": "t2",
+  "floor": "2",
+  "desc_vi": "Trước khi nhập cảnh đổi với các khách cần lấy visa điểm đến hoặc làm các thủ tục khác liên quan đến công an cửa khẩu.",
+  "desc_en": "",
+  "hours": "",
+  "map_x": "",
+  "map_y": "",
+  "image": ""
  }
 ]

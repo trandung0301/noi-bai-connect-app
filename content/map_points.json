@@ -445,7 +445,7 @@
   "label_en": "Immigration",
   "desc_vi": "Bục kiểm soát của Công an cửa khẩu. Sau đó đi thang xuống tầng 1.",
   "desc_en": "Border police immigration counters. Then take the stairs/escalator down to Level 1.",
-  "image": "",
+  "image": "t2-arrival.jpg",
   "map_x": "50.03",
   "map_y": "34.35",
   "path": "50.03,15.65; 50.03,34.35",
