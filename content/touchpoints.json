@@ -1,8 +1,8 @@
 [
  {
   "code": "gate-arrival",
-  "name_vi": "Hành lang ga đến / bục hỗ trợ nối chuyến",
-  "name_en": "Arrivals corridor / transit support podium",
+  "name_vi": "Khu vực nhập cảnh, nối chuyến",
+  "name_en": "Immigration & transfer area",
   "terminal": "T2",
   "floor": "2",
   "desc_vi": "Sau ống lồng đi theo hành lang ga đến tầng 2; có bục hỗ trợ nối chuyến của Vietnam Airlines",
