@@ -4,34 +4,54 @@
   "value": "15",
   "unit": "phút",
   "desc_vi": "Cửa lên tàu đóng trước giờ khởi hành",
-  "source": "II.html (bản cũ) – cần đối chiếu PHM"
+  "source": "II.html (bản cũ) – cần đối chiếu PHM",
+  "desc_en": "Boarding gate closes before departure",
+  "desc_zh": "登机口在起飞前关闭",
+  "desc_ja": "搭乗ゲートは出発前に閉まります",
+  "desc_ko": "탑승구는 출발 전에 마감됩니다"
  },
  {
   "key": "boarding_before_departure",
   "value": "[__]",
   "unit": "phút",
   "desc_vi": "Bắt đầu lên tàu trước giờ khởi hành",
-  "source": ""
+  "source": "",
+  "desc_en": "Boarding starts before departure",
+  "desc_zh": "起飞前开始登机",
+  "desc_ja": "出発前に搭乗開始",
+  "desc_ko": "출발 전에 탑승 시작"
  },
  {
   "key": "flight_data_max_age",
   "value": "60",
   "unit": "giây",
   "desc_vi": "Dữ liệu chuyến bay cũ hơn mức này thì hiện \"xem màn hình FIDS\"",
-  "source": ""
+  "source": "",
+  "desc_en": "If flight data is older than this, show \"check the FIDS screen\"",
+  "desc_zh": "航班数据超过此时限则显示“请查看航班信息显示屏”",
+  "desc_ja": "フライトデータがこれより古い場合は「FIDS画面をご確認ください」と表示",
+  "desc_ko": "항공편 데이터가 이 시간보다 오래되면 “FIDS 화면을 확인하세요” 표시"
  },
  {
   "key": "shuttle_hours",
   "value": "05:00-01:30",
   "unit": "",
   "desc_vi": "Giờ chạy xe buýt nối T1–T2",
-  "source": "DI.html (bản cũ)"
+  "source": "DI.html (bản cũ)",
+  "desc_en": "T1–T2 shuttle bus operating hours",
+  "desc_zh": "T1–T2接驳巴士运营时间",
+  "desc_ja": "T1–T2間シャトルバスの運行時間",
+  "desc_ko": "T1–T2 셔틀버스 운행 시간"
  },
  {
   "key": "shuttle_interval",
   "value": "15-20",
   "unit": "phút",
   "desc_vi": "Tần suất xe buýt nối",
-  "source": "DI.html (bản cũ)"
+  "source": "DI.html (bản cũ)",
+  "desc_en": "T1–T2 shuttle bus frequency",
+  "desc_zh": "T1–T2接驳巴士发车间隔",
+  "desc_ja": "T1–T2間シャトルバスの運行間隔",
+  "desc_ko": "T1–T2 셔틀버스 배차 간격"
  }
 ]

@@ -13,7 +13,10 @@
   "gate_w": "",
   "gate_h": "",
   "gate_elbow": "",
-  "khung_rong": ""
+  "khung_rong": "",
+  "title_zh": "T1到达大厅 – 1层",
+  "title_ja": "T1 到着ロビー – 1階",
+  "title_ko": "T1 도착 홀 – 1층"
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -29,7 +32,10 @@
   "gate_w": "100",
   "gate_h": "42.19",
   "gate_elbow": "",
-  "khung_rong": ""
+  "khung_rong": "",
+  "title_zh": "T1 → T2 航站楼 · 全程",
+  "title_ja": "ターミナル1 → ターミナル2 · 全経路",
+  "title_ko": "터미널 1 → 터미널 2 · 전체 경로"
  },
  {
   "route_code": "ii-arrival__gate",
@@ -45,7 +51,10 @@
   "gate_w": "",
   "gate_h": "",
   "gate_elbow": "",
-  "khung_rong": ""
+  "khung_rong": "",
+  "title_zh": "入境 – 中转区域",
+  "title_ja": "入国・乗り継ぎエリア",
+  "title_ko": "입국·환승 구역"
  },
  {
   "route_code": "t2-arrival__exit",
@@ -61,7 +70,10 @@
   "gate_w": "",
   "gate_h": "",
   "gate_elbow": "",
-  "khung_rong": ""
+  "khung_rong": "",
+  "title_zh": "T2国际到达 · 2层 → 1层",
+  "title_ja": "T2 国際線到着 · 2階 → 1階",
+  "title_ko": "T2 국제선 도착 · 2층 → 1층"
  },
  {
   "route_code": "ii-arrival__gate",
@@ -77,7 +89,10 @@
   "gate_w": "",
   "gate_h": "",
   "gate_elbow": "",
-  "khung_rong": ""
+  "khung_rong": "",
+  "title_zh": "3层 · 出发大厅 · 安检与登机口",
+  "title_ja": "3階 · 出発ロビー · 保安検査と搭乗口",
+  "title_ko": "3층 · 출발 홀 · 보안 검색과 탑승구"
  },
  {
   "route_code": "id-arrival__t1",
@@ -93,7 +108,10 @@
   "gate_w": "95.6",
   "gate_h": "43.29",
   "gate_elbow": "hv",
-  "khung_rong": ""
+  "khung_rong": "",
+  "title_zh": "T2 → T1 航站楼 · 全程",
+  "title_ja": "ターミナル2 → ターミナル1 · 全経路",
+  "title_ko": "터미널 2 → 터미널 1 · 전체 경로"
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -109,7 +127,10 @@
   "gate_w": "",
   "gate_h": "",
   "gate_elbow": "",
-  "khung_rong": ""
+  "khung_rong": "",
+  "title_zh": "1层 · T1到达大厅（服务台与电梯）",
+  "title_ja": "1階 · T1 到着ロビー（サポートデスクとエレベーター）",
+  "title_ko": "1층 · T1 도착 홀(지원 데스크와 엘리베이터)"
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -125,6 +146,9 @@
   "gate_w": "",
   "gate_h": "",
   "gate_elbow": "hv",
-  "khung_rong": "90"
+  "khung_rong": "90",
+  "title_zh": "2层 · T1出发大厅 · 安检与登机口",
+  "title_ja": "2階 · T1 出発ロビー · 保安検査と搭乗口",
+  "title_ko": "2층 · T1 출발 홀 · 보안 검색과 탑승구"
  }
 ]

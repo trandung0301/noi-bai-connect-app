@@ -100,7 +100,7 @@
   "terminal": "T2",
   "order": "6",
   "label_vi": "Đi phòng chờ Thương gia",
-  "label_en": "Business lounge",
+  "label_en": "Go to the business lounge",
   "sub_vi": "Lotus Lounge, tầng 3",
   "sub_en": "Lotus Lounge, level 3",
   "route_code": "t2-security__lounge",

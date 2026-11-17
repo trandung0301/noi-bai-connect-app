@@ -10,7 +10,17 @@
   "image": "checkin-island-b-kiosk-01.jpg",
   "applies_to": "T2 tầng 3, đảo B",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "在自助值机机办理值机 – T2航站楼",
+  "title_ja": "キオスクでチェックイン – ターミナル2",
+  "title_ko": "키오스크 체크인 – 터미널 2",
+  "instruction_zh": "[选择语言，扫描护照或输入订座代码]",
+  "instruction_ja": "[言語を選択し、パスポートをスキャンするか予約番号を入力]",
+  "instruction_ko": "[언어를 선택하고 여권을 스캔하거나 예약 번호를 입력]",
+  "applies_to_en": "T2, Level 3, island B",
+  "applies_to_zh": "T2航站楼3层，B岛",
+  "applies_to_ja": "T2 3階、アイランドB",
+  "applies_to_ko": "T2 3층, B 아일랜드"
  },
  {
   "guide_code": "kiosk-t2",
@@ -23,7 +33,17 @@
   "image": "",
   "applies_to": "",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "",
+  "title_ja": "",
+  "title_ko": "",
+  "instruction_zh": "[确认行程，选择座位，申报行李]",
+  "instruction_ja": "[旅程を確認し、座席を選択、手荷物を申告]",
+  "instruction_ko": "[여정을 확인하고 좌석을 선택한 후 수하물 신고]",
+  "applies_to_en": "",
+  "applies_to_zh": "",
+  "applies_to_ja": "",
+  "applies_to_ko": ""
  },
  {
   "guide_code": "kiosk-t2",
@@ -36,7 +56,17 @@
   "image": "",
   "applies_to": "",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "",
+  "title_ja": "",
+  "title_ko": "",
+  "instruction_zh": "[打印登机牌和行李牌]",
+  "instruction_ja": "[搭乗券と手荷物タグを印刷]",
+  "instruction_ko": "[탑승권과 수하물 태그 출력]",
+  "applies_to_en": "",
+  "applies_to_zh": "",
+  "applies_to_ja": "",
+  "applies_to_ko": ""
  },
  {
   "guide_code": "kiosk-t2",
@@ -49,7 +79,17 @@
   "image": "",
   "applies_to": "",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "",
+  "title_ja": "",
+  "title_ko": "",
+  "instruction_zh": "[无法使用自助机的情况：无成人陪伴儿童、特殊旅客、需核查签证等 → 请前往柜台]",
+  "instruction_ja": "[キオスクを利用できない場合：ひとり旅の子ども、特別支援が必要なお客様、ビザの確認が必要な場合など → カウンターへ]",
+  "instruction_ko": "[키오스크를 이용할 수 없는 경우: 동반자 없는 어린이, 특별 지원 승객, 비자 확인이 필요한 경우 등 → 카운터로 이동]",
+  "applies_to_en": "",
+  "applies_to_zh": "",
+  "applies_to_ja": "",
+  "applies_to_ko": ""
  },
  {
   "guide_code": "dropbag-t2",
@@ -62,7 +102,17 @@
   "image": "",
   "applies_to": "T2 tầng 3, đảo […]",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "在自助行李托运柜台托运行李 – T2航站楼",
+  "title_ja": "バッグドロップカウンターで手荷物を預ける – ターミナル2",
+  "title_ko": "백드롭 카운터 수하물 위탁 – 터미널 2",
+  "instruction_zh": "[系好已打印的行李牌；检查重量 ≤ … 公斤]",
+  "instruction_ja": "[印刷した手荷物タグを取り付け、重量が … kg 以下であることを確認]",
+  "instruction_ko": "[출력한 수하물 태그를 부착하고 무게가 … kg 이하인지 확인]",
+  "applies_to_en": "T2, Level 3, island […]",
+  "applies_to_zh": "T2航站楼3层，[…]岛",
+  "applies_to_ja": "T2 3階、アイランド[…]",
+  "applies_to_ko": "T2 3층, […] 아일랜드"
  },
  {
   "guide_code": "dropbag-t2",
@@ -75,7 +125,17 @@
   "image": "",
   "applies_to": "",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "",
+  "title_ja": "",
+  "title_ko": "",
+  "instruction_zh": "[在柜台扫描登机牌，将行李放上传送带]",
+  "instruction_ja": "[カウンターで搭乗券をスキャンし、手荷物をベルトに載せる]",
+  "instruction_ko": "[카운터에서 탑승권을 스캔하고 수하물을 벨트에 올림]",
+  "applies_to_en": "",
+  "applies_to_zh": "",
+  "applies_to_ja": "",
+  "applies_to_ko": ""
  },
  {
   "guide_code": "dropbag-t2",
@@ -88,7 +148,17 @@
   "image": "",
   "applies_to": "",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "",
+  "title_ja": "",
+  "title_ko": "",
+  "instruction_zh": "[领取行李收据；柜台在起飞前 … 分钟关闭]",
+  "instruction_ja": "[手荷物の引換証を受け取る。カウンターは出発の … 分前に閉まります]",
+  "instruction_ko": "[수하물 영수증을 받으세요. 카운터는 출발 … 분 전에 마감됩니다]",
+  "applies_to_en": "",
+  "applies_to_zh": "",
+  "applies_to_ja": "",
+  "applies_to_ko": ""
  },
  {
   "guide_code": "counter-t2",
@@ -101,7 +171,17 @@
   "image": "checkin-islands-01.jpg",
   "applies_to": "T2 tầng 3, đảo A, B, C",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "在柜台办理值机 – T2航站楼",
+  "title_ja": "カウンターでチェックイン – ターミナル2",
+  "title_ko": "카운터 체크인 – 터미널 2",
+  "instruction_zh": "[请查看信息显示屏，确认您航班的值机柜台]",
+  "instruction_ja": "[案内表示板でご搭乗便のカウンターをご確認ください]",
+  "instruction_ko": "[안내 전광판에서 해당 항공편의 카운터를 확인하세요]",
+  "applies_to_en": "T2, Level 3, islands A, B, C",
+  "applies_to_zh": "T2航站楼3层，A、B、C岛",
+  "applies_to_ja": "T2 3階、アイランドA・B・C",
+  "applies_to_ko": "T2 3층, A·B·C 아일랜드"
  },
  {
   "guide_code": "counter-t2",
@@ -114,7 +194,17 @@
   "image": "",
   "applies_to": "",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "",
+  "title_ja": "",
+  "title_ko": "",
+  "instruction_zh": "[请在正确的队列排队：商务舱 / 经济舱 / 会员]",
+  "instruction_ja": "[正しいレーンに並ぶ：ビジネス / エコノミー / 会員]",
+  "instruction_ko": "[올바른 줄에 서세요: 비즈니스 / 일반석 / 회원]",
+  "applies_to_en": "",
+  "applies_to_zh": "",
+  "applies_to_ja": "",
+  "applies_to_ko": ""
  },
  {
   "guide_code": "counter-t2",
@@ -127,7 +217,17 @@
   "image": "",
   "applies_to": "",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "",
+  "title_ja": "",
+  "title_ko": "",
+  "instruction_zh": "[备好护照/身份证、订座代码；将行李放上秤]",
+  "instruction_ja": "[パスポート/身分証と予約番号を準備し、手荷物を計量台に載せる]",
+  "instruction_ko": "[여권/신분증과 예약 번호를 준비하고 수하물을 저울에 올림]",
+  "applies_to_en": "",
+  "applies_to_zh": "",
+  "applies_to_ja": "",
+  "applies_to_ko": ""
  },
  {
   "guide_code": "counter-t2",
@@ -140,7 +240,17 @@
   "image": "",
   "applies_to": "",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "",
+  "title_ja": "",
+  "title_ko": "",
+  "instruction_zh": "[领取登机牌和行李收据；柜台在起飞前 … 分钟关闭]",
+  "instruction_ja": "[搭乗券と手荷物の引換証を受け取る。カウンターは出発の … 分前に閉まります]",
+  "instruction_ko": "[탑승권과 수하물 영수증을 받으세요. 카운터는 출발 … 분 전에 마감됩니다]",
+  "applies_to_en": "",
+  "applies_to_zh": "",
+  "applies_to_ja": "",
+  "applies_to_ko": ""
  },
  {
   "guide_code": "kiosk-t1",
@@ -153,7 +263,17 @@
   "image": "",
   "applies_to": "T1 tầng 2, […]",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "在自助值机机办理值机 – T1航站楼",
+  "title_ja": "キオスクでチェックイン – ターミナル1",
+  "title_ko": "키오스크 체크인 – 터미널 1",
+  "instruction_zh": "[选择语言，扫描护照或输入订座代码]",
+  "instruction_ja": "[言語を選択し、パスポートをスキャンするか予約番号を入力]",
+  "instruction_ko": "[언어를 선택하고 여권을 스캔하거나 예약 번호를 입력]",
+  "applies_to_en": "T1, Level 2, […]",
+  "applies_to_zh": "T1航站楼2层，[…]",
+  "applies_to_ja": "T1 2階、[…]",
+  "applies_to_ko": "T1 2층, […]"
  },
  {
   "guide_code": "kiosk-t1",
@@ -166,7 +286,17 @@
   "image": "",
   "applies_to": "",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "",
+  "title_ja": "",
+  "title_ko": "",
+  "instruction_zh": "[确认行程，选择座位，申报行李]",
+  "instruction_ja": "[旅程を確認し、座席を選択、手荷物を申告]",
+  "instruction_ko": "[여정을 확인하고 좌석을 선택한 후 수하물 신고]",
+  "applies_to_en": "",
+  "applies_to_zh": "",
+  "applies_to_ja": "",
+  "applies_to_ko": ""
  },
  {
   "guide_code": "kiosk-t1",
@@ -179,7 +309,17 @@
   "image": "",
   "applies_to": "",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "",
+  "title_ja": "",
+  "title_ko": "",
+  "instruction_zh": "[打印登机牌和行李牌]",
+  "instruction_ja": "[搭乗券と手荷物タグを印刷]",
+  "instruction_ko": "[탑승권과 수하물 태그 출력]",
+  "applies_to_en": "",
+  "applies_to_zh": "",
+  "applies_to_ja": "",
+  "applies_to_ko": ""
  },
  {
   "guide_code": "kiosk-t1",
@@ -192,7 +332,17 @@
   "image": "",
   "applies_to": "",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "",
+  "title_ja": "",
+  "title_ko": "",
+  "instruction_zh": "[无法使用自助机的情况：无成人陪伴儿童、特殊旅客、需核查签证等 → 请前往柜台]",
+  "instruction_ja": "[キオスクを利用できない場合：ひとり旅の子ども、特別支援が必要なお客様、ビザの確認が必要な場合など → カウンターへ]",
+  "instruction_ko": "[키오스크를 이용할 수 없는 경우: 동반자 없는 어린이, 특별 지원 승객, 비자 확인이 필요한 경우 등 → 카운터로 이동]",
+  "applies_to_en": "",
+  "applies_to_zh": "",
+  "applies_to_ja": "",
+  "applies_to_ko": ""
  },
  {
   "guide_code": "dropbag-t1",
@@ -205,7 +355,17 @@
   "image": "",
   "applies_to": "T1 tầng 2, […]",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "在自助行李托运柜台托运行李 – T1航站楼",
+  "title_ja": "バッグドロップカウンターで手荷物を預ける – ターミナル1",
+  "title_ko": "백드롭 카운터 수하물 위탁 – 터미널 1",
+  "instruction_zh": "[系好已打印的行李牌；检查重量 ≤ … 公斤]",
+  "instruction_ja": "[印刷した手荷物タグを取り付け、重量が … kg 以下であることを確認]",
+  "instruction_ko": "[출력한 수하물 태그를 부착하고 무게가 … kg 이하인지 확인]",
+  "applies_to_en": "T1, Level 2, […]",
+  "applies_to_zh": "T1航站楼2层，[…]",
+  "applies_to_ja": "T1 2階、[…]",
+  "applies_to_ko": "T1 2층, […]"
  },
  {
   "guide_code": "dropbag-t1",
@@ -218,7 +378,17 @@
   "image": "",
   "applies_to": "",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "",
+  "title_ja": "",
+  "title_ko": "",
+  "instruction_zh": "[在柜台扫描登机牌，将行李放上传送带]",
+  "instruction_ja": "[カウンターで搭乗券をスキャンし、手荷物をベルトに載せる]",
+  "instruction_ko": "[카운터에서 탑승권을 스캔하고 수하물을 벨트에 올림]",
+  "applies_to_en": "",
+  "applies_to_zh": "",
+  "applies_to_ja": "",
+  "applies_to_ko": ""
  },
  {
   "guide_code": "dropbag-t1",
@@ -231,7 +401,17 @@
   "image": "",
   "applies_to": "",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "",
+  "title_ja": "",
+  "title_ko": "",
+  "instruction_zh": "[领取行李收据；柜台在起飞前 … 分钟关闭]",
+  "instruction_ja": "[手荷物の引換証を受け取る。カウンターは出発の … 分前に閉まります]",
+  "instruction_ko": "[수하물 영수증을 받으세요. 카운터는 출발 … 분 전에 마감됩니다]",
+  "applies_to_en": "",
+  "applies_to_zh": "",
+  "applies_to_ja": "",
+  "applies_to_ko": ""
  },
  {
   "guide_code": "counter-t1",
@@ -244,7 +424,17 @@
   "image": "",
   "applies_to": "T1 tầng 2, đảo […]",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "在柜台办理值机 – T1航站楼",
+  "title_ja": "カウンターでチェックイン – ターミナル1",
+  "title_ko": "카운터 체크인 – 터미널 1",
+  "instruction_zh": "[请查看信息显示屏，确认您航班的值机柜台]",
+  "instruction_ja": "[案内表示板でご搭乗便のカウンターをご確認ください]",
+  "instruction_ko": "[안내 전광판에서 해당 항공편의 카운터를 확인하세요]",
+  "applies_to_en": "T1, Level 2, island […]",
+  "applies_to_zh": "T1航站楼2层，[…]岛",
+  "applies_to_ja": "T1 2階、アイランド[…]",
+  "applies_to_ko": "T1 2층, […] 아일랜드"
  },
  {
   "guide_code": "counter-t1",
@@ -257,7 +447,17 @@
   "image": "",
   "applies_to": "",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "",
+  "title_ja": "",
+  "title_ko": "",
+  "instruction_zh": "[请在正确的队列排队：商务舱 / 经济舱 / 会员]",
+  "instruction_ja": "[正しいレーンに並ぶ：ビジネス / エコノミー / 会員]",
+  "instruction_ko": "[올바른 줄에 서세요: 비즈니스 / 일반석 / 회원]",
+  "applies_to_en": "",
+  "applies_to_zh": "",
+  "applies_to_ja": "",
+  "applies_to_ko": ""
  },
  {
   "guide_code": "counter-t1",
@@ -270,7 +470,17 @@
   "image": "",
   "applies_to": "",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "",
+  "title_ja": "",
+  "title_ko": "",
+  "instruction_zh": "[备好护照/身份证、订座代码；将行李放上秤]",
+  "instruction_ja": "[パスポート/身分証と予約番号を準備し、手荷物を計量台に載せる]",
+  "instruction_ko": "[여권/신분증과 예약 번호를 준비하고 수하물을 저울에 올림]",
+  "applies_to_en": "",
+  "applies_to_zh": "",
+  "applies_to_ja": "",
+  "applies_to_ko": ""
  },
  {
   "guide_code": "counter-t1",
@@ -283,6 +493,16 @@
   "image": "",
   "applies_to": "",
   "source": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "",
+  "title_ja": "",
+  "title_ko": "",
+  "instruction_zh": "[领取登机牌和行李收据；柜台在起飞前 … 分钟关闭]",
+  "instruction_ja": "[搭乗券と手荷物の引換証を受け取る。カウンターは出発の … 分前に閉まります]",
+  "instruction_ko": "[탑승권과 수하물 영수증을 받으세요. 카운터는 출발 … 분 전에 마감됩니다]",
+  "applies_to_en": "",
+  "applies_to_zh": "",
+  "applies_to_ja": "",
+  "applies_to_ko": ""
  }
 ]

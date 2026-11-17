@@ -66,7 +66,7 @@
  {
   "key": "home.dest.immigration",
   "vi": "Xuất / nhập cảnh",
-  "en": "Immigration",
+  "en": "Exit / entry immigration",
   "zh": "出入境",
   "ja": "出入国",
   "ko": "출입국"
@@ -194,7 +194,7 @@
  {
   "key": "home.lookup",
   "vi": "Xem",
-  "en": "Look up",
+  "en": "View",
   "zh": "查看",
   "ja": "確認",
   "ko": "확인"
@@ -634,7 +634,7 @@
  {
   "key": "map.zoom",
   "vi": "Phóng to",
-  "en": "Zoom",
+  "en": "Zoom in",
   "zh": "放大",
   "ja": "拡大",
   "ko": "확대"
@@ -642,7 +642,7 @@
  {
   "key": "map.shrink",
   "vi": "Thu nhỏ",
-  "en": "Shrink",
+  "en": "Zoom out",
   "zh": "缩小",
   "ja": "縮小",
   "ko": "축소"
@@ -658,7 +658,7 @@
  {
   "key": "flight.date",
   "vi": "Ngày bay",
-  "en": "Date",
+  "en": "Flight date",
   "zh": "飞行日期",
   "ja": "運航日",
   "ko": "운항일"
@@ -682,7 +682,7 @@
  {
   "key": "flight.counters",
   "vi": "Quầy thủ tục",
-  "en": "Check-in",
+  "en": "Check-in counter",
   "zh": "值机柜台",
   "ja": "チェックインカウンター",
   "ko": "체크인 카운터"
@@ -730,7 +730,7 @@
  {
   "key": "home.other",
   "vi": "Thông tin khác",
-  "en": "More",
+  "en": "Other information",
   "zh": "更多信息",
   "ja": "その他",
   "ko": "더 보기"

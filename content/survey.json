@@ -5,7 +5,13 @@
   "question_en": "Did you find the way you were looking for?",
   "type": "single",
   "options_vi": "Có|Một phần|Không",
-  "options_en": "Yes|Partly|No"
+  "options_en": "Yes|Partly|No",
+  "question_zh": "您找到要找的路了吗？",
+  "question_ja": "お探しの道順は見つかりましたか？",
+  "question_ko": "찾으시던 길을 찾으셨나요?",
+  "options_zh": "是|部分找到|否",
+  "options_ja": "はい|一部|いいえ",
+  "options_ko": "예|일부|아니요"
  },
  {
   "no": "2",
@@ -13,7 +19,13 @@
   "question_en": "Was the information easy to understand?",
   "type": "stars5",
   "options_vi": "",
-  "options_en": ""
+  "options_en": "",
+  "question_zh": "这些信息容易理解吗？",
+  "question_ja": "情報は分かりやすかったですか？",
+  "question_ko": "정보가 이해하기 쉬웠나요?",
+  "options_zh": "",
+  "options_ja": "",
+  "options_ko": ""
  },
  {
   "no": "3",
@@ -21,7 +33,13 @@
   "question_en": "Was the gate / belt information correct?",
   "type": "single",
   "options_vi": "Đúng|Sai|Không dùng",
-  "options_en": "Correct|Wrong|Did not use"
+  "options_en": "Correct|Wrong|Did not use",
+  "question_zh": "登机口 / 行李转盘的信息是否正确？",
+  "question_ja": "搭乗ゲート / ターンテーブルの情報は正確でしたか？",
+  "question_ko": "탑승구 / 수하물 벨트 정보가 정확했나요?",
+  "options_zh": "正确|错误|未使用",
+  "options_ja": "正確|誤り|利用していない",
+  "options_ko": "정확함|틀림|사용 안 함"
  },
  {
   "no": "4",
@@ -29,7 +47,13 @@
   "question_en": "Would you recommend this tool?",
   "type": "nps",
   "options_vi": "",
-  "options_en": ""
+  "options_en": "",
+  "question_zh": "您会向他人推荐这个工具吗？",
+  "question_ja": "このツールを他の人にお勧めしますか？",
+  "question_ko": "이 도구를 다른 사람에게 추천하시겠습니까?",
+  "options_zh": "",
+  "options_ja": "",
+  "options_ko": ""
  },
  {
   "no": "5",
@@ -37,6 +61,12 @@
   "question_en": "What should be improved?",
   "type": "multi",
   "options_vi": "Bản đồ|Ảnh|Ngôn ngữ|Tốc độ|Thông tin chuyến bay|Khác",
-  "options_en": "Map|Photos|Language|Speed|Flight info|Other"
+  "options_en": "Map|Photos|Language|Speed|Flight info|Other",
+  "question_zh": "哪些方面需要改进？",
+  "question_ja": "改善すべき点は何ですか？",
+  "question_ko": "개선이 필요한 점은 무엇인가요?",
+  "options_zh": "地图|照片|语言|速度|航班信息|其他",
+  "options_ja": "マップ|写真|言語|速度|フライト情報|その他",
+  "options_ko": "지도|사진|언어|속도|항공편 정보|기타"
  }
 ]

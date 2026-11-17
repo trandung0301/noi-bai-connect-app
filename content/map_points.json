@@ -16,7 +16,13 @@
   "step_no": "1",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "T1中转服务台",
+  "label_ja": "T1 乗り継ぎサポートデスク",
+  "label_ko": "T1 환승 지원 데스크",
+  "desc_zh": "进入到达大厅后即可看到中转服务台。",
+  "desc_ja": "到着ロビーに入るとすぐ、乗り継ぎサポートデスクがあります。",
+  "desc_ko": "도착 홀에 들어서면 바로 환승 지원 데스크가 있습니다."
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -35,7 +41,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "5号出口 · 前往摆渡车",
+  "label_ja": "出口05 · シャトル乗り場へ",
+  "label_ko": "출구 05 · 셔틀 승차장으로",
+  "desc_zh": "请跟随“出口”标志，从5号出口出去。",
+  "desc_ja": "「出口」の案内に従い、出口05から外へ出てください。",
+  "desc_ko": "“출구” 표지판을 따라 05번 출구로 나가세요."
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -54,7 +66,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "前往T2的摆渡车站",
+  "label_ja": "T2行きシャトルバス乗り場",
+  "label_ko": "T2행 셔틀버스 승차장",
+  "desc_zh": "从5号出口出来，沿车道步行约450米。接驳摆渡车免费。",
+  "desc_ja": "出口05を出て、車線沿いに約450m進みます。乗り継ぎシャトルバスは無料です。",
+  "desc_ko": "05번 출구로 나와 차선을 따라 약 450m 이동하세요. 환승 셔틀버스는 무료입니다."
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -73,7 +91,13 @@
   "step_no": "3",
   "travel": "bus",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "航站楼入口 · D2门",
+  "label_ja": "ターミナル入口 · D2ドア",
+  "label_ko": "터미널 입구 · D2 출입구",
+  "desc_zh": "摆渡车在T2航站楼出发层放客。沿航站楼前行至D2门，进入大楼。",
+  "desc_ja": "シャトルバスはT2ターミナルの出発階で降車します。ターミナルに沿ってD2ドアまで進み、中へお入りください。",
+  "desc_ko": "셔틀버스는 T2 터미널 출발층에서 하차합니다. 터미널을 따라 D2 출입구까지 이동해 안으로 들어가세요."
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -92,7 +116,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "安检点",
+  "label_ja": "保安検査場",
+  "label_ko": "보안 검색대",
+  "desc_zh": "请在T2航站楼3层的安检及出境检查点排队。",
+  "desc_ja": "T2ターミナル3階の保安検査・出国審査場に並んでください。",
+  "desc_ko": "T2 터미널 3층의 보안 검색 및 출국 심사대에서 줄을 서 주세요."
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -111,7 +141,13 @@
   "step_no": "",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "通过安检区域",
+  "label_ja": "保安検査エリアを通過",
+  "label_ko": "보안 구역 통과",
+  "desc_zh": "通过安检和出境检查后，前往候机区。",
+  "desc_ja": "保安検査と出国審査を通過し、搭乗待合エリアへ進みます。",
+  "desc_ko": "보안 검색과 출국 심사를 마치고 탑승 대기 구역으로 이동하세요."
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -130,7 +166,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "请按航班信息显示屏前往登机口 [gate]。",
+  "desc_ja": "フライト情報表示に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "항공편 안내 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -149,7 +191,13 @@
   "step_no": "1",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "B厅入口",
+  "label_ja": "ホールBの入口",
+  "label_ko": "B홀 입구",
+  "desc_zh": "乘自动扶梯下行，跟随“到达B厅”标志。入口在3号行李转盘旁。",
+  "desc_ja": "エスカレーターを降り、「到着ホールB」の案内に従います。入口は3番ターンテーブルの隣です。",
+  "desc_ko": "에스컬레이터로 내려와 “도착 B홀” 표지판을 따라가세요. 입구는 3번 수하물 벨트 옆입니다."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -168,7 +216,13 @@
   "step_no": "1",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "A厅入口",
+  "label_ja": "ホールAの入口",
+  "label_ko": "A홀 입구",
+  "desc_zh": "乘自动扶梯下行，跟随“到达A厅”标志。入口在4号行李转盘旁。",
+  "desc_ja": "エスカレーターを降り、「到着ホールA」の案内に従います。入口は4番ターンテーブルの隣です。",
+  "desc_ko": "에스컬레이터로 내려와 “도착 A홀” 표지판을 따라가세요. 입구는 4번 수하물 벨트 옆입니다."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -187,7 +241,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "请在[belt]号行李转盘等候并领取行李。",
+  "desc_ja": "ターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
+  "desc_ko": "[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -206,7 +266,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "请在[belt]号行李转盘等候并领取行李。",
+  "desc_ja": "ターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
+  "desc_ko": "[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -225,7 +291,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "请在[belt]号行李转盘等候并领取行李。",
+  "desc_ja": "ターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
+  "desc_ko": "[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -244,7 +316,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "请在[belt]号行李转盘等候并领取行李。",
+  "desc_ja": "ターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
+  "desc_ko": "[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -263,7 +341,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "请在[belt]号行李转盘等候并领取行李。",
+  "desc_ja": "ターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
+  "desc_ko": "[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -282,7 +366,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "请在[belt]号行李转盘等候并领取行李。",
+  "desc_ja": "ターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
+  "desc_ko": "[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -301,7 +391,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "B厅出口",
+  "label_ja": "ホールBの出口",
+  "label_ko": "B홀 출구",
+  "desc_zh": "领取行李后，请跟随“出口”标志离开。",
+  "desc_ja": "手荷物を受け取ったら、「出口」の案内に従って外へ出てください。",
+  "desc_ko": "수하물을 찾은 후 “출구” 표지판을 따라 나가세요."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -320,7 +416,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "A厅出口",
+  "label_ja": "ホールAの出口",
+  "label_ko": "A홀 출구",
+  "desc_zh": "领取行李后，请跟随“出口”标志离开。",
+  "desc_ja": "手荷物を受け取ったら、「出口」の案内に従って外へ出てください。",
+  "desc_ko": "수하물을 찾은 후 “출구” 표지판을 따라 나가세요."
  },
  {
   "route_code": "ii-arrival__gate",
@@ -339,7 +441,13 @@
   "step_no": "1",
   "travel": "",
   "mau": "vang",
-  "cua": ""
+  "cua": "",
+  "label_zh": "中转柜台",
+  "label_ja": "乗り継ぎカウンター",
+  "label_ko": "환승 카운터",
+  "desc_zh": "中转柜台（Transfer Counter）– 办理下一程航班登机牌。",
+  "desc_ja": "乗り継ぎカウンター（Transfer Counter）– 次の区間の搭乗券を発行します。",
+  "desc_ko": "환승 카운터(Transfer Counter) – 다음 구간 탑승권을 발급합니다."
  },
  {
   "route_code": "ii-arrival__gate",
@@ -358,7 +466,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "vang",
-  "cua": ""
+  "cua": "",
+  "label_zh": "国际中转通道",
+  "label_ja": "国際線乗り継ぎレーン",
+  "label_ko": "국제선 환승 레인",
+  "desc_zh": "请跟随“LANE · TRANSIT（通道 · 中转）”标志，进入国际转国际中转通道。",
+  "desc_ja": "「LANE · TRANSIT（通路 · 乗り継ぎ）」の案内に従い、国際線同士の乗り継ぎレーンへお進みください。",
+  "desc_ko": "“LANE · TRANSIT(통로 · 환승)” 표지판을 따라 국제선 ↔ 국제선 환승 레인으로 들어가세요."
  },
  {
   "route_code": "ii-arrival__gate",
@@ -377,7 +491,13 @@
   "step_no": "",
   "travel": "",
   "mau": "vang",
-  "cua": ""
+  "cua": "",
+  "label_zh": "国际中转门",
+  "label_ja": "国際線乗り継ぎゲート",
+  "label_ko": "국제선 환승 게이트",
+  "desc_zh": "请通过标有“中转航班 · CONNECTING FLIGHTS”的门。",
+  "desc_ja": "「乗り継ぎ便 · CONNECTING FLIGHTS」の表示があるドアを通ってください。",
+  "desc_ko": "“환승 항공편 · CONNECTING FLIGHTS” 표지가 있는 문으로 들어가세요."
  },
  {
   "route_code": "ii-arrival__gate",
@@ -396,7 +516,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "安全检查",
+  "label_ja": "保安検査",
+  "label_ko": "보안 검색",
+  "desc_zh": "乘自动扶梯上到3层，进入安检区域。",
+  "desc_ja": "エスカレーターで3階へ上がり、保安検査エリアへお進みください。",
+  "desc_ko": "에스컬레이터로 3층에 올라가 보안 검색 구역으로 들어가세요."
  },
  {
   "route_code": "ii-arrival__gate",
@@ -415,7 +541,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "“登机口信息”标志指向两个方向：21–35号登机口和36–50号登机口。请确认您的登机口号码，并按对应箭头前行；A、B、C通道通往登机口区域。",
+  "desc_ja": "「搭乗口案内」の表示は2方向を示しています：21～35番ゲートと36～50番ゲート。ご自身の搭乗口番号を確認し、該当する矢印に従ってください。A・B・Cの通路が搭乗口エリアへ続いています。",
+  "desc_ko": "“탑승구 안내” 표지판은 두 방향을 가리킵니다: 21~35번 탑승구와 36~50번 탑승구. 본인의 탑승구 번호를 확인하고 해당 화살표를 따라가세요. A, B, C 통로가 탑승구 구역으로 이어집니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -434,7 +566,13 @@
   "step_no": "1",
   "travel": "",
   "mau": "vang",
-  "cua": ""
+  "cua": "",
+  "label_zh": "到达走廊",
+  "label_ja": "到着通路",
+  "label_ko": "도착 복도",
+  "desc_zh": "请跟随“入境 · Arrival”标志。中转旅客前往中转柜台；需要办理签证的旅客，请在入境前到口岸签证柜台办理。",
+  "desc_ja": "「入国 · Arrival」の案内に従います。乗り継ぎのお客様は乗り継ぎカウンターへ。ビザが必要なお客様は、入国審査の前に国境のビザ発給カウンターへお進みください。",
+  "desc_ko": "“입국 · Arrival” 표지판을 따라가세요. 환승 승객은 환승 카운터로, 비자가 필요한 승객은 입국 심사 전에 국경 비자 발급 카운터로 이동하세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -453,7 +591,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "vang",
-  "cua": ""
+  "cua": "",
+  "label_zh": "入境",
+  "label_ja": "入国審査",
+  "label_ko": "입국 심사",
+  "desc_zh": "边检（口岸公安）检查柜台。之后乘扶梯下到1层。",
+  "desc_ja": "国境警備（出入国管理）の審査ブースです。その後、階段またはエスカレーターで1階へ降ります。",
+  "desc_ko": "출입국 관리(국경 경찰) 심사대입니다. 이후 계단 또는 에스컬레이터로 1층으로 내려가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -472,7 +616,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "行李转盘编号为1–8，沿下行方向从右到左排列。",
+  "desc_ja": "ターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
+  "desc_ko": "수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -491,7 +641,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
+  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -510,7 +666,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "到达大厅",
+  "label_ja": "到着ロビー",
+  "label_ko": "도착 홀",
+  "desc_zh": "出租车、公交车、接送车。",
+  "desc_ja": "タクシー、バス、送迎車。",
+  "desc_ko": "택시, 버스, 픽업 차량."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -529,7 +691,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "行李转盘编号为1–8，沿下行方向从右到左排列。",
+  "desc_ja": "ターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
+  "desc_ko": "수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -548,7 +716,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
+  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -567,7 +741,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "到达大厅",
+  "label_ja": "到着ロビー",
+  "label_ko": "도착 홀",
+  "desc_zh": "出租车、公交车、接送车。",
+  "desc_ja": "タクシー、バス、送迎車。",
+  "desc_ko": "택시, 버스, 픽업 차량."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -586,7 +766,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "行李转盘编号为1–8，沿下行方向从右到左排列。",
+  "desc_ja": "ターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
+  "desc_ko": "수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -605,7 +791,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
+  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -624,7 +816,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "到达大厅",
+  "label_ja": "到着ロビー",
+  "label_ko": "도착 홀",
+  "desc_zh": "出租车、公交车、接送车。",
+  "desc_ja": "タクシー、バス、送迎車。",
+  "desc_ko": "택시, 버스, 픽업 차량."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -643,7 +841,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "行李转盘编号为1–8，沿下行方向从右到左排列。",
+  "desc_ja": "ターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
+  "desc_ko": "수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -662,7 +866,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
+  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -681,7 +891,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "到达大厅",
+  "label_ja": "到着ロビー",
+  "label_ko": "도착 홀",
+  "desc_zh": "出租车、公交车、接送车。",
+  "desc_ja": "タクシー、バス、送迎車。",
+  "desc_ko": "택시, 버스, 픽업 차량."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -700,7 +916,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "行李转盘编号为1–8，沿下行方向从右到左排列。",
+  "desc_ja": "ターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
+  "desc_ko": "수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -719,7 +941,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
+  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -738,7 +966,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "到达大厅",
+  "label_ja": "到着ロビー",
+  "label_ko": "도착 홀",
+  "desc_zh": "出租车、公交车、接送车。",
+  "desc_ja": "タクシー、バス、送迎車。",
+  "desc_ko": "택시, 버스, 픽업 차량."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -757,7 +991,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "行李转盘编号为1–8，沿下行方向从右到左排列。",
+  "desc_ja": "ターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
+  "desc_ko": "수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -776,7 +1016,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
+  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -795,7 +1041,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "到达大厅",
+  "label_ja": "到着ロビー",
+  "label_ko": "도착 홀",
+  "desc_zh": "出租车、公交车、接送车。",
+  "desc_ja": "タクシー、バス、送迎車。",
+  "desc_ko": "택시, 버스, 픽업 차량."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -814,7 +1066,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "行李转盘编号为1–8，沿下行方向从右到左排列。",
+  "desc_ja": "ターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
+  "desc_ko": "수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -833,7 +1091,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
+  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -852,7 +1116,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "到达大厅",
+  "label_ja": "到着ロビー",
+  "label_ko": "도착 홀",
+  "desc_zh": "出租车、公交车、接送车。",
+  "desc_ja": "タクシー、バス、送迎車。",
+  "desc_ko": "택시, 버스, 픽업 차량."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -871,7 +1141,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "行李转盘编号为1–8，沿下行方向从右到左排列。",
+  "desc_ja": "ターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
+  "desc_ko": "수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -890,7 +1166,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
+  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -909,7 +1191,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "到达大厅",
+  "label_ja": "到着ロビー",
+  "label_ko": "도착 홀",
+  "desc_zh": "出租车、公交车、接送车。",
+  "desc_ja": "タクシー、バス、送迎車。",
+  "desc_ko": "택시, 버스, 픽업 차량."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -928,7 +1216,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "行李转盘区",
+  "label_ja": "手荷物受取エリア",
+  "label_ko": "수하물 수취 구역",
+  "desc_zh": "请在信息显示屏上查看您航班的行李转盘号。",
+  "desc_ja": "案内表示板でご搭乗便のターンテーブル番号をご確認ください。",
+  "desc_ko": "안내 전광판에서 해당 항공편의 수하물 벨트 번호를 확인하세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -947,7 +1241,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
+  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -966,7 +1266,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "到达大厅",
+  "label_ja": "到着ロビー",
+  "label_ko": "도착 홀",
+  "desc_zh": "出租车、公交车、接送车。",
+  "desc_ja": "タクシー、バス、送迎車。",
+  "desc_ko": "택시, 버스, 픽업 차량."
  },
  {
   "route_code": "id-arrival__t1",
@@ -985,7 +1291,13 @@
   "step_no": "1",
   "travel": "",
   "mau": "vang",
-  "cua": ""
+  "cua": "",
+  "label_zh": "入境",
+  "label_ja": "入国審査",
+  "label_ko": "입국 심사",
+  "desc_zh": "从到达走廊跟随“入境 · Arrival”标志前往边检（口岸公安）检查柜台。",
+  "desc_ja": "到着通路から「入国 · Arrival」の案内に従い、国境警備（出入国管理）の審査ブースへお進みください。",
+  "desc_ko": "도착 복도에서 “입국 · Arrival” 표지판을 따라 출입국 관리(국경 경찰) 심사대로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1004,7 +1316,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "请自行领取全部托运行李。",
+  "desc_ja": "受託手荷物はすべてご自身でお受け取りください。",
+  "desc_ko": "위탁수하물을 모두 직접 찾으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1023,7 +1341,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "请办理海关手续。",
+  "desc_ja": "税関手続きを行ってください。",
+  "desc_ko": "세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1042,7 +1366,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "前往T1的摆渡车（18号立柱）",
+  "label_ja": "T1行きシャトル（18番柱）",
+  "label_ko": "T1행 셔틀버스(18번 기둥)",
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1061,7 +1391,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "请自行领取全部托运行李。",
+  "desc_ja": "受託手荷物はすべてご自身でお受け取りください。",
+  "desc_ko": "위탁수하물을 모두 직접 찾으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1080,7 +1416,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "请办理海关手续。",
+  "desc_ja": "税関手続きを行ってください。",
+  "desc_ko": "세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1099,7 +1441,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "前往T1的摆渡车（18号立柱）",
+  "label_ja": "T1行きシャトル（18番柱）",
+  "label_ko": "T1행 셔틀버스(18번 기둥)",
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1118,7 +1466,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "请自行领取全部托运行李。",
+  "desc_ja": "受託手荷物はすべてご自身でお受け取りください。",
+  "desc_ko": "위탁수하물을 모두 직접 찾으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1137,7 +1491,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "请办理海关手续。",
+  "desc_ja": "税関手続きを行ってください。",
+  "desc_ko": "세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1156,7 +1516,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "前往T1的摆渡车（18号立柱）",
+  "label_ja": "T1行きシャトル（18番柱）",
+  "label_ko": "T1행 셔틀버스(18번 기둥)",
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1175,7 +1541,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "请自行领取全部托运行李。",
+  "desc_ja": "受託手荷物はすべてご自身でお受け取りください。",
+  "desc_ko": "위탁수하물을 모두 직접 찾으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1194,7 +1566,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "请办理海关手续。",
+  "desc_ja": "税関手続きを行ってください。",
+  "desc_ko": "세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1213,7 +1591,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "前往T1的摆渡车（18号立柱）",
+  "label_ja": "T1行きシャトル（18番柱）",
+  "label_ko": "T1행 셔틀버스(18번 기둥)",
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1232,7 +1616,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "请自行领取全部托运行李。",
+  "desc_ja": "受託手荷物はすべてご自身でお受け取りください。",
+  "desc_ko": "위탁수하물을 모두 직접 찾으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1251,7 +1641,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "请办理海关手续。",
+  "desc_ja": "税関手続きを行ってください。",
+  "desc_ko": "세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1270,7 +1666,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "前往T1的摆渡车（18号立柱）",
+  "label_ja": "T1行きシャトル（18番柱）",
+  "label_ko": "T1행 셔틀버스(18번 기둥)",
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1289,7 +1691,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "请自行领取全部托运行李。",
+  "desc_ja": "受託手荷物はすべてご自身でお受け取りください。",
+  "desc_ko": "위탁수하물을 모두 직접 찾으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1308,7 +1716,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "请办理海关手续。",
+  "desc_ja": "税関手続きを行ってください。",
+  "desc_ko": "세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1327,7 +1741,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "前往T1的摆渡车（18号立柱）",
+  "label_ja": "T1行きシャトル（18番柱）",
+  "label_ko": "T1행 셔틀버스(18번 기둥)",
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1346,7 +1766,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "请自行领取全部托运行李。",
+  "desc_ja": "受託手荷物はすべてご自身でお受け取りください。",
+  "desc_ko": "위탁수하물을 모두 직접 찾으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1365,7 +1791,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "请办理海关手续。",
+  "desc_ja": "税関手続きを行ってください。",
+  "desc_ko": "세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1384,7 +1816,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "前往T1的摆渡车（18号立柱）",
+  "label_ja": "T1行きシャトル（18番柱）",
+  "label_ko": "T1행 셔틀버스(18번 기둥)",
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1403,7 +1841,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "[belt]号行李转盘",
+  "label_ja": "ターンテーブル[belt]番",
+  "label_ko": "[belt]번 수하물 벨트",
+  "desc_zh": "请自行领取全部托运行李。",
+  "desc_ja": "受託手荷物はすべてご自身でお受け取りください。",
+  "desc_ko": "위탁수하물을 모두 직접 찾으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1422,7 +1866,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "请办理海关手续。",
+  "desc_ja": "税関手続きを行ってください。",
+  "desc_ko": "세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1441,7 +1891,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "前往T1的摆渡车（18号立柱）",
+  "label_ja": "T1行きシャトル（18番柱）",
+  "label_ko": "T1행 셔틀버스(18번 기둥)",
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1460,7 +1916,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "行李转盘区",
+  "label_ja": "手荷物受取エリア",
+  "label_ko": "수하물 수취 구역",
+  "desc_zh": "请在信息显示屏上查看您航班的行李转盘号。",
+  "desc_ja": "案内表示板でご搭乗便のターンテーブル番号をご確認ください。",
+  "desc_ko": "안내 전광판에서 해당 항공편의 수하물 벨트 번호를 확인하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1479,7 +1941,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "海关",
+  "label_ja": "税関",
+  "label_ko": "세관",
+  "desc_zh": "请办理海关手续。",
+  "desc_ja": "税関手続きを行ってください。",
+  "desc_ko": "세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1498,7 +1966,13 @@
   "step_no": "5",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "前往T1的摆渡车（18号立柱）",
+  "label_ja": "T1行きシャトル（18番柱）",
+  "label_ko": "T1행 셔틀버스(18번 기둥)",
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1517,7 +1991,13 @@
   "step_no": "6",
   "travel": "bus",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "T1安检",
+  "label_ja": "T1 保安検査",
+  "label_ko": "T1 보안 검색",
+  "desc_zh": "摆渡车在T1航站楼放客。上到2层出发大厅，通过国内安检。",
+  "desc_ja": "シャトルバスはT1ターミナルで降車します。2階の出発ロビーへ上がり、国内線の保安検査を受けてください。",
+  "desc_ko": "셔틀버스는 T1 터미널에서 하차합니다. 2층 출발 홀로 올라가 국내선 보안 검색을 받으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1536,7 +2016,13 @@
   "step_no": "7",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。",
+  "desc_ja": "T1ターミナルの制限エリアです。",
+  "desc_ko": "T1 터미널 보안 구역입니다."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -1555,7 +2041,13 @@
   "step_no": "1",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "T1中转服务台",
+  "label_ja": "T1 乗り継ぎサポートデスク",
+  "label_ko": "T1 환승 지원 데스크",
+  "desc_zh": "进入到达大厅后即可看到中转服务台。",
+  "desc_ja": "到着ロビーに入るとすぐ、乗り継ぎサポートデスクがあります。",
+  "desc_ko": "도착 홀에 들어서면 바로 환승 지원 데스크가 있습니다."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -1574,7 +2066,13 @@
   "step_no": "2",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "电梯上2层",
+  "label_ja": "2階へのエレベーター",
+  "label_ko": "2층 엘리베이터",
+  "desc_zh": "径直走到到达大厅中央，乘电梯上到2层（出发大厅）。",
+  "desc_ja": "到着ロビーの中央まで真っすぐ進み、エレベーターで2階（出発ロビー）へ上がります。",
+  "desc_ko": "도착 홀 중앙까지 곧장 이동해 엘리베이터로 2층(출발 홀)으로 올라가세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -1593,7 +2091,13 @@
   "step_no": "3",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "T1安检",
+  "label_ja": "T1 保安検査",
+  "label_ko": "T1 보안 검색",
+  "desc_zh": "上到2层出发大厅，通过国内安检。尚未取得登机牌：请前往值机柜台。",
+  "desc_ja": "2階の出発ロビーへ上がり、国内線の保安検査を受けます。搭乗券をお持ちでない場合は、チェックインカウンターへ。",
+  "desc_ko": "2층 출발 홀로 올라가 국내선 보안 검색을 받으세요. 탑승권이 없으면 체크인 카운터로 가세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -1612,7 +2116,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1631,7 +2141,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "行李交接",
+  "label_ja": "手荷物の引き渡し",
+  "label_ko": "수하물 인계",
+  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1650,7 +2166,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "行李交接",
+  "label_ja": "手荷物の引き渡し",
+  "label_ko": "수하물 인계",
+  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1669,7 +2191,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "行李交接",
+  "label_ja": "手荷物の引き渡し",
+  "label_ko": "수하물 인계",
+  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1688,7 +2216,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "行李交接",
+  "label_ja": "手荷物の引き渡し",
+  "label_ko": "수하물 인계",
+  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1707,7 +2241,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "行李交接",
+  "label_ja": "手荷物の引き渡し",
+  "label_ko": "수하물 인계",
+  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1726,7 +2266,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "行李交接",
+  "label_ja": "手荷物の引き渡し",
+  "label_ko": "수하물 인계",
+  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1745,7 +2291,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "行李交接",
+  "label_ja": "手荷物の引き渡し",
+  "label_ko": "수하물 인계",
+  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1764,7 +2316,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "行李交接",
+  "label_ja": "手荷物の引き渡し",
+  "label_ko": "수하물 인계",
+  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1783,7 +2341,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": ""
+  "cua": "",
+  "label_zh": "行李交接",
+  "label_ja": "手荷物の引き渡し",
+  "label_ko": "수하물 인계",
+  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1802,7 +2366,13 @@
   "step_no": "7",
   "travel": "",
   "mau": "",
-  "cua": "5"
+  "cua": "5",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。",
+  "desc_ja": "T1ターミナルの制限エリアです。",
+  "desc_ko": "T1 터미널 보안 구역입니다."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1821,7 +2391,13 @@
   "step_no": "7",
   "travel": "",
   "mau": "",
-  "cua": "6"
+  "cua": "6",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。",
+  "desc_ja": "T1ターミナルの制限エリアです。",
+  "desc_ko": "T1 터미널 보안 구역입니다."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1840,7 +2416,13 @@
   "step_no": "7",
   "travel": "",
   "mau": "",
-  "cua": "7"
+  "cua": "7",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。",
+  "desc_ja": "T1ターミナルの制限エリアです。",
+  "desc_ko": "T1 터미널 보안 구역입니다."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1859,7 +2441,13 @@
   "step_no": "7",
   "travel": "",
   "mau": "",
-  "cua": "8"
+  "cua": "8",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。",
+  "desc_ja": "T1ターミナルの制限エリアです。",
+  "desc_ko": "T1 터미널 보안 구역입니다."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1878,7 +2466,13 @@
   "step_no": "7",
   "travel": "",
   "mau": "",
-  "cua": "9"
+  "cua": "9",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。",
+  "desc_ja": "T1ターミナルの制限エリアです。",
+  "desc_ko": "T1 터미널 보안 구역입니다."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1897,7 +2491,13 @@
   "step_no": "7",
   "travel": "",
   "mau": "",
-  "cua": "10"
+  "cua": "10",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。",
+  "desc_ja": "T1ターミナルの制限エリアです。",
+  "desc_ko": "T1 터미널 보안 구역입니다."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1916,7 +2516,13 @@
   "step_no": "7",
   "travel": "",
   "mau": "",
-  "cua": "11"
+  "cua": "11",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。",
+  "desc_ja": "T1ターミナルの制限エリアです。",
+  "desc_ko": "T1 터미널 보안 구역입니다."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1935,7 +2541,13 @@
   "step_no": "7",
   "travel": "",
   "mau": "",
-  "cua": "12"
+  "cua": "12",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。",
+  "desc_ja": "T1ターミナルの制限エリアです。",
+  "desc_ko": "T1 터미널 보안 구역입니다."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -1954,7 +2566,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": "5"
+  "cua": "5",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -1973,7 +2591,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": "6"
+  "cua": "6",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -1992,7 +2616,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": "7"
+  "cua": "7",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2011,7 +2641,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": "8"
+  "cua": "8",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2030,7 +2666,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": "9"
+  "cua": "9",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2049,7 +2691,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": "10"
+  "cua": "10",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2068,7 +2716,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": "11"
+  "cua": "11",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2087,7 +2741,13 @@
   "step_no": "4",
   "travel": "",
   "mau": "",
-  "cua": "12"
+  "cua": "12",
+  "label_zh": "登机口 [gate]",
+  "label_ja": "搭乗口 [gate]",
+  "label_ko": "탑승구 [gate]",
+  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "ii-arrival__gate",
@@ -2095,7 +2755,7 @@
   "no": "6",
   "belt": "",
   "label_vi": "Quầy visa",
-  "label_en": "Visa application",
+  "label_en": "Visa counter",
   "desc_vi": "Dành cho khách cần xin thị thực khi đến. Khách nối chuyến không đi qua quầy này.",
   "desc_en": "For passengers who need a visa on arrival. Transfer passengers do not use this counter.",
   "image": "t2-visa-on-arrival.jpg",
@@ -2106,6 +2766,12 @@
   "step_no": "1",
   "travel": "none",
   "mau": "vang",
-  "cua": ""
+  "cua": "",
+  "label_zh": "签证柜台",
+  "label_ja": "ビザカウンター",
+  "label_ko": "비자 카운터",
+  "desc_zh": "供需办理落地签证的旅客使用。中转旅客无需经过此柜台。",
+  "desc_ja": "到着時にビザが必要なお客様向けです。乗り継ぎのお客様はこのカウンターを通りません。",
+  "desc_ko": "도착 비자가 필요한 승객용입니다. 환승 승객은 이 카운터를 거치지 않습니다."
  }
 ]

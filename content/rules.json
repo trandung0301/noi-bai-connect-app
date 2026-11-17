@@ -8,7 +8,13 @@
   "body_en": "60 minutes",
   "source": "Anh Dũng điền 08/11/2026 – cần đối chiếu PHM",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "国际 → 国际",
+  "title_ja": "国際線 → 国際線",
+  "title_ko": "국제선 → 국제선",
+  "body_zh": "60分钟",
+  "body_ja": "60分",
+  "body_ko": "60분"
  },
  {
   "group": "mct",
@@ -19,7 +25,13 @@
   "body_en": "120 minutes",
   "source": "Anh Dũng điền 08/11/2026 – cần đối chiếu PHM",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "国际 → 国内",
+  "title_ja": "国際線 → 国内線",
+  "title_ko": "국제선 → 국내선",
+  "body_zh": "120分钟",
+  "body_ja": "120分",
+  "body_ko": "120분"
  },
  {
   "group": "mct",
@@ -30,7 +42,13 @@
   "body_en": "90 minutes",
   "source": "Anh Dũng điền 08/11/2026 – cần đối chiếu PHM",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "国内 → 国际",
+  "title_ja": "国内線 → 国際線",
+  "title_ko": "국내선 → 국제선",
+  "body_zh": "90分钟",
+  "body_ja": "90分",
+  "body_ko": "90분"
  },
  {
   "group": "mct",
@@ -41,7 +59,13 @@
   "body_en": "60 minutes",
   "source": "Anh Dũng điền 08/11/2026 – cần đối chiếu PHM",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "国内 → 国内",
+  "title_ja": "国内線 → 国内線",
+  "title_ko": "국내선 → 국내선",
+  "body_zh": "60分钟",
+  "body_ja": "60分",
+  "body_ko": "60분"
  },
  {
   "group": "gate",
@@ -52,7 +76,13 @@
   "body_en": "The boarding gate closes 15 minutes before scheduled departure.",
   "source": "II.html (bản cũ) – cần đối chiếu PHM",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "登机口关闭时间",
+  "title_ja": "搭乗ゲートの締切時刻",
+  "title_ko": "탑승구 마감 시간",
+  "body_zh": "登机口在预计起飞时间前15分钟关闭。",
+  "body_ja": "搭乗ゲートは出発予定時刻の15分前に閉まります。",
+  "body_ko": "탑승구는 출발 예정 시간 15분 전에 마감됩니다."
  },
  {
   "group": "baggage",
@@ -63,7 +93,13 @@
   "body_en": "Checked baggage is usually transferred automatically to the final destination. Please confirm the baggage tag status with the staff at the counter.",
   "source": "II.html (bản cũ)",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "中转时的托运行李",
+  "title_ja": "乗り継ぎ時の受託手荷物",
+  "title_ko": "환승 시 위탁수하물",
+  "body_zh": "一般托运行李会自动直接转运至最终目的地。请向柜台工作人员确认行李牌的状态。",
+  "body_ja": "通常、受託手荷物は最終目的地まで自動的に直送されます。手荷物タグの状況はカウンターのスタッフにご確認ください。",
+  "body_ko": "일반 위탁수하물은 최종 목적지까지 자동으로 이송됩니다. 수하물 태그 상태는 카운터 직원에게 확인해 주세요."
  },
  {
   "group": "transfer",
@@ -74,7 +110,13 @@
   "body_en": "Most passengers have already been checked through to their final destination. However, please contact the Transfer Counter for assistance if you fall into one of the following cases: You have not been issued a boarding pass for the next flight segment. | You need to check and reconfirm the status of your checked baggage. | You need to verify the validity of your visa and entry documents for the final destination. | Other updated travel information, etc.",
   "source": "II.html (bản cũ)",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "何时需要前往中转柜台",
+  "title_ja": "乗り継ぎカウンターに行くべき場合",
+  "title_ko": "환승 카운터를 방문해야 하는 경우",
+  "body_zh": "大多数旅客已办理直达最终目的地的值机。但如属于以下情况，请联系中转柜台（Transfer Counter），由工作人员为您提供协助：尚未获发下一段航班的登机牌。 | 需要检查并再次确认托运行李的状态。 | 需要核实前往最终目的地所需签证和入境证件的有效性。 | 其他最新信息等。",
+  "body_ja": "ほとんどのお客様は、最終目的地までのチェックインを済ませています。ただし、次のような場合は乗り継ぎカウンター（Transfer Counter）でスタッフがご案内しますので、お申し出ください：次の区間の搭乗券が発行されていない。 | 受託手荷物の状況を確認したい。 | 最終目的地のビザおよび入国書類が有効かどうか確認したい。 | その他の最新情報など。",
+  "body_ko": "대부분의 승객은 최종 목적지까지 체크인이 이미 완료되어 있습니다. 다만 다음에 해당하는 경우에는 환승 카운터(Transfer Counter)에 문의하여 직원의 도움을 받으세요: 다음 구간 탑승권이 발급되지 않은 경우. | 위탁수하물 상태를 확인해야 하는 경우. | 최종 목적지의 비자 및 입국 서류가 유효한지 확인해야 하는 경우. | 기타 최신 정보 등."
  },
  {
   "group": "shuttle",
@@ -85,7 +127,13 @@
   "body_en": "Exit the terminal, turn right; the shuttle bus is at lane 2 (Photo of shuttle bus). Operates from 5:00 AM to 1:30+ AM. | Average frequency: every 15-20 minutes. | Free of charge.",
   "source": "DI.html (bản cũ)",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "T1–T2接驳巴士",
+  "title_ja": "T1–T2間シャトルバス",
+  "title_ko": "T1–T2 셔틀버스",
+  "body_zh": "走出航站楼后右转，摆渡巴士在2号车道（摆渡巴士照片）。运营时间为5:00至次日1:30以后。 | 平均每15–20分钟一班。 | 免费乘坐。",
+  "body_ja": "ターミナルの外に出て右へ進むと、シャトルバスはレーン2にあります（シャトルバスの写真）。運行時間は5:00から翌1:30過ぎまで。 | 平均15～20分間隔で運行。 | 無料です。",
+  "body_ko": "터미널 밖으로 나가 오른쪽으로 돌면 2번 차선에 셔틀버스가 있습니다(셔틀버스 사진). 운행 시간은 05:00부터 새벽 01:30 이후까지입니다. | 평균 15~20분 간격으로 운행합니다. | 무료입니다."
  },
  {
   "group": "immigration",
@@ -96,7 +144,13 @@
   "body_en": "No visa needed within 24 hours. [verify against current regulation]",
   "source": "",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "不离开隔离区的过境",
+  "title_ja": "制限エリアから出ない乗り継ぎ",
+  "title_ko": "보안 구역을 벗어나지 않는 환승",
+  "body_zh": "24小时内无需签证。[需对照现行规定核实]",
+  "body_ja": "24時間以内であればビザは不要です。[現行の規定と照合が必要]",
+  "body_ko": "24시간 이내에는 비자가 필요하지 않습니다. [현행 규정과 대조 필요]"
  },
  {
   "group": "immigration",
@@ -107,7 +161,13 @@
   "body_en": "Queue at the dedicated transit document checkpoint operated by the immigration authority, located right next to the transfer counter. Please have your original passport and valid boarding pass ready.",
   "source": "II.html (bản cũ)",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "需准备的证件",
+  "title_ja": "ご準備いただく書類",
+  "title_ko": "준비할 서류",
+  "body_zh": "请在紧邻行程转接柜台的口岸公安独立中转证件检查区排队通过。请备好护照原件和有效登机牌。",
+  "body_ja": "出入国管理当局が運営する乗り継ぎ専用の書類確認場所に並んでください。乗り継ぎカウンターのすぐ隣にあります。パスポート原本と有効な搭乗券をご準備ください。",
+  "body_ko": "출입국 당국이 운영하는 환승 전용 서류 확인 구역에서 줄을 서 주세요. 환승 카운터 바로 옆에 있습니다. 여권 원본과 유효한 탑승권을 준비해 주세요."
  },
  {
   "group": "authority",
@@ -118,7 +178,13 @@
   "body_en": "[Required documents, e-declaration, visa-free transit…]",
   "source": "[Cục QLXNC / Nghị định …]",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "主管部门规定 – 出入境",
+  "title_ja": "当局の規定 – 出入国",
+  "title_ko": "당국 규정 – 출입국",
+  "body_zh": "[必备证件、电子申报、免签过境等…]",
+  "body_ja": "[必要書類、電子申告、ビザなし乗り継ぎなど…]",
+  "body_ko": "[필수 서류, 전자 신고, 무비자 환승 등…]"
  },
  {
   "group": "authority",
@@ -129,7 +195,13 @@
   "body_en": "[Prohibited items, ID at boarding…]",
   "source": "[Cục HKVN – Thông tư …]",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "主管部门规定 – 航空安保",
+  "title_ja": "当局の規定 – 航空保安",
+  "title_ko": "당국 규정 – 항공 보안",
+  "body_zh": "[违禁物品、登机时的身份证件等…]",
+  "body_ja": "[持ち込み禁止品、搭乗時の身分証明書など…]",
+  "body_ko": "[반입 금지 물품, 탑승 시 신분증 등…]"
  },
  {
   "group": "cabin-baggage",
@@ -140,7 +212,13 @@
   "body_en": "[By cabin class: … pieces, … kg, … cm]",
   "source": "[PHM / Điều lệ vận chuyển]",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "手提行李 – 件数和重量",
+  "title_ja": "機内持ち込み手荷物 – 個数と重量",
+  "title_ko": "기내 휴대 수하물 – 개수와 무게",
+  "body_zh": "[按舱位等级：… 件，… 公斤，尺寸 … 厘米]",
+  "body_ja": "[クラス別：… 個、… kg、サイズ … cm]",
+  "body_ko": "[좌석 등급별: … 개, … kg, 크기 … cm]"
  },
  {
   "group": "cabin-baggage",
@@ -151,7 +229,13 @@
   "body_en": "[Liquids ≤ 100 ml in 1 L bag; sharp objects; …]",
   "source": "",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "手提行李 – 限制物品",
+  "title_ja": "機内持ち込み手荷物 – 制限品",
+  "title_ko": "기내 휴대 수하물 – 제한 물품",
+  "body_zh": "[液体 ≤ 100毫升且装入1升袋；尖锐物品；…]",
+  "body_ja": "[液体は100 ml以下で1リットルの袋に入れる；鋭利な物；…]",
+  "body_ko": "[액체는 100 ml 이하로 1리터 봉투에 담기; 날카로운 물건; …]"
  },
  {
   "group": "security",
@@ -162,7 +246,13 @@
   "body_en": "[Electronics and liquids in tray; remove jacket, belt…]",
   "source": "",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "安检 – 需要做什么",
+  "title_ja": "保安検査 – 行うこと",
+  "title_ko": "보안 검색 – 해야 할 일",
+  "body_zh": "[将电子设备和液体放入托盘；脱下外套、取下腰带…]",
+  "body_ja": "[電子機器と液体をトレーに入れる；上着とベルトを外す…]",
+  "body_ko": "[전자기기와 액체를 트레이에 담기; 외투와 벨트 벗기…]"
  },
  {
   "group": "security",
@@ -173,7 +263,13 @@
   "body_en": "[Duty-free from previous airport: sealed STEB…]",
   "source": "",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "安检 – 中转旅客",
+  "title_ja": "保安検査 – 乗り継ぎのお客様",
+  "title_ko": "보안 검색 – 환승 승객",
+  "body_zh": "[在前一机场购买的免税品：密封的STEB袋…]",
+  "body_ja": "[前の空港で購入した免税品：封印されたSTEBバッグ…]",
+  "body_ko": "[이전 공항에서 구매한 면세품: 밀봉된 STEB 봉투…]"
  },
  {
   "group": "customs",
@@ -184,7 +280,13 @@
   "body_en": "[Cash threshold …; goods to declare; green / red channel]",
   "source": "[Tổng cục Hải quan – …]",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "海关 – 申报",
+  "title_ja": "税関 – 申告",
+  "title_ko": "세관 – 신고",
+  "body_zh": "[现金限额 …；须申报的物品；绿色 / 红色通道]",
+  "body_ja": "[現金の上限 …；申告が必要な物品；緑 / 赤ルート]",
+  "body_ko": "[현금 한도 …; 신고 대상 물품; 녹색 / 적색 통로]"
  },
  {
   "group": "customs",
@@ -195,7 +297,13 @@
   "body_en": "[…]",
   "source": "",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "海关 – 违禁和限制物品",
+  "title_ja": "税関 – 禁止品・制限品",
+  "title_ko": "세관 – 금지 및 제한 물품",
+  "body_zh": "[…]",
+  "body_ja": "[…]",
+  "body_ko": "[…]"
  },
  {
   "group": "lithium",
@@ -203,10 +311,16 @@
   "title_vi": "Pin lithium – pin dự phòng / sạc dự phòng",
   "title_en": "Lithium batteries – power banks",
   "body_vi": "[Chỉ xách tay, không ký gửi; ≤ 100 Wh tự do; > không chấp nhận trong hành lý ký gửi và hành lý xách tay]",
-  "body_en": "[Carry-on only; ≤ 100 Wh allowed; 100–160 Wh max 2 with approval; > 160 Wh prohibited]",
+  "body_en": "[Carry-on only, not checked; ≤ 100 Wh unrestricted; > not accepted in checked or carry-on baggage]",
   "source": "[PHM / IATA DGR – cần đối chiếu]",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "锂电池 – 充电宝 / 移动电源",
+  "title_ja": "リチウム電池 – モバイルバッテリー",
+  "title_ko": "리튬 배터리 – 보조배터리",
+  "body_zh": "[仅限随身携带，不可托运；≤ 100 Wh 可自由携带；> 不接受放入托运行李和随身行李]",
+  "body_ja": "[機内持ち込みのみ、受託不可；100 Wh以下は自由に携帯可；> 受託手荷物・機内持ち込み手荷物とも受け付けません]",
+  "body_ko": "[기내 휴대만 가능, 위탁 불가; 100 Wh 이하 자유 휴대; > 위탁수하물과 기내 휴대 수하물 모두 불가]"
  },
  {
   "group": "lithium",
@@ -217,6 +331,12 @@
   "body_en": "[Devices off when checked; e-scooters…]",
   "source": "",
   "effective_from": "",
-  "approved_by": ""
+  "approved_by": "",
+  "title_zh": "锂电池 – 电子设备、个人电动代步工具",
+  "title_ja": "リチウム電池 – 電子機器・個人用モビリティ",
+  "title_ko": "리튬 배터리 – 전자기기, 개인 이동 장치",
+  "body_zh": "[托运时设备须关机；滑板车 / 电动车…]",
+  "body_ja": "[受託時は機器の電源を切る；スクーター / 電動モビリティ…]",
+  "body_ko": "[위탁 시 기기 전원 끄기; 스쿠터 / 전동 이동 장치…]"
  }
 ]
