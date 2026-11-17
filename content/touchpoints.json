@@ -10,7 +10,13 @@
   "hours": "24/7",
   "map_x": "52",
   "map_y": "45",
-  "image": "gate-arrival-01.jpg"
+  "image": "gate-arrival-01.jpg",
+  "name_zh": "入境及中转区域",
+  "name_ja": "入国・乗り継ぎエリア",
+  "name_ko": "입국·환승 구역",
+  "desc_zh": "出廊桥后沿二层到达走廊前行；越南航空中转服务台设在此处",
+  "desc_ja": "搭乗橋を出たら2階の到着通路を進みます。ベトナム航空の乗り継ぎサポートデスクがあります",
+  "desc_ko": "탑승교를 나와 2층 도착 복도를 따라가세요. 베트남항공 환승 지원 데스크가 있습니다"
  },
  {
   "code": "transfer-desk",
@@ -23,7 +29,13 @@
   "hours": "24/7",
   "map_x": "52",
   "map_y": "45",
-  "image": "transfer-desk-01.jpg"
+  "image": "transfer-desk-01.jpg",
+  "name_zh": "越南航空中转柜台（T2）",
+  "name_ja": "ベトナム航空 乗り継ぎカウンター（T2）",
+  "name_ko": "베트남항공 환승 카운터(T2)",
+  "desc_zh": "办理下一程登机牌；确认行李状态；检查签证",
+  "desc_ja": "次の区間の搭乗券発行、手荷物状況の確認、ビザの確認",
+  "desc_ko": "다음 구간 탑승권 발급, 수하물 상태 확인, 비자 확인"
  },
  {
   "code": "immigration",
@@ -36,7 +48,13 @@
   "hours": "24/7",
   "map_x": "52",
   "map_y": "28",
-  "image": "immigration-01.jpg"
+  "image": "immigration-01.jpg",
+  "name_zh": "中转证件检查（边检）",
+  "name_ja": "乗り継ぎ書類確認（出入国審査）",
+  "name_ko": "환승 서류 확인(출입국 심사)",
+  "desc_zh": "紧邻中转柜台；请备好护照原件和登机牌",
+  "desc_ja": "乗り継ぎカウンターのすぐ隣です。パスポート原本と搭乗券をご準備ください",
+  "desc_ko": "환승 카운터 바로 옆입니다. 여권 원본과 탑승권을 준비해 주세요"
  },
  {
   "code": "transfer-security",
@@ -49,7 +67,13 @@
   "hours": "24/7",
   "map_x": "52",
   "map_y": "28",
-  "image": "transfer-security-01.jpg"
+  "image": "transfer-security-01.jpg",
+  "name_zh": "中转旅客安检",
+  "name_ja": "乗り継ぎ旅客の保安検査",
+  "name_ko": "환승 승객 보안 검색",
+  "desc_zh": "乘自动扶梯至3层；超过100毫升的液体不得带入",
+  "desc_ja": "エスカレーターで3階へ。100mlを超える液体は持ち込めません",
+  "desc_ko": "에스컬레이터로 3층 이동. 100ml를 초과하는 액체류는 반입할 수 없습니다"
  },
  {
   "code": "gate-area",
@@ -62,7 +86,13 @@
   "hours": "24/7",
   "map_x": "66",
   "map_y": "14",
-  "image": "int-gate.jpg"
+  "image": "int-gate.jpg",
+  "name_zh": "国际出发登机口区域",
+  "name_ja": "国際線出発ゲートエリア",
+  "name_ko": "국제선 출발 탑승구 구역",
+  "desc_zh": "3层国际候机厅；登机口起飞前15分钟关闭",
+  "desc_ja": "3階の国際線待合エリア。搭乗口は出発の15分前に閉まります",
+  "desc_ko": "3층 국제선 대합실. 탑승구는 출발 15분 전에 닫힙니다"
  },
  {
   "code": "belt",
@@ -75,7 +105,13 @@
   "hours": "24/7",
   "map_x": "",
   "map_y": "",
-  "image": "belt-01.jpg"
+  "image": "belt-01.jpg",
+  "name_zh": "行李转盘",
+  "name_ja": "手荷物ターンテーブル",
+  "name_ko": "수하물 벨트",
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "code": "Imigration",
@@ -88,7 +124,13 @@
   "hours": "24/7",
   "map_x": "52",
   "map_y": "28",
-  "image": "emigration-01.jpg"
+  "image": "emigration-01.jpg",
+  "name_zh": "出境手续",
+  "name_ja": "出国手続き",
+  "name_ko": "출국 수속",
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "code": "checkin",
@@ -101,7 +143,13 @@
   "hours": "24/7",
   "map_x": "62",
   "map_y": "60",
-  "image": "checkin-island-ab-01.jpg"
+  "image": "checkin-island-ab-01.jpg",
+  "name_zh": "B/C/D值机岛",
+  "name_ja": "B/C/Dチェックインアイランド",
+  "name_ko": "B/C/D 체크인 아일랜드",
+  "desc_zh": "尚未取得登机牌的旅客请到B/C/D岛值机",
+  "desc_ja": "搭乗券をお持ちでない方は、B/C/Dアイランドでチェックインしてください",
+  "desc_ko": "탑승권이 없는 승객은 B/C/D 아일랜드에서 체크인해 주세요"
  },
  {
   "code": "lounge",
@@ -114,7 +162,13 @@
   "hours": "[giờ]",
   "map_x": "70",
   "map_y": "23",
-  "image": "lounge-01.jpg"
+  "image": "lounge-01.jpg",
+  "name_zh": "Lotus商务贵宾室",
+  "name_ja": "ロータス ビジネスラウンジ",
+  "name_ko": "로터스 비즈니스 라운지",
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "code": "shuttle-t2",
@@ -127,7 +181,13 @@
   "hours": "05:00-01:30",
   "map_x": "42",
   "map_y": "92",
-  "image": "shuttle-t2-01.jpg"
+  "image": "shuttle-t2-01.jpg",
+  "name_zh": "T2 → T1摆渡车站",
+  "name_ja": "T2 → T1 シャトルバス乗り場",
+  "name_ko": "T2 → T1 셔틀버스 승차장",
+  "desc_zh": "运行时间5:00 – 次日1:30；每15–20分钟一班；免费",
+  "desc_ja": "運行時間 5:00～翌1:30、15～20分間隔、無料",
+  "desc_ko": "운행 시간 05:00 ~ 익일 01:30, 15~20분 간격, 무료"
  },
  {
   "code": "t1-arrival",
@@ -140,7 +200,13 @@
   "hours": "24/7",
   "map_x": "",
   "map_y": "",
-  "image": "transfer-desk-t1-01.jpg"
+  "image": "transfer-desk-t1-01.jpg",
+  "name_zh": "国内到达大厅／T1中转服务柜台",
+  "name_ja": "国内線到着ロビー／T1 乗り継ぎサポートカウンター",
+  "name_ko": "국내선 도착 홀/T1 환승 지원 카운터",
+  "desc_zh": "进入航站楼即可看到中转服务柜台",
+  "desc_ja": "ターミナルに入るとすぐ乗り継ぎサポートカウンターがあります",
+  "desc_ko": "터미널에 들어서면 바로 환승 지원 카운터가 있습니다"
  },
  {
   "code": "shuttle-t1",
@@ -153,7 +219,13 @@
   "hours": "05:00-01:30",
   "map_x": "",
   "map_y": "",
-  "image": "shuttle-t1-01.jpg"
+  "image": "shuttle-t1-01.jpg",
+  "name_zh": "T1 → T2摆渡车站",
+  "name_ja": "T1 → T2 シャトルバス乗り場",
+  "name_ko": "T1 → T2 셔틀버스 승차장",
+  "desc_zh": "走出航站楼后右转；摆渡车在2号车道",
+  "desc_ja": "ターミナルを出て右へ。バスは2番レーンです",
+  "desc_ko": "터미널 밖으로 나와 오른쪽으로 가세요. 버스는 2번 차선에 있습니다"
  },
  {
   "code": "security-t1",
@@ -166,7 +238,13 @@
   "hours": "24/7",
   "map_x": "",
   "map_y": "",
-  "image": "security-t1-01.jpg"
+  "image": "security-t1-01.jpg",
+  "name_zh": "T1国内安检",
+  "name_ja": "T1 国内線 保安検査",
+  "name_ko": "T1 국내선 보안 검색",
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "code": "customs",
@@ -179,7 +257,13 @@
   "hours": "24/7",
   "map_x": "",
   "map_y": "",
-  "image": ""
+  "image": "",
+  "name_zh": "海关（绿色通道／红色通道）",
+  "name_ja": "税関（緑ルート／赤ルート）",
+  "name_ko": "세관(녹색 통로/적색 통로)",
+  "desc_zh": "领取行李后办理",
+  "desc_ja": "手荷物を受け取った後に進みます",
+  "desc_ko": "수하물을 찾은 후 진행합니다"
  },
  {
   "code": "belt-t1",
@@ -192,7 +276,13 @@
   "hours": "24/7",
   "map_x": "",
   "map_y": "",
-  "image": ""
+  "image": "",
+  "name_zh": "T1行李转盘",
+  "name_ja": "T1 手荷物ターンテーブル",
+  "name_ko": "T1 수하물 벨트",
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "code": "gate-area-t1",
@@ -205,7 +295,13 @@
   "hours": "24/7",
   "map_x": "",
   "map_y": "",
-  "image": ""
+  "image": "",
+  "name_zh": "国内出发登机口区域",
+  "name_ja": "国内線出発ゲートエリア",
+  "name_ko": "국내선 출발 탑승구 구역",
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "code": "exit",
@@ -218,7 +314,13 @@
   "hours": "24/7",
   "map_x": "",
   "map_y": "",
-  "image": ""
+  "image": "",
+  "name_zh": "T2到达大厅（出口）",
+  "name_ja": "T2 到着ロビー（出口）",
+  "name_ko": "T2 도착 홀(출구)",
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "code": "exit-t1",
@@ -231,7 +333,13 @@
   "hours": "24/7",
   "map_x": "",
   "map_y": "",
-  "image": ""
+  "image": "",
+  "name_zh": "T1到达大厅（出口）",
+  "name_ja": "T1 到着ロビー（出口）",
+  "name_ko": "T1 도착 홀(출구)",
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "code": "visa-app",
@@ -244,6 +352,12 @@
   "hours": "",
   "map_x": "",
   "map_y": "",
-  "image": ""
+  "image": "",
+  "name_zh": "目的地签证手续",
+  "name_ja": "目的地のビザ手続き",
+  "name_ko": "목적지 비자 수속",
+  "desc_zh": "需办理目的地落地签证或其他边检相关手续的旅客，请在入境前前往办理。",
+  "desc_ja": "到着ビザやその他の出入国管理に関する手続きが必要なお客様は、入国審査の前にこちらで手続きしてください。",
+  "desc_ko": "도착 비자 또는 기타 출입국 관련 수속이 필요한 승객은 입국 심사 전에 이곳에서 수속해 주세요."
  }
 ]

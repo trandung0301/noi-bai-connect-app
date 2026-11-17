@@ -13,7 +13,10 @@
   "note_vi": "Lưu ý hành lý: Hành lý ký gửi thông thường sẽ tự động chuyển thẳng đến đích cuối cùng. Quý khách vui lòng xác nhận lại trạng thái thẻ hành lý với nhân viên tại quầy.",
   "note_en": "Baggage note: Checked baggage is usually transferred automatically to the final destination. Please confirm the baggage tag status with the staff at the counter.",
   "at": "transfer-desk",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "行李提示：托运行李通常会自动直接转运至最终目的地。请向柜台工作人员确认行李牌状态。",
+  "note_ja": "手荷物のご注意：受託手荷物は通常、最終目的地まで自動的に転送されます。手荷物タグの状況はカウンターのスタッフにご確認ください。",
+  "note_ko": "수하물 안내: 위탁수하물은 보통 최종 목적지까지 자동으로 연결됩니다. 수하물 태그 상태는 카운터 직원에게 다시 확인해 주세요."
  },
  {
   "route_code": "ii-arrival__gate",
@@ -29,7 +32,10 @@
   "note_vi": "",
   "note_en": "",
   "at": "immigration",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "ii-arrival__gate",
@@ -45,7 +51,10 @@
   "note_vi": "",
   "note_en": "",
   "at": "transfer-security",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "ii-arrival__gate",
@@ -61,7 +70,10 @@
   "note_vi": "",
   "note_en": "",
   "at": "gate-area",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -77,7 +89,10 @@
   "note_vi": "",
   "note_en": "",
   "at": "t1-arrival",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -93,7 +108,10 @@
   "note_vi": "",
   "note_en": "",
   "at": "shuttle-t1",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -109,7 +127,10 @@
   "note_vi": "",
   "note_en": "",
   "at": "checkin-islands",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -125,7 +146,10 @@
   "note_vi": "",
   "note_en": "",
   "at": "gate-area",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -134,14 +158,17 @@
   "step_no": "1",
   "instruction_vi": "Nhập cảnh: Hành khách di chuyển theo luồng Nhập cảnh (Immigration) để làm thủ tục nhập cảnh vào Việt Nam. \n1.\n- Đối với khách phải làm thủ tục nhận visa điểm đến hoặc các thủ tục khác, quý khách di chuyển vào quầy thủ tục công an cửa khẩu.\n- Đối với khách nước ngoài: trước khi nhập cảnh, quý khách hoàn thiện biểu mẫu pre-arrvival theo đường link: https://prearrival.immigration.gov.vn/home-page\n2. Khu vực nhập cảnh chia làm các làn như sau:\n- lane dành cho khách ngoại giao (tất cả các quốc tịch): \n- Lane dành cho khách ưu tiên (khách hạng thương gia, prioirity, khách có thẻ Apec -tất cả các quốc tịch)\n- Lane dành cho khách người Việt nam\n- Lane dành cho khách người nước ngoài\n- Lane dành cho khách người việt dùng cửa nhập cảnh tự động (Chỉ dành cho khách quốc tịch Việt Nam)\n- Làn dành cho khách nối chuyến đi các chuyến bay quốc tế.",
   "instruction_en": "",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "入境：请按照入境（Immigration）通道办理进入越南的入境手续。\n1.\n- 需办理落地签证或其他手续的旅客，请前往边检手续柜台。\n- 外国旅客：入境前请通过以下链接填写预申报表（pre-arrival）：https://prearrival.immigration.gov.vn/home-page\n2. 入境区域分为以下通道：\n- 外交旅客通道（所有国籍）\n- 优先旅客通道（公务舱、优先（priority）旅客、持APEC卡旅客，所有国籍）\n- 越南籍旅客通道\n- 外国籍旅客通道\n- 越南籍旅客自动入境闸机通道（仅限越南国籍）\n- 前往国际航班的中转旅客通道",
+  "instruction_ja": "入国審査：入国（Immigration）の流れに沿って、ベトナムへの入国手続きを行ってください。\n1.\n- 到着ビザやその他の手続きが必要な方は、出入国管理の手続きカウンターへお進みください。\n- 外国人のお客様：入国前に、次のリンクから事前申告フォーム（pre-arrival）をご記入ください：https://prearrival.immigration.gov.vn/home-page\n2. 入国審査エリアは次のレーンに分かれています。\n- 外交官用レーン（全国籍）\n- 優先レーン（ビジネスクラス、プライオリティ、APECカード保持者。全国籍）\n- ベトナム国籍のお客様用レーン\n- 外国籍のお客様用レーン\n- ベトナム国籍のお客様用の自動入国ゲート（ベトナム国籍のみ）\n- 国際線へ乗り継ぐお客様用レーン",
+  "instruction_ko": "입국 심사: 입국(Immigration) 동선을 따라 베트남 입국 절차를 진행해 주세요.\n1.\n- 도착 비자 또는 기타 수속이 필요한 승객은 출입국 관리 수속 카운터로 이동해 주세요.\n- 외국인 승객: 입국 전에 아래 링크에서 사전 신고서(pre-arrival)를 작성해 주세요: https://prearrival.immigration.gov.vn/home-page\n2. 입국 심사 구역은 다음과 같은 레인으로 나뉩니다.\n- 외교 승객 전용 레인(모든 국적)\n- 우선 승객 레인(비즈니스석, 프라이어리티, APEC 카드 소지자. 모든 국적)\n- 베트남 국적 승객 레인\n- 외국 국적 승객 레인\n- 베트남 국적 승객 자동 입국 게이트(베트남 국적만 해당)\n- 국제선 환승 승객 전용 레인",
   "image": "immigration-01.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "immigration",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -150,14 +177,17 @@
   "step_no": "2",
   "instruction_vi": "Lấy hành lý & Kiểm tra Hải quan: lấy hành lý tại băng chuyền số [belt].\nQuý khách lưu ý: Mặc dù hành lý được checkin đến điểm cuối nội địa, tuy nhiên, khách vẫn cần nhận lại hành lý để làm thủ tục hải quan.",
   "instruction_en": "",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "领取行李及海关检查：请在[belt]号行李转盘领取行李。\n请注意：虽然您的行李已办理直挂至国内航段的最终目的地，但仍需重新领取行李以办理海关手续。",
+  "instruction_ja": "手荷物の受け取りと税関検査：ターンテーブル[belt]番で手荷物を受け取ってください。\nご注意：手荷物は国内線の最終目的地まで通しで預けられていますが、税関手続きのため、一度ご自身で受け取る必要があります。",
+  "instruction_ko": "수하물 수취 및 세관 검사: [belt]번 수하물 벨트에서 수하물을 찾아 주세요.\n유의 사항: 수하물이 국내선 최종 목적지까지 연결 체크인되었더라도, 세관 절차를 위해 수하물을 다시 찾으셔야 합니다.",
   "image": "belt-01.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "belt",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -166,14 +196,17 @@
   "step_no": "3",
   "instruction_vi": "Bước 3: Hải quan – Quý khách đi qua khu vực kiểm tra hải quan sau khi nhận hành lý.",
   "instruction_en": "Step 3: Customs – Go through the customs check after collecting your baggage.",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "步骤3：海关 – 领取行李后，请通过海关检查区域。",
+  "instruction_ja": "ステップ3：税関 – 手荷物を受け取った後、税関検査エリアをお通りください。",
+  "instruction_ko": "3단계: 세관 – 수하물을 찾은 후 세관 검사 구역을 통과해 주세요.",
   "image": "",
   "note_vi": "",
   "note_en": "",
   "at": "belt",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -182,14 +215,17 @@
   "step_no": "4",
   "instruction_vi": "Bước 4: Sau khi làm thủ tục hải quan, quý khách vui lòng bàn giao lại hành lý cho nhân viên tại khu vực drop bag sau quầy hải quan.",
   "instruction_en": "",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "步骤4：办理完海关手续后，请在海关柜台后的行李交接区（drop bag）将行李交给工作人员。",
+  "instruction_ja": "ステップ4：税関手続きの後、税関カウンターの先にある手荷物預け入れエリア（drop bag）で、スタッフに手荷物をお渡しください。",
+  "instruction_ko": "4단계: 세관 절차를 마친 후, 세관 카운터 뒤 수하물 인계 구역(drop bag)에서 직원에게 수하물을 맡겨 주세요.",
   "image": "",
   "note_vi": "",
   "note_en": "",
   "at": "",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -198,14 +234,17 @@
   "step_no": "5",
   "instruction_vi": "Bước 5: Đón xe shuttle bus tại vị trí cột 18, làn 1, phía bên trái nhà ga, để sang nhà ga nội địa (T1).",
   "instruction_en": "Step 5: Take the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to the domestic terminal (T1).",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "步骤5：请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼（T1）。",
+  "instruction_ja": "ステップ5：ターミナル左側、レーン1の18番柱の位置でシャトルバスに乗り、国内線ターミナル（T1）へ向かいます。",
+  "instruction_ko": "5단계: 터미널 왼쪽 1번 차선 18번 기둥 위치에서 셔틀버스를 타고 국내선 터미널(T1)로 이동하세요.",
   "image": "shuttle-t2-01.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "shuttle-t2",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -214,14 +253,17 @@
   "step_no": "6",
   "instruction_vi": "Làm thủ tục an ninh tại nhà ga T1",
   "instruction_en": "",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "在T1航站楼办理安检",
+  "instruction_ja": "T1ターミナルで保安検査を受ける",
+  "instruction_ko": "T1 터미널에서 보안 검색 받기",
   "image": "security-t1-01.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "security-t1",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -230,14 +272,17 @@
   "step_no": "7",
   "instruction_vi": "Ra tàu bay: chuyến bay của quý khách có cửa lên tàu: [gate].",
   "instruction_en": "",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "前往登机口：您的航班登机口为：[gate]。",
+  "instruction_ja": "搭乗口へ：ご搭乗便の搭乗口は [gate] です。",
+  "instruction_ko": "탑승구로 이동: 탑승하실 항공편의 탑승구는 [gate]입니다.",
   "image": "",
   "note_vi": "",
   "note_en": "",
   "at": "gate-area-t1",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -246,14 +291,17 @@
   "step_no": "1",
   "instruction_vi": "Bước 1: Khách vào nhà ga quốc nội (T1) – Có quầy hỗ trợ nối chuyến ngay khi khách vào sảnh đến (xem ảnh).",
   "instruction_en": "Step 1: Arrive at the domestic terminal (T1) – A transit support counter is available right inside the arrivals hall (see photo).",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "步骤1：进入国内航站楼（T1）– 进入到达大厅后即可看到中转服务柜台（请参考图片）。",
+  "instruction_ja": "ステップ1：国内線ターミナル（T1）に入る – 到着ロビーに入るとすぐ、乗り継ぎサポートカウンターがあります（写真をご覧ください）。",
+  "instruction_ko": "1단계: 국내선 터미널(T1) 입장 – 도착 홀에 들어서면 바로 환승 지원 카운터가 있습니다(사진 참조).",
   "image": "transfer-desk-t1-01.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "t1-arrival",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -262,14 +310,17 @@
   "step_no": "2",
   "instruction_vi": "Bước 2: Đi thẳng vào giữa sảnh đến, đi thang máy lên tầng 2 (sảnh đi).",
   "instruction_en": "Step 2: Walk straight to the middle of the arrivals hall and take the lift up to Level 2 (departures hall).",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "步骤2：径直走到到达大厅中央，乘电梯上至2层（出发大厅）。",
+  "instruction_ja": "ステップ2：到着ロビーの中央まで真っすぐ進み、エレベーターで2階（出発ロビー）へ上がります。",
+  "instruction_ko": "2단계: 도착 홀 중앙까지 곧장 이동한 뒤 엘리베이터로 2층(출발 홀)으로 올라가세요.",
   "image": "",
   "note_vi": "",
   "note_en": "",
   "at": "",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -278,14 +329,17 @@
   "step_no": "3",
   "instruction_vi": "Bước 3: Nếu quý khách đã có thẻ lên tàu (boarding pass), qua soi chiếu an ninh nội địa. Trường hợp chưa có boarding pass, quý khách vui lòng vào quầy check-in để được hỗ trợ.",
   "instruction_en": "Step 3: If you already have a boarding pass, go through domestic security. If not, please go to the check-in counter for assistance.",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "步骤3：已有登机牌的旅客请通过国内安检；尚未取得登机牌的旅客，请前往值机柜台获取协助。",
+  "instruction_ja": "ステップ3：搭乗券をお持ちの方は、国内線の保安検査へお進みください。お持ちでない場合は、チェックインカウンターでご案内を受けてください。",
+  "instruction_ko": "3단계: 탑승권이 있는 승객은 국내선 보안 검색을 통과하세요. 탑승권이 없으면 체크인 카운터에서 도움을 받으세요.",
   "image": "security-t1-01.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "security-t1",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -294,14 +348,17 @@
   "step_no": "4",
   "instruction_vi": "Bước 4: Ra cửa ra tàu bay (gate boarding) – Quý khách di chuyển đến cửa ra tàu bay theo thông tin trên bảng thông báo chuyến bay. Cửa ra tàu bay của chuyến bay là: [gate].",
   "instruction_en": "Step 4: Proceed to the boarding gate – Please follow the flight information display. Your boarding gate is: [gate].",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "步骤4：前往登机口 – 请根据航班信息显示屏前往登机口。您的登机口是：[gate]。",
+  "instruction_ja": "ステップ4：搭乗口へ進む – フライト情報表示に従って搭乗口へお進みください。搭乗口は [gate] です。",
+  "instruction_ko": "4단계: 탑승구로 이동 – 항공편 안내 전광판에 따라 탑승구로 이동해 주세요. 탑승구는 [gate]입니다.",
   "image": "gate-t1.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "gate-area-t1",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -310,14 +367,17 @@
   "step_no": "1",
   "instruction_vi": "Quý khách theo hành lang ga đến, đi theo biển \"Nhập cảnh / Arrival\". \n- Đối với khách phải làm thủ tục nhận visa điểm đến hoặc các thủ tục khác, quý khách di chuyển vào quầy thủ tục công an cửa khẩu.\n- Đối với khách nước ngoài: trước khi nhập cảnh, quý khách hoàn thiện biểu mẫu pre-arrvival theo đường link: https://prearrival.immigration.gov.vn/home-page",
   "instruction_en": "Follow the arrivals corridor and the \"Immigration / Arrival\" signs",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "请沿到达走廊前行，跟随“入境 / Arrival”指示牌。\n- 需办理落地签证或其他手续的旅客，请前往边检手续柜台。\n- 外国旅客：入境前请通过以下链接填写预申报表（pre-arrival）：https://prearrival.immigration.gov.vn/home-page",
+  "instruction_ja": "到着通路に沿って進み、「入国 / Arrival」の案内表示に従ってください。\n- 到着ビザやその他の手続きが必要な方は、出入国管理の手続きカウンターへお進みください。\n- 外国人のお客様：入国前に、次のリンクから事前申告フォーム（pre-arrival）をご記入ください：https://prearrival.immigration.gov.vn/home-page",
+  "instruction_ko": "도착 복도를 따라 이동하며 “입국 / Arrival” 표지판을 따라가세요.\n- 도착 비자 또는 기타 수속이 필요한 승객은 출입국 관리 수속 카운터로 이동해 주세요.\n- 외국인 승객: 입국 전에 아래 링크에서 사전 신고서(pre-arrival)를 작성해 주세요: https://prearrival.immigration.gov.vn/home-page",
   "image": "gate-arrival-01.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "gate-arrival",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -326,14 +386,17 @@
   "step_no": "2",
   "instruction_vi": "Nhập cảnh: Hành khách di chuyển theo luồng Nhập cảnh (Immigration) để làm thủ tục nhập cảnh vào Việt Nam. \nKhu vực nhập cảnh chia làm các làn như sau:\n- lane dành cho khách ngoại giao (tất cả các quốc tịch): \n- Lane dành cho khách ưu tiên (khách hạng thương gia, prioirity, khách có thẻ Apec -tất cả các quốc tịch)\n- Lane dành cho khách người Việt nam\n- Lane dành cho khách người nước ngoài\n- Lane dành cho khách người việt dùng cửa nhập cảnh tự động (Chỉ dành cho khách quốc tịch Việt Nam)\n- Làn dành cho khách nối chuyến đi các chuyến bay quốc tế.",
   "instruction_en": "Immigration: passport and declaration ready; e-passports may use the auto gates",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "入境：请按照入境（Immigration）通道办理进入越南的入境手续。\n入境区域分为以下通道：\n- 外交旅客通道（所有国籍）\n- 优先旅客通道（公务舱、优先（priority）旅客、持APEC卡旅客，所有国籍）\n- 越南籍旅客通道\n- 外国籍旅客通道\n- 越南籍旅客自动入境闸机通道（仅限越南国籍）\n- 前往国际航班的中转旅客通道",
+  "instruction_ja": "入国審査：入国（Immigration）の流れに沿って、ベトナムへの入国手続きを行ってください。\n入国審査エリアは次のレーンに分かれています。\n- 外交官用レーン（全国籍）\n- 優先レーン（ビジネスクラス、プライオリティ、APECカード保持者。全国籍）\n- ベトナム国籍のお客様用レーン\n- 外国籍のお客様用レーン\n- ベトナム国籍のお客様用の自動入国ゲート（ベトナム国籍のみ）\n- 国際線へ乗り継ぐお客様用レーン",
+  "instruction_ko": "입국 심사: 입국(Immigration) 동선을 따라 베트남 입국 절차를 진행해 주세요.\n입국 심사 구역은 다음과 같은 레인으로 나뉩니다.\n- 외교 승객 전용 레인(모든 국적)\n- 우선 승객 레인(비즈니스석, 프라이어리티, APEC 카드 소지자. 모든 국적)\n- 베트남 국적 승객 레인\n- 외국 국적 승객 레인\n- 베트남 국적 승객 자동 입국 게이트(베트남 국적만 해당)\n- 국제선 환승 승객 전용 레인",
   "image": "immigration-04-bien-cua-tu-dong.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "immigration",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -342,14 +405,17 @@
   "step_no": "3",
   "instruction_vi": "Xuống tầng 1, nhận hành lý tại băng chuyền số [belt].",
   "instruction_en": "Go down to Level 1 and collect your baggage at belt [belt].",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "下到1层，在[belt]号行李转盘领取行李。",
+  "instruction_ja": "1階へ降り、ターンテーブル[belt]番で手荷物を受け取ります。",
+  "instruction_ko": "1층으로 내려가 [belt]번 수하물 벨트에서 수하물을 찾으세요.",
   "image": "belt-04-bien-dao-hanh-ly.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "belt",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -358,14 +424,17 @@
   "step_no": "4",
   "instruction_vi": "Hải quan: luồng xanh nếu không có hàng phải khai, luồng đỏ nếu có",
   "instruction_en": "Customs: green channel if nothing to declare, red channel otherwise",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "海关：无需申报物品请走绿色通道，有申报物品请走红色通道",
+  "instruction_ja": "税関：申告するものがなければ緑ルート、ある場合は赤ルートへ",
+  "instruction_ko": "세관: 신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 이동",
   "image": "",
   "note_vi": "",
   "note_en": "",
   "at": "customs",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t2-arrival__exit",
@@ -374,14 +443,17 @@
   "step_no": "5",
   "instruction_vi": "Ra sảnh đến: taxi, xe buýt, xe đưa đón",
   "instruction_en": "Arrivals hall: taxi, bus, pick-up",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "前往到达大厅：出租车、公交车、接送车",
+  "instruction_ja": "到着ロビーへ：タクシー、バス、送迎車",
+  "instruction_ko": "도착 홀: 택시, 버스, 픽업 차량",
   "image": "",
   "note_vi": "",
   "note_en": "",
   "at": "exit",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t2-security__gate",
@@ -390,14 +462,17 @@
   "step_no": "1",
   "instruction_vi": "Sau soi chiếu an ninh, vào phòng chờ quốc tế tầng 3",
   "instruction_en": "After security screening, enter the international departure hall on level 3",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "通过安检后，进入3层国际候机厅",
+  "instruction_ja": "保安検査の後、3階の国際線待合エリアへ",
+  "instruction_ko": "보안 검색 후 3층 국제선 대합실로 이동",
   "image": "transfer-security-02-to-gates.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "transfer-security",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t2-security__gate",
@@ -406,14 +481,17 @@
   "step_no": "2",
   "instruction_vi": "Theo biển số cửa; cửa 21–35 bên phải, 36–50 bên trái. Cửa đóng trước 15 phút",
   "instruction_en": "Follow the gate numbers; 21–35 to the right, 36–50 to the left. Gate closes 15 min before departure",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "请按登机口号码指示前行；21–35号在右侧，36–50号在左侧。登机口起飞前15分钟关闭",
+  "instruction_ja": "搭乗口番号の案内に従ってください。21～35番は右側、36～50番は左側です。搭乗口は出発の15分前に閉まります",
+  "instruction_ko": "탑승구 번호를 따라 이동하세요. 21~35번은 오른쪽, 36~50번은 왼쪽입니다. 탑승구는 출발 15분 전에 닫힙니다",
   "image": "int-gate.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "gate-area",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t2-security__lounge",
@@ -422,14 +500,17 @@
   "step_no": "1",
   "instruction_vi": "Sau soi chiếu an ninh, vào phòng chờ quốc tế tầng 3",
   "instruction_en": "After security screening, enter the departure hall on level 3",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "通过安检后，进入3层国际候机厅",
+  "instruction_ja": "保安検査の後、3階の国際線待合エリアへ",
+  "instruction_ko": "보안 검색 후 3층 국제선 대합실로 이동",
   "image": "transfer-security-02-to-gates.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "transfer-security",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t2-security__lounge",
@@ -438,14 +519,17 @@
   "step_no": "2",
   "instruction_vi": "Phòng chờ Thương gia Lotus ở phía cửa 23–26; xuất trình thẻ lên tàu / thẻ hội viên",
   "instruction_en": "Lotus Business Lounge near gates 23–26; show boarding pass / membership card",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "Lotus商务贵宾室位于23–26号登机口一侧；请出示登机牌／会员卡",
+  "instruction_ja": "ロータスビジネスラウンジは23～26番ゲート側です。搭乗券または会員カードをご提示ください",
+  "instruction_ko": "로터스 비즈니스 라운지는 23~26번 탑승구 쪽에 있습니다. 탑승권 또는 회원 카드를 제시해 주세요",
   "image": "lounge-01.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "lounge",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t1-arrival__exit",
@@ -454,14 +538,17 @@
   "step_no": "1",
   "instruction_vi": "Quý khách đi vào sảnh đến, tìm băng chuyền số [belt].",
   "instruction_en": "Enter the arrivals hall and find baggage belt [belt].",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "请进入到达大厅，找到[belt]号行李转盘。",
+  "instruction_ja": "到着ロビーに入り、ターンテーブル[belt]番を探してください。",
+  "instruction_ko": "도착 홀로 들어가 [belt]번 수하물 벨트를 찾으세요.",
   "image": "@2",
   "note_vi": "",
   "note_en": "",
   "at": "t1-arrival",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t1-arrival__exit",
@@ -470,14 +557,17 @@
   "step_no": "2",
   "instruction_vi": "Quý khách nhận hành lý và đi ra ngoài theo các cửa.",
   "instruction_en": "Collect your baggage and leave through the exit doors.",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "领取行李后，请从出口门离开。",
+  "instruction_ja": "手荷物を受け取り、出口から外へお進みください。",
+  "instruction_ko": "수하물을 찾은 후 출구로 나가세요.",
   "image": "@3",
   "note_vi": "",
   "note_en": "",
   "at": "belt-t1",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t1-arrival__exit",
@@ -486,14 +576,17 @@
   "step_no": "3",
   "instruction_vi": "Trong trường hợp có bất thường về hành lý, quý khách vui lòng liên hệ quầy Hành lý thất lạc tại chính giữa sảnh đến.",
   "instruction_en": "If there is any problem with your baggage, please contact the Lost and Found counter in the middle of the arrivals hall.",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "如行李出现异常，请前往到达大厅中央的行李遗失柜台。",
+  "instruction_ja": "手荷物に問題がある場合は、到着ロビー中央の手荷物紛失カウンターへお越しください。",
+  "instruction_ko": "수하물에 문제가 있는 경우 도착 홀 중앙의 수하물 분실 센터로 문의해 주세요.",
   "image": "lnf-nd.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "exit-t1",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t1-security__gate",
@@ -502,14 +595,17 @@
   "step_no": "1",
   "instruction_vi": "Sau soi chiếu an ninh, vào khu cửa khởi hành nội địa tầng 2",
   "instruction_en": "After security, enter the domestic departure area on level 2",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "通过安检后，进入2层国内出发登机口区域",
+  "instruction_ja": "保安検査の後、2階の国内線出発ゲートエリアへ",
+  "instruction_ko": "보안 검색 후 2층 국내선 출발 탑승구 구역으로 이동",
   "image": "security-t1-01.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "security-t1",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t1-security__gate",
@@ -518,14 +614,17 @@
   "step_no": "2",
   "instruction_vi": "Theo biển số cửa. Cửa đóng trước 15 phút",
   "instruction_en": "Follow the gate numbers. Gate closes 15 min before departure",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "请按登机口号码指示前行。登机口起飞前15分钟关闭",
+  "instruction_ja": "搭乗口番号の案内に従ってください。搭乗口は出発の15分前に閉まります",
+  "instruction_ko": "탑승구 번호를 따라 이동하세요. 탑승구는 출발 15분 전에 닫힙니다",
   "image": "",
   "note_vi": "",
   "note_en": "",
   "at": "gate-area-t1",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t2-departure__gate",
@@ -534,14 +633,17 @@
   "step_no": "1",
   "instruction_vi": "[Vào sảnh đi tầng 3 nhà ga T2; xem bảng thông tin để biết đảo thủ tục của chuyến bay. Làm thủ tục tại quầy hoặc kiosk, gửi hành lý]",
   "instruction_en": "",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "[进入T2航站楼3层出发大厅；查看信息屏确认您航班的值机岛。在柜台或自助机办理值机并托运行李]",
+  "instruction_ja": "[T2ターミナル3階の出発ロビーへ。案内表示でご搭乗便のチェックインアイランドを確認し、カウンターまたはキオスクでチェックインと手荷物の預け入れを行います]",
+  "instruction_ko": "[T2 터미널 3층 출발 홀로 들어가 안내 화면에서 해당 항공편의 체크인 아일랜드를 확인하세요. 카운터 또는 키오스크에서 체크인하고 수하물을 위탁합니다]",
   "image": "checkin-islands-01.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "checkin-islands",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t2-departure__gate",
@@ -550,14 +652,17 @@
   "step_no": "2",
   "instruction_vi": "[Thủ tục xuất cảnh: chuẩn bị hộ chiếu và thẻ lên tàu; hộ chiếu chip có thể dùng cửa tự động]",
   "instruction_en": "",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "[出境手续：请备好护照和登机牌；电子护照可使用自动通道]",
+  "instruction_ja": "[出国手続き：パスポートと搭乗券をご準備ください。ICパスポートは自動ゲートをご利用いただけます]",
+  "instruction_ko": "[출국 수속: 여권과 탑승권을 준비하세요. 전자여권은 자동 출입국 심사대를 이용할 수 있습니다]",
   "image": "emigration-01.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "emigration",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t2-departure__gate",
@@ -566,14 +671,17 @@
   "step_no": "3",
   "instruction_vi": "[Soi chiếu an ninh: bỏ thiết bị điện tử, chất lỏng ra khay]",
   "instruction_en": "",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "[安检：请将电子设备和液体取出放入托盘]",
+  "instruction_ja": "[保安検査：電子機器と液体をトレイに出してください]",
+  "instruction_ko": "[보안 검색: 전자기기와 액체류를 트레이에 꺼내 놓으세요]",
   "image": "",
   "note_vi": "",
   "note_en": "",
   "at": "transfer-security",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t2-departure__gate",
@@ -582,14 +690,17 @@
   "step_no": "4",
   "instruction_vi": "[Vào phòng chờ tầng 3, ra cửa lên tàu [gate]. Cửa đóng trước 15 phút]",
   "instruction_en": "",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "[进入3层候机厅，前往登机口[gate]。登机口起飞前15分钟关闭]",
+  "instruction_ja": "[3階の待合エリアへ進み、搭乗口[gate]へ。搭乗口は出発の15分前に閉まります]",
+  "instruction_ko": "[3층 대합실로 들어가 탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다]",
   "image": "int-gate.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "gate-area",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t1-departure__gate",
@@ -598,14 +709,17 @@
   "step_no": "1",
   "instruction_vi": "[Vào sảnh đi tầng 2 nhà ga T1; làm thủ tục tại quầy hoặc kiosk theo bảng thông tin]",
   "instruction_en": "",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "[进入T1航站楼2层出发大厅；按信息屏在柜台或自助机办理值机]",
+  "instruction_ja": "[T1ターミナル2階の出発ロビーへ。案内表示に従い、カウンターまたはキオスクでチェックインします]",
+  "instruction_ko": "[T1 터미널 2층 출발 홀로 들어가 안내 화면에 따라 카운터 또는 키오스크에서 체크인하세요]",
   "image": "",
   "note_vi": "",
   "note_en": "",
   "at": "t1-arrival",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t1-departure__gate",
@@ -614,14 +728,17 @@
   "step_no": "2",
   "instruction_vi": "[Soi chiếu an ninh nội địa]",
   "instruction_en": "",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "[国内安检]",
+  "instruction_ja": "[国内線の保安検査]",
+  "instruction_ko": "[국내선 보안 검색]",
   "image": "security-t1-01.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "security-t1",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "t1-departure__gate",
@@ -630,14 +747,17 @@
   "step_no": "3",
   "instruction_vi": "[Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút]",
   "instruction_en": "",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "[前往登机口[gate]。登机口起飞前15分钟关闭]",
+  "instruction_ja": "[搭乗口[gate]へ。搭乗口は出発の15分前に閉まります]",
+  "instruction_ko": "[탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다]",
   "image": "",
   "note_vi": "",
   "note_en": "",
   "at": "gate-area-t1",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -646,13 +766,16 @@
   "step_no": "4",
   "instruction_vi": "Bước 4: Bàn giao hành lý (Transfer drop bag) – Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
   "instruction_en": "Step 4: Transfer drop bag – After the customs area, turn right and hand over your baggage to the receiving staff.",
-  "instruction_zh": "",
-  "instruction_ja": "",
-  "instruction_ko": "",
+  "instruction_zh": "步骤4：行李交接（Transfer drop bag）– 通过海关区域后向右转，将行李交给接收的工作人员。",
+  "instruction_ja": "ステップ4：手荷物の引き渡し（Transfer drop bag） – 税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "instruction_ko": "4단계: 수하물 인계(Transfer drop bag) – 세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요.",
   "image": "domestic-transfer-drop-bag.jpg",
   "note_vi": "",
   "note_en": "",
   "at": "belt",
-  "distance_m": ""
+  "distance_m": "",
+  "note_zh": "",
+  "note_ja": "",
+  "note_ko": ""
  }
 ]

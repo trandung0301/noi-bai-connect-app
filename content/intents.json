@@ -12,7 +12,16 @@
   "den_loai": "QT",
   "di_loai": "QT",
   "luu_y_vi": "",
-  "luu_y_en": ""
+  "luu_y_en": "",
+  "label_zh": "中转：国际 – 国际",
+  "label_ja": "乗り継ぎ：国際線 – 国際線",
+  "label_ko": "환승: 국제선 – 국제선",
+  "sub_zh": "无需入境，直接前往中转区",
+  "sub_ja": "入国審査なし、乗り継ぎエリアへ直行",
+  "sub_ko": "입국 심사 없이 환승 구역으로 바로 이동",
+  "luu_y_zh": "",
+  "luu_y_ja": "",
+  "luu_y_ko": ""
  },
  {
   "code": "pt2-id",
@@ -27,7 +36,16 @@
   "den_loai": "QT",
   "di_loai": "NĐ",
   "luu_y_vi": "Lưu ý quan trọng: Quý khách cần tự lấy hành lý ký gửi tại băng chuyền và làm thủ tục hải quan tại Nội Bài, sau đó bàn giao lại hành lý tại điểm transfer drop bag rồi đi xe buýt sang T1.",
-  "luu_y_en": "Important: You must collect your checked baggage at the carousel and clear customs at Noi Bai, then hand your bag over at the transfer drop-bag point before taking the shuttle bus to T1."
+  "luu_y_en": "Important: You must collect your checked baggage at the carousel and clear customs at Noi Bai, then hand your bag over at the transfer drop-bag point before taking the shuttle bus to T1.",
+  "label_zh": "中转：国际 – 国内",
+  "label_ja": "乗り継ぎ：国際線 – 国内線",
+  "label_ko": "환승: 국제선 – 국내선",
+  "sub_zh": "入境、领取行李、前往T1",
+  "sub_ja": "入国審査・手荷物受け取り・T1へ",
+  "sub_ko": "입국 심사, 수하물 수취, T1로 이동",
+  "luu_y_zh": "重要提示：您需要在内排机场自行在行李转盘领取托运行李并办理海关手续，然后在行李中转交接点（transfer drop bag）交还行李，再乘坐摆渡车前往T1。",
+  "luu_y_ja": "重要なお知らせ：ノイバイ空港で、受託手荷物をご自身でターンテーブルから受け取り、税関手続きを済ませてください。その後、乗り継ぎ手荷物の預け入れ場所（transfer drop bag）で手荷物を預け、シャトルバスでT1へ移動します。",
+  "luu_y_ko": "중요 안내: 노이바이 공항에서 위탁수하물을 직접 수하물 벨트에서 찾아 세관 절차를 마친 뒤, 환승 수하물 인계 지점(transfer drop bag)에 수하물을 맡기고 셔틀버스로 T1으로 이동하셔야 합니다."
  },
  {
   "code": "pt5-den-qt",
@@ -42,7 +60,16 @@
   "den_loai": "QT",
   "di_loai": "",
   "luu_y_vi": "",
-  "luu_y_en": ""
+  "luu_y_en": "",
+  "label_zh": "国际到达",
+  "label_ja": "国際線の到着",
+  "label_ko": "국제선 도착",
+  "sub_zh": "入境、领取行李、前往到达大厅",
+  "sub_ja": "入国審査・手荷物受け取り・到着ロビーへ",
+  "sub_ko": "입국 심사, 수하물 수취, 도착 홀로 이동",
+  "luu_y_zh": "",
+  "luu_y_ja": "",
+  "luu_y_ko": ""
  },
  {
   "code": "pt6-di-qt",
@@ -57,7 +84,16 @@
   "den_loai": "",
   "di_loai": "QT",
   "luu_y_vi": "",
-  "luu_y_en": ""
+  "luu_y_en": "",
+  "label_zh": "国际出发",
+  "label_ja": "国際線の出発",
+  "label_ko": "국제선 출발",
+  "sub_zh": "值机、出境、安检、前往登机口",
+  "sub_ja": "チェックイン・出国審査・保安検査・搭乗口へ",
+  "sub_ko": "체크인, 출국 심사, 보안 검색, 탑승구로 이동",
+  "luu_y_zh": "",
+  "luu_y_ja": "",
+  "luu_y_ko": ""
  },
  {
   "code": "t2-lounge",
@@ -72,7 +108,16 @@
   "den_loai": "",
   "di_loai": "",
   "luu_y_vi": "",
-  "luu_y_en": ""
+  "luu_y_en": "",
+  "label_zh": "前往商务贵宾室",
+  "label_ja": "ビジネスラウンジへ",
+  "label_ko": "비즈니스 라운지로 이동",
+  "sub_zh": "Lotus贵宾室，3层",
+  "sub_ja": "ロータスラウンジ（3階）",
+  "sub_ko": "로터스 라운지, 3층",
+  "luu_y_zh": "",
+  "luu_y_ja": "",
+  "luu_y_ko": ""
  },
  {
   "code": "pt3-di",
@@ -87,7 +132,16 @@
   "den_loai": "NĐ",
   "di_loai": "QT",
   "luu_y_vi": "",
-  "luu_y_en": ""
+  "luu_y_en": "",
+  "label_zh": "中转：国内 – 国际",
+  "label_ja": "乗り継ぎ：国内線 – 国際線",
+  "label_ko": "환승: 국내선 – 국제선",
+  "sub_zh": "乘摆渡车前往T2，办理国际值机",
+  "sub_ja": "シャトルバスでT2へ、国際線のチェックイン",
+  "sub_ko": "셔틀버스로 T2 이동, 국제선 체크인",
+  "luu_y_zh": "",
+  "luu_y_ja": "",
+  "luu_y_ko": ""
  },
  {
   "code": "pt4-dd",
@@ -102,7 +156,16 @@
   "den_loai": "NĐ",
   "di_loai": "NĐ",
   "luu_y_vi": "",
-  "luu_y_en": ""
+  "luu_y_en": "",
+  "label_zh": "中转：国内 – 国内",
+  "label_ja": "乗り継ぎ：国内線 – 国内線",
+  "label_ko": "환승: 국내선 – 국내선",
+  "sub_zh": "留在T1，通过安检",
+  "sub_ja": "T1に留まり、保安検査へ",
+  "sub_ko": "T1에 머물며 보안 검색 통과",
+  "luu_y_zh": "",
+  "luu_y_ja": "",
+  "luu_y_ko": ""
  },
  {
   "code": "pt7-den-nd",
@@ -117,7 +180,16 @@
   "den_loai": "NĐ",
   "di_loai": "",
   "luu_y_vi": "",
-  "luu_y_en": ""
+  "luu_y_en": "",
+  "label_zh": "国内到达",
+  "label_ja": "国内線の到着",
+  "label_ko": "국내선 도착",
+  "sub_zh": "领取行李，前往到达大厅",
+  "sub_ja": "手荷物の受け取り・到着ロビーへ",
+  "sub_ko": "수하물 수취 후 도착 홀로 이동",
+  "luu_y_zh": "",
+  "luu_y_ja": "",
+  "luu_y_ko": ""
  },
  {
   "code": "pt8-di-nd",
@@ -132,7 +204,16 @@
   "den_loai": "",
   "di_loai": "NĐ",
   "luu_y_vi": "",
-  "luu_y_en": ""
+  "luu_y_en": "",
+  "label_zh": "国内出发",
+  "label_ja": "国内線の出発",
+  "label_ko": "국내선 출발",
+  "sub_zh": "值机、安检、前往登机口",
+  "sub_ja": "チェックイン・保安検査・搭乗口へ",
+  "sub_ko": "체크인, 보안 검색, 탑승구로 이동",
+  "luu_y_zh": "",
+  "luu_y_ja": "",
+  "luu_y_ko": ""
  },
  {
   "code": "t1-lounge",
@@ -147,6 +228,15 @@
   "den_loai": "",
   "di_loai": "",
   "luu_y_vi": "",
-  "luu_y_en": ""
+  "luu_y_en": "",
+  "label_zh": "前往商务贵宾室",
+  "label_ja": "ビジネスラウンジへ",
+  "label_ko": "비즈니스 라운지로 이동",
+  "sub_zh": "Lotus贵宾室，3层",
+  "sub_ja": "ロータスラウンジ（3階）",
+  "sub_ko": "로터스 라운지, 3층",
+  "luu_y_zh": "",
+  "luu_y_ja": "",
+  "luu_y_ko": ""
  }
 ]

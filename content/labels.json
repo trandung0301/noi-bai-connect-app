@@ -2,601 +2,985 @@
  {
   "key": "app.title",
   "vi": "Nội Bài Connect",
-  "en": "Nội Bài Connect"
+  "en": "Nội Bài Connect",
+  "zh": "Nội Bài Connect",
+  "ja": "Nội Bài Connect",
+  "ko": "Nội Bài Connect"
  },
  {
   "key": "home.current_location",
   "vi": "Vị trí hiện tại của anh/chị",
-  "en": "Your current location"
+  "en": "Your current location",
+  "zh": "您当前所在的位置",
+  "ja": "現在地",
+  "ko": "현재 위치"
  },
  {
   "key": "home.from_qr",
   "vi": "Xác định theo mã QR anh/chị vừa quét",
-  "en": "Based on the QR code you scanned"
+  "en": "Based on the QR code you scanned",
+  "zh": "根据您刚才扫描的二维码确定",
+  "ja": "先ほどスキャンしたQRコードで特定しました",
+  "ko": "방금 스캔하신 QR 코드로 확인했습니다"
  },
  {
   "key": "home.wrong_location",
   "vi": "Không đúng? Chọn lại",
-  "en": "Not right? Change"
+  "en": "Not right? Change",
+  "zh": "不对？重新选择",
+  "ja": "違いますか？選び直す",
+  "ko": "맞지 않나요? 다시 선택"
  },
  {
   "key": "home.next_flight",
   "vi": "Chuyến bay kế tiếp của anh/chị",
-  "en": "Your next flight"
+  "en": "Your next flight",
+  "zh": "您的下一个航班",
+  "ja": "次のご搭乗便",
+  "ko": "다음 항공편"
  },
  {
   "key": "home.where_to",
   "vi": "Anh/chị cần đi đâu?",
-  "en": "Where do you need to go?"
+  "en": "Where do you need to go?",
+  "zh": "您要去哪里？",
+  "ja": "どちらへ行かれますか？",
+  "ko": "어디로 가시나요?"
  },
  {
   "key": "home.dest.gate",
   "vi": "Cửa lên tàu",
-  "en": "Boarding gate"
+  "en": "Boarding gate",
+  "zh": "登机口",
+  "ja": "搭乗口",
+  "ko": "탑승구"
  },
  {
   "key": "home.dest.belt",
   "vi": "Băng chuyền hành lý",
-  "en": "Baggage reclaim"
+  "en": "Baggage reclaim",
+  "zh": "行李转盘",
+  "ja": "手荷物受取ターンテーブル",
+  "ko": "수하물 수취대"
  },
  {
   "key": "home.dest.immigration",
   "vi": "Xuất / nhập cảnh",
-  "en": "Immigration"
+  "en": "Immigration",
+  "zh": "出入境",
+  "ja": "出入国",
+  "ko": "출입국"
  },
  {
   "key": "home.dest.lounge",
   "vi": "Phòng chờ Thương gia",
-  "en": "Business lounge"
+  "en": "Business lounge",
+  "zh": "商务贵宾室",
+  "ja": "ビジネスラウンジ",
+  "ko": "비즈니스 라운지"
  },
  {
   "key": "route.closes_in",
   "vi": "Đóng cửa lên tàu sau",
-  "en": "Gate closes in"
+  "en": "Gate closes in",
+  "zh": "登机口关闭倒计时",
+  "ja": "搭乗口クローズまで",
+  "ko": "탑승구 마감까지"
  },
  {
   "key": "route.walk_time",
   "vi": "Thời gian đi bộ",
-  "en": "Walking time"
+  "en": "Walking time",
+  "zh": "步行时间",
+  "ja": "徒歩所要時間",
+  "ko": "도보 소요 시간"
  },
  {
   "key": "route.arrived",
   "vi": "Tôi đã đến nơi",
-  "en": "I have arrived"
+  "en": "I have arrived",
+  "zh": "我已到达",
+  "ja": "到着しました",
+  "ko": "도착했습니다"
  },
  {
   "key": "flight.gate",
   "vi": "Cửa",
-  "en": "Gate"
+  "en": "Gate",
+  "zh": "登机口",
+  "ja": "搭乗口",
+  "ko": "탑승구"
  },
  {
   "key": "flight.boarding",
   "vi": "Lên tàu",
-  "en": "Boarding"
+  "en": "Boarding",
+  "zh": "登机",
+  "ja": "搭乗開始",
+  "ko": "탑승 시작"
  },
  {
   "key": "flight.closes",
   "vi": "Đóng cửa",
-  "en": "Closes"
+  "en": "Closes",
+  "zh": "截止",
+  "ja": "締切",
+  "ko": "마감"
  },
  {
   "key": "flight.belt",
   "vi": "Băng chuyền hành lý",
-  "en": "Baggage belt"
+  "en": "Baggage belt",
+  "zh": "行李转盘",
+  "ja": "手荷物ターンテーブル",
+  "ko": "수하물 벨트"
  },
  {
   "key": "common.fids_note",
   "vi": "Thông tin tham khảo. Vui lòng xem màn hình FIDS.",
-  "en": "For reference only. Please check the FIDS screens."
+  "en": "For reference only. Please check the FIDS screens.",
+  "zh": "仅供参考，请以航班信息显示屏（FIDS）为准。",
+  "ja": "参考情報です。フライト情報表示板（FIDS）をご確認ください。",
+  "ko": "참고용 정보입니다. 항공편 안내 전광판(FIDS)을 확인해 주세요."
  },
  {
   "key": "feedback.title",
   "vi": "Góp ý 30 giây",
-  "en": "30-second feedback"
+  "en": "30-second feedback",
+  "zh": "30秒意见反馈",
+  "ja": "30秒フィードバック",
+  "ko": "30초 의견 보내기"
  },
  {
   "key": "feedback.submit",
   "vi": "Gửi góp ý",
-  "en": "Send feedback"
+  "en": "Send feedback",
+  "zh": "提交意见",
+  "ja": "送信する",
+  "ko": "의견 보내기"
  },
  {
   "key": "common.back",
   "vi": "Quay lại",
-  "en": "Back"
+  "en": "Back",
+  "zh": "返回",
+  "ja": "戻る",
+  "ko": "뒤로"
  },
  {
   "key": "common.feedback",
   "vi": "Góp ý",
-  "en": "Feedback"
+  "en": "Feedback",
+  "zh": "意见反馈",
+  "ja": "ご意見",
+  "ko": "의견"
  },
  {
   "key": "common.floor",
   "vi": "tầng",
-  "en": "level"
+  "en": "level",
+  "zh": "层",
+  "ja": "階",
+  "ko": "층"
  },
  {
   "key": "common.minutes",
   "vi": "phút",
-  "en": "min"
+  "en": "min",
+  "zh": "分钟",
+  "ja": "分",
+  "ko": "분"
  },
  {
   "key": "home.lookup",
   "vi": "Xem",
-  "en": "Look up"
+  "en": "Look up",
+  "zh": "查看",
+  "ja": "確認",
+  "ko": "확인"
  },
  {
   "key": "home.lookup_hint",
   "vi": "Hiển thị cửa lên tàu, giờ đóng cửa và đường đi tới cửa.",
-  "en": "Shows gate, closing time and the way to the gate."
+  "en": "Shows gate, closing time and the way to the gate.",
+  "zh": "显示登机口、截止时间及前往登机口的路线。",
+  "ja": "搭乗口、締切時刻、搭乗口までの経路を表示します。",
+  "ko": "탑승구, 마감 시간, 탑승구까지의 경로를 보여 줍니다."
  },
  {
   "key": "home.dest.gate_sub",
   "vi": "Nối chuyến đi tiếp",
-  "en": "Connecting onward"
+  "en": "Connecting onward",
+  "zh": "前往下一程航班",
+  "ja": "次の便へ乗り継ぎ",
+  "ko": "다음 항공편으로 환승"
  },
  {
   "key": "home.dest.belt_sub",
   "vi": "Lấy lại hành lý ký gửi",
-  "en": "Collect checked bags"
+  "en": "Collect checked bags",
+  "zh": "领取托运行李",
+  "ja": "受託手荷物の受け取り",
+  "ko": "위탁수하물 찾기"
  },
  {
   "key": "home.dest.immigration_sub",
   "vi": "Hải quan, thị thực",
-  "en": "Customs, visa"
+  "en": "Customs, visa",
+  "zh": "海关、签证",
+  "ja": "税関・ビザ",
+  "ko": "세관, 비자"
  },
  {
   "key": "home.dest.lounge_sub",
   "vi": "Lotus Lounge",
-  "en": "Lotus Lounge"
+  "en": "Lotus Lounge",
+  "zh": "Lotus贵宾室",
+  "ja": "ロータスラウンジ",
+  "ko": "로터스 라운지"
  },
  {
   "key": "home.mct_title",
   "vi": "Thời gian nối chuyến tối thiểu",
-  "en": "Minimum connection time"
+  "en": "Minimum connection time",
+  "zh": "最短中转时间",
+  "ja": "最短乗り継ぎ時間",
+  "ko": "최소 환승 시간"
  },
  {
   "key": "home.mct_sub",
   "vi": "và quy định hành lý nối chuyến",
-  "en": "and transfer baggage rules"
+  "en": "and transfer baggage rules",
+  "zh": "及中转行李规定",
+  "ja": "および乗り継ぎ手荷物のルール",
+  "ko": "및 환승 수하물 규정"
  },
  {
   "key": "route.title",
   "vi": "Đường đi",
-  "en": "Route"
+  "en": "Route",
+  "zh": "路线",
+  "ja": "経路",
+  "ko": "경로"
  },
  {
   "key": "route.steps",
   "vi": "bước",
-  "en": "steps"
+  "en": "steps",
+  "zh": "步",
+  "ja": "ステップ",
+  "ko": "단계"
  },
  {
   "key": "route.closed",
   "vi": "ĐÃ ĐÓNG CỬA",
-  "en": "GATE CLOSED"
+  "en": "GATE CLOSED",
+  "zh": "登机口已关闭",
+  "ja": "搭乗口は閉まりました",
+  "ko": "탑승구 마감"
  },
  {
   "key": "route.none",
   "vi": "Chưa có hướng dẫn cho tuyến này. Vui lòng hỏi nhân viên Vietnam Airlines.",
-  "en": "No guidance for this route yet. Please ask Vietnam Airlines staff."
+  "en": "No guidance for this route yet. Please ask Vietnam Airlines staff.",
+  "zh": "此路线暂无指引，请询问越南航空工作人员。",
+  "ja": "この経路の案内はまだありません。ベトナム航空スタッフにお尋ねください。",
+  "ko": "이 경로의 안내가 아직 없습니다. 베트남항공 직원에게 문의해 주세요."
  },
  {
   "key": "route.help",
   "vi": "Cần hỗ trợ? Hỏi nhân viên Vietnam Airlines tại bất kỳ quầy nào.",
-  "en": "Need help? Ask Vietnam Airlines staff at any counter."
+  "en": "Need help? Ask Vietnam Airlines staff at any counter.",
+  "zh": "需要帮助？请在任一柜台询问越南航空工作人员。",
+  "ja": "お困りですか？どのカウンターでもベトナム航空スタッフにお尋ねください。",
+  "ko": "도움이 필요하신가요? 아무 카운터에서나 베트남항공 직원에게 문의해 주세요."
  },
  {
   "key": "flight.title",
   "vi": "Chuyến bay của tôi",
-  "en": "My flight"
+  "en": "My flight",
+  "zh": "我的航班",
+  "ja": "マイフライト",
+  "ko": "내 항공편"
  },
  {
   "key": "flight.dep_input",
   "vi": "Chuyến bay đi tiếp",
-  "en": "Departing flight"
+  "en": "Departing flight",
+  "zh": "下一程航班",
+  "ja": "乗り継ぎ先の便",
+  "ko": "다음 출발 항공편"
  },
  {
   "key": "flight.arr_input",
   "vi": "Chuyến bay vừa đến (không bắt buộc)",
-  "en": "Arriving flight (optional)"
+  "en": "Arriving flight (optional)",
+  "zh": "刚到达的航班（选填）",
+  "ja": "到着した便（任意）",
+  "ko": "방금 도착한 항공편(선택)"
  },
  {
   "key": "flight.not_found",
   "vi": "Không tìm thấy chuyến bay. Kiểm tra lại số hiệu hoặc xem màn hình FIDS.",
-  "en": "Flight not found. Check the number or see the FIDS screens."
+  "en": "Flight not found. Check the number or see the FIDS screens.",
+  "zh": "未找到该航班。请核对航班号或查看FIDS显示屏。",
+  "ja": "便が見つかりません。便名をご確認いただくか、FIDS表示板をご覧ください。",
+  "ko": "항공편을 찾을 수 없습니다. 편명을 확인하거나 FIDS 전광판을 확인해 주세요."
  },
  {
   "key": "flight.departure",
   "vi": "Chuyến đi tiếp",
-  "en": "Departure"
+  "en": "Departure",
+  "zh": "下一程航班",
+  "ja": "乗り継ぎ便",
+  "ko": "다음 출발편"
  },
  {
   "key": "flight.arrival",
   "vi": "Chuyến vừa đến",
-  "en": "Arrival"
+  "en": "Arrival",
+  "zh": "刚到达的航班",
+  "ja": "到着便",
+  "ko": "도착편"
  },
  {
   "key": "flight.std",
   "vi": "Khởi hành",
-  "en": "Departs"
+  "en": "Departs",
+  "zh": "起飞",
+  "ja": "出発",
+  "ko": "출발"
  },
  {
   "key": "flight.domestic",
   "vi": "Nội địa",
-  "en": "Domestic"
+  "en": "Domestic",
+  "zh": "国内",
+  "ja": "国内線",
+  "ko": "국내선"
  },
  {
   "key": "flight.international",
   "vi": "Quốc tế",
-  "en": "International"
+  "en": "International",
+  "zh": "国际",
+  "ja": "国際線",
+  "ko": "국제선"
  },
  {
   "key": "flight.closes_in",
   "vi": "Còn",
-  "en": "Gate closes in"
+  "en": "Gate closes in",
+  "zh": "登机口将在",
+  "ja": "搭乗口が閉まるまで残り",
+  "ko": "탑승구 마감까지"
  },
  {
   "key": "flight.to_close",
   "vi": "đến giờ đóng cửa",
-  "en": ""
+  "en": "",
+  "zh": "后关闭",
+  "ja": "です",
+  "ko": "남았습니다"
  },
  {
   "key": "flight.updated",
   "vi": "cập nhật",
-  "en": "updated"
+  "en": "updated",
+  "zh": "更新于",
+  "ja": "更新",
+  "ko": "업데이트"
  },
  {
   "key": "flight.stale",
   "vi": "Dữ liệu chưa cập nhật. Vui lòng xem màn hình FIDS.",
-  "en": "Data not refreshed. Please check the FIDS screens."
+  "en": "Data not refreshed. Please check the FIDS screens.",
+  "zh": "数据尚未更新，请查看FIDS显示屏。",
+  "ja": "データが更新されていません。FIDS表示板をご確認ください。",
+  "ko": "데이터가 아직 갱신되지 않았습니다. FIDS 전광판을 확인해 주세요."
  },
  {
   "key": "flight.directions_gate",
   "vi": "Chỉ đường đến cửa",
-  "en": "Directions to gate"
+  "en": "Directions to gate",
+  "zh": "前往登机口的路线",
+  "ja": "搭乗口までの経路",
+  "ko": "탑승구까지 길 안내"
  },
  {
   "key": "flight.directions_belt",
   "vi": "Chỉ đường đến băng chuyền",
-  "en": "Directions to baggage belt"
+  "en": "Directions to baggage belt",
+  "zh": "前往行李转盘的路线",
+  "ja": "手荷物ターンテーブルまでの経路",
+  "ko": "수하물 벨트까지 길 안내"
  },
  {
   "key": "flight.belt_no",
   "vi": "Số",
-  "en": "No."
+  "en": "No.",
+  "zh": "号",
+  "ja": "番",
+  "ko": "번"
  },
  {
   "key": "flight.id_note",
   "vi": "Nối chuyến quốc tế → nội địa: anh/chị cần nhập cảnh, lấy hành lý và làm thủ tục lại tại T1.",
-  "en": "International → domestic: clear immigration, collect bags and check in again at T1."
+  "en": "International → domestic: clear immigration, collect bags and check in again at T1.",
+  "zh": "国际转国内：您需要办理入境、领取行李，并在T1重新办理登机手续。",
+  "ja": "国際線から国内線への乗り継ぎ：入国審査を受け、手荷物を受け取り、T1で改めてチェックインしてください。",
+  "ko": "국제선 → 국내선 환승: 입국 심사를 받고 수하물을 찾은 뒤 T1에서 다시 체크인해야 합니다."
  },
  {
   "key": "flight.ii_note",
   "vi": "Nối chuyến quốc tế → quốc tế: không cần nhập cảnh; hành lý ký gửi thường chuyển thẳng, xác nhận tại quầy nối chuyến.",
-  "en": "International → international: no immigration; checked bags are usually transferred, confirm at the transfer counter."
+  "en": "International → international: no immigration; checked bags are usually transferred, confirm at the transfer counter.",
+  "zh": "国际转国际：无需办理入境；托运行李通常会直接转运，请在中转柜台确认。",
+  "ja": "国際線から国際線への乗り継ぎ：入国審査は不要です。受託手荷物は通常そのまま転送されます。乗り継ぎカウンターでご確認ください。",
+  "ko": "국제선 → 국제선 환승: 입국 심사는 필요 없습니다. 위탁수하물은 보통 자동으로 연결되며, 환승 카운터에서 확인해 주세요."
  },
  {
   "key": "rules.title",
   "vi": "Thủ tục & quy định",
-  "en": "Procedures & rules"
+  "en": "Procedures & rules",
+  "zh": "手续与规定",
+  "ja": "手続きとルール",
+  "ko": "절차 및 규정"
  },
  {
   "key": "rules.mct_title",
   "vi": "Thời gian nối chuyến tối thiểu (MCT) tại Nội Bài",
-  "en": "Minimum connection time (MCT) at Noi Bai"
+  "en": "Minimum connection time (MCT) at Noi Bai",
+  "zh": "内排机场最短中转时间（MCT）",
+  "ja": "ノイバイ空港の最短乗り継ぎ時間（MCT）",
+  "ko": "노이바이 공항 최소 환승 시간(MCT)"
  },
  {
   "key": "rules.mct_sub",
   "vi": "Tính từ giờ hạ cánh dự kiến của chuyến đến tới giờ khởi hành của chuyến đi.",
-  "en": "From estimated arrival of the inbound flight to departure of the outbound flight."
+  "en": "From estimated arrival of the inbound flight to departure of the outbound flight.",
+  "zh": "从到达航班的预计落地时间算起，至出发航班起飞时间。",
+  "ja": "到着便の到着予定時刻から出発便の出発時刻までの時間です。",
+  "ko": "도착편의 예상 착륙 시각부터 출발편의 출발 시각까지입니다."
  },
  {
   "key": "rules.source",
   "vi": "Căn cứ",
-  "en": "Source"
+  "en": "Source",
+  "zh": "依据",
+  "ja": "根拠",
+  "ko": "근거"
  },
  {
   "key": "rules.effective",
   "vi": "hiệu lực",
-  "en": "effective"
+  "en": "effective",
+  "zh": "生效",
+  "ja": "施行",
+  "ko": "시행"
  },
  {
   "key": "rules.none",
   "vi": "Nội dung đang được cập nhật.",
-  "en": "Content is being updated."
+  "en": "Content is being updated.",
+  "zh": "内容正在更新中。",
+  "ja": "内容は更新中です。",
+  "ko": "내용을 업데이트하고 있습니다."
  },
  {
   "key": "feedback.sub",
   "vi": "Ẩn danh · giúp cải thiện hướng dẫn cho khách sau",
-  "en": "Anonymous · helps us improve for the next passenger"
+  "en": "Anonymous · helps us improve for the next passenger",
+  "zh": "匿名 · 帮助我们为后续旅客改进指引",
+  "ja": "匿名 · 次のお客様のための案内改善に役立てます",
+  "ko": "익명 · 다음 승객을 위해 안내를 개선하는 데 도움이 됩니다"
  },
  {
   "key": "feedback.thanks",
   "vi": "Cảm ơn anh/chị! Góp ý đã được ghi nhận.",
-  "en": "Thank you! Your feedback has been recorded."
+  "en": "Thank you! Your feedback has been recorded.",
+  "zh": "谢谢！您的意见已记录。",
+  "ja": "ありがとうございます。ご意見を承りました。",
+  "ko": "감사합니다! 의견이 접수되었습니다."
  },
  {
   "key": "feedback.nps_low",
   "vi": "Không bao giờ",
-  "en": "Not at all"
+  "en": "Not at all",
+  "zh": "完全不会",
+  "ja": "全くそう思わない",
+  "ko": "전혀 아니다"
  },
  {
   "key": "feedback.nps_high",
   "vi": "Chắc chắn",
-  "en": "Definitely"
+  "en": "Definitely",
+  "zh": "一定会",
+  "ja": "ぜひそう思う",
+  "ko": "꼭 그렇다"
  },
  {
   "key": "feedback.other",
   "vi": "Ý kiến khác",
-  "en": "Other comments"
+  "en": "Other comments",
+  "zh": "其他意见",
+  "ja": "その他のご意見",
+  "ko": "기타 의견"
  },
  {
   "key": "feedback.other_ph",
   "vi": "Nhập ý kiến của anh/chị…",
-  "en": "Type your comment…"
+  "en": "Type your comment…",
+  "zh": "请输入您的意见…",
+  "ja": "ご意見をご入力ください…",
+  "ko": "의견을 입력해 주세요…"
  },
  {
   "key": "feedback.privacy",
   "vi": "Không thu thập thông tin cá nhân.",
-  "en": "No personal data is collected."
+  "en": "No personal data is collected.",
+  "zh": "不收集个人信息。",
+  "ja": "個人情報は収集しません。",
+  "ko": "개인정보를 수집하지 않습니다."
  },
  {
   "key": "home.transit_title",
   "vi": "Hướng dẫn nối chuyến",
-  "en": "Transit guides"
+  "en": "Transit guides",
+  "zh": "中转指引",
+  "ja": "乗り継ぎ案内",
+  "ko": "환승 안내"
  },
  {
   "key": "home.transit.ii",
   "vi": "Quốc tế → Quốc tế",
-  "en": "International → International"
+  "en": "International → International",
+  "zh": "国际 → 国际",
+  "ja": "国際線 → 国際線",
+  "ko": "국제선 → 국제선"
  },
  {
   "key": "home.transit.id",
   "vi": "Quốc tế → Nội địa",
-  "en": "International → Domestic"
+  "en": "International → Domestic",
+  "zh": "国际 → 国内",
+  "ja": "国際線 → 国内線",
+  "ko": "국제선 → 국내선"
  },
  {
   "key": "home.transit.di",
   "vi": "Nội địa → Quốc tế",
-  "en": "Domestic → International"
+  "en": "Domestic → International",
+  "zh": "国内 → 国际",
+  "ja": "国内線 → 国際線",
+  "ko": "국내선 → 국제선"
  },
  {
   "key": "home.transit.dd",
   "vi": "Nội địa → Nội địa",
-  "en": "Domestic → Domestic"
+  "en": "Domestic → Domestic",
+  "zh": "国内 → 国内",
+  "ja": "国内線 → 国内線",
+  "ko": "국내선 → 국내선"
  },
  {
   "key": "home.guides_title",
   "vi": "Hướng dẫn thủ tục",
-  "en": "Procedures"
+  "en": "Procedures",
+  "zh": "办理手续指引",
+  "ja": "手続きの案内",
+  "ko": "절차 안내"
  },
  {
   "key": "guides.title",
   "vi": "Hướng dẫn thủ tục",
-  "en": "Procedures"
+  "en": "Procedures",
+  "zh": "办理手续指引",
+  "ja": "手続きの案内",
+  "ko": "절차 안내"
  },
  {
   "key": "guides.applies",
   "vi": "Áp dụng tại",
-  "en": "Applies at"
+  "en": "Applies at",
+  "zh": "适用于",
+  "ja": "適用場所",
+  "ko": "적용 장소"
  },
  {
   "key": "map.title",
   "vi": "Sơ đồ nhà ga T2 – tầng đi",
-  "en": "Terminal T2 map – departures level"
+  "en": "Terminal T2 map – departures level",
+  "zh": "T2航站楼地图 – 出发层",
+  "ja": "T2ターミナル案内図 – 出発階",
+  "ko": "T2 터미널 지도 – 출발층"
  },
  {
   "key": "map.you",
   "vi": "Bạn ở đây",
-  "en": "You are here"
+  "en": "You are here",
+  "zh": "您在这里",
+  "ja": "現在地",
+  "ko": "현재 위치"
  },
  {
   "key": "map.dest",
   "vi": "Điểm đến",
-  "en": "Destination"
+  "en": "Destination",
+  "zh": "目的地",
+  "ja": "目的地",
+  "ko": "목적지"
  },
  {
   "key": "map.zoom",
   "vi": "Phóng to",
-  "en": "Zoom"
+  "en": "Zoom",
+  "zh": "放大",
+  "ja": "拡大",
+  "ko": "확대"
  },
  {
   "key": "map.shrink",
   "vi": "Thu nhỏ",
-  "en": "Shrink"
+  "en": "Shrink",
+  "zh": "缩小",
+  "ja": "縮小",
+  "ko": "축소"
  },
  {
   "key": "map.na",
   "vi": "Sơ đồ tầng này đang hoàn thiện",
-  "en": "Map for this level coming soon"
+  "en": "Map for this level coming soon",
+  "zh": "该楼层地图正在完善中",
+  "ja": "この階の案内図は準備中です",
+  "ko": "이 층의 지도는 준비 중입니다"
  },
  {
   "key": "flight.date",
   "vi": "Ngày bay",
-  "en": "Date"
+  "en": "Date",
+  "zh": "飞行日期",
+  "ja": "運航日",
+  "ko": "운항일"
  },
  {
   "key": "flight.sched",
   "vi": "Kế hoạch",
-  "en": "Scheduled"
+  "en": "Scheduled",
+  "zh": "计划",
+  "ja": "予定",
+  "ko": "예정"
  },
  {
   "key": "flight.est",
   "vi": "Dự kiến",
-  "en": "Estimated"
+  "en": "Estimated",
+  "zh": "预计",
+  "ja": "見込み",
+  "ko": "예상"
  },
  {
   "key": "flight.counters",
   "vi": "Quầy thủ tục",
-  "en": "Check-in"
+  "en": "Check-in",
+  "zh": "值机柜台",
+  "ja": "チェックインカウンター",
+  "ko": "체크인 카운터"
  },
  {
   "key": "flight.try",
   "vi": "Chạy thử với dữ liệu giả – thử các số hiệu:",
-  "en": "Demo data – try these flight numbers:"
+  "en": "Demo data – try these flight numbers:",
+  "zh": "演示数据 – 可试用以下航班号：",
+  "ja": "デモデータ – 次の便名をお試しください：",
+  "ko": "데모 데이터 – 다음 편명을 입력해 보세요:"
  },
  {
   "key": "route.guide_full",
   "vi": "Toàn bộ quy trình",
-  "en": "Full procedure"
+  "en": "Full procedure",
+  "zh": "完整流程",
+  "ja": "全手順",
+  "ko": "전체 절차"
  },
  {
   "key": "guides.kiosk",
   "vi": "Kiosk check-in",
-  "en": "Kiosk check-in"
+  "en": "Kiosk check-in",
+  "zh": "自助值机",
+  "ja": "キオスクでのチェックイン",
+  "ko": "키오스크 체크인"
  },
  {
   "key": "guides.dropbag",
   "vi": "Gửi hành lý (drop bag)",
-  "en": "Bag drop"
+  "en": "Bag drop",
+  "zh": "行李托运（自助）",
+  "ja": "手荷物預け入れ（バッグドロップ）",
+  "ko": "수하물 위탁(백 드롭)"
  },
  {
   "key": "home.question",
   "vi": "Anh/chị cần làm gì?",
-  "en": "What do you need to do?"
+  "en": "What do you need to do?",
+  "zh": "您需要办理什么？",
+  "ja": "何をお探しですか？",
+  "ko": "무엇이 필요하신가요?"
  },
  {
   "key": "home.other",
   "vi": "Thông tin khác",
-  "en": "More"
+  "en": "More",
+  "zh": "更多信息",
+  "ja": "その他",
+  "ko": "더 보기"
  },
  {
   "key": "home.flight_opt",
   "vi": "Tra cứu chuyến bay",
-  "en": "Look up a flight"
+  "en": "Look up a flight",
+  "zh": "查询航班",
+  "ja": "便を調べる",
+  "ko": "항공편 조회"
  },
  {
   "key": "route.flight_prompt",
   "vi": "Nhập số hiệu chuyến bay đi tiếp để hiện cửa ra tàu bay và giờ đóng cửa. Chưa có số hiệu, quý khách vui lòng xem bảng thông tin chuyến bay (FIDS) tại nhà ga.",
-  "en": "Enter your onward flight number to see the gate and the gate closing time. If you do not have it, please check the flight information screens (FIDS) in the terminal."
+  "en": "Enter your onward flight number to see the gate and the gate closing time. If you do not have it, please check the flight information screens (FIDS) in the terminal.",
+  "zh": "请输入您下一程航班号，以显示登机口和截止时间。如暂无航班号，请查看航站楼内的航班信息显示屏（FIDS）。",
+  "ja": "乗り継ぎ先の便名を入力すると、搭乗口と締切時刻が表示されます。便名が分からない場合は、ターミナル内のフライト情報表示板（FIDS）をご覧ください。",
+  "ko": "다음 항공편 편명을 입력하면 탑승구와 마감 시간이 표시됩니다. 편명을 모르시면 터미널의 항공편 안내 전광판(FIDS)을 확인해 주세요."
  },
  {
   "key": "route.flight_btn",
   "vi": "Hiện cửa",
-  "en": "Show gate"
+  "en": "Show gate",
+  "zh": "显示登机口",
+  "ja": "搭乗口を表示",
+  "ko": "탑승구 보기"
  },
  {
   "key": "route.start",
   "vi": "Bắt đầu",
-  "en": "Start"
+  "en": "Start",
+  "zh": "开始",
+  "ja": "開始",
+  "ko": "시작"
  },
  {
   "key": "route.arr_prompt",
   "vi": "Nhập số hiệu chuyến bay đến để xem băng chuyền và đường đi trên sơ đồ.",
-  "en": "Enter your arriving flight number to see your belt and the way on the map."
+  "en": "Enter your arriving flight number to see your belt and the way on the map.",
+  "zh": "请输入您到达的航班号，以在地图上查看行李转盘和路线。",
+  "ja": "到着便の便名を入力すると、手荷物ターンテーブルと経路が案内図に表示されます。",
+  "ko": "도착 항공편 편명을 입력하면 수하물 벨트와 경로를 지도에서 볼 수 있습니다."
  },
  {
   "key": "route.arr_btn",
   "vi": "Hiện băng chuyền",
-  "en": "Show belt"
+  "en": "Show belt",
+  "zh": "显示行李转盘",
+  "ja": "ターンテーブルを表示",
+  "ko": "수하물 벨트 보기"
  },
  {
   "key": "route.arr_none",
   "vi": "Không tìm thấy chuyến bay này. Vui lòng xem màn hình thông tin tại sảnh đến.",
-  "en": "Flight not found. Please check the information screens in the arrivals hall."
+  "en": "Flight not found. Please check the information screens in the arrivals hall.",
+  "zh": "未找到该航班。请查看到达大厅的信息显示屏。",
+  "ja": "この便が見つかりません。到着ロビーの案内表示板をご覧ください。",
+  "ko": "이 항공편을 찾을 수 없습니다. 도착 홀의 안내 전광판을 확인해 주세요."
  },
  {
   "key": "route.arr_other",
   "vi": "Chuyến bay này không đến nhà ga của hướng dẫn này. Vui lòng kiểm tra lại số hiệu.",
-  "en": "This flight does not arrive at this terminal. Please check the flight number."
+  "en": "This flight does not arrive at this terminal. Please check the flight number.",
+  "zh": "该航班不在本指引所在的航站楼到达。请核对航班号。",
+  "ja": "この便は、この案内のターミナルには到着しません。便名をご確認ください。",
+  "ko": "이 항공편은 이 안내의 터미널에 도착하지 않습니다. 편명을 확인해 주세요."
  },
  {
   "key": "route.arr_change",
   "vi": "Đổi chuyến bay",
-  "en": "Change flight"
+  "en": "Change flight",
+  "zh": "更换航班",
+  "ja": "便を変更",
+  "ko": "항공편 변경"
  },
  {
   "key": "route.belt",
   "vi": "Băng chuyền hành lý",
-  "en": "Baggage belt"
+  "en": "Baggage belt",
+  "zh": "行李转盘",
+  "ja": "手荷物ターンテーブル",
+  "ko": "수하물 벨트"
  },
  {
   "key": "route.belt_no",
   "vi": "Số",
-  "en": "No."
+  "en": "No.",
+  "zh": "号",
+  "ja": "番",
+  "ko": "번"
  },
  {
   "key": "map.tap_hint",
   "vi": "Bấm vào tên điểm trên sơ đồ để xem ảnh và hướng dẫn tại vị trí đó",
-  "en": "Tap a place name on the map to see the photo and guidance there"
+  "en": "Tap a place name on the map to see the photo and guidance there",
+  "zh": "点击地图上的地点名称，查看该处的照片和指引",
+  "ja": "地図上の地点名をタップすると、その場所の写真と案内が表示されます",
+  "ko": "지도에서 장소 이름을 누르면 그곳의 사진과 안내를 볼 수 있습니다"
  },
  {
   "key": "map.close",
   "vi": "Đóng",
-  "en": "Close"
+  "en": "Close",
+  "zh": "关闭",
+  "ja": "閉じる",
+  "ko": "닫기"
  },
  {
   "key": "map.zoom_photo",
   "vi": "Bấm vào ảnh để xem rõ hơn",
-  "en": "Tap the photo to see it larger"
+  "en": "Tap the photo to see it larger",
+  "zh": "点击照片可放大查看",
+  "ja": "写真をタップすると拡大します",
+  "ko": "사진을 누르면 크게 볼 수 있습니다"
  },
  {
   "key": "map.pan_photo",
   "vi": "Kéo ngang để xem hết ảnh",
-  "en": "Drag sideways to see the whole photo"
+  "en": "Drag sideways to see the whole photo",
+  "zh": "左右拖动可查看完整照片",
+  "ja": "横にドラッグして写真全体をご覧ください",
+  "ko": "좌우로 끌어서 사진 전체를 보세요"
  },
  {
   "key": "map.photo_pending",
   "vi": "Ảnh sẽ được cập nhật",
-  "en": "Photo coming soon"
+  "en": "Photo coming soon",
+  "zh": "照片即将更新",
+  "ja": "写真は準備中です",
+  "ko": "사진은 곧 업데이트됩니다"
  },
  {
   "key": "map.full",
   "vi": "Xem toàn sơ đồ",
-  "en": "Full map"
+  "en": "Full map",
+  "zh": "查看完整地图",
+  "ja": "全体図を見る",
+  "ko": "전체 지도 보기"
  },
  {
   "key": "map.focus",
   "vi": "Phóng to đường đi",
-  "en": "Zoom to route"
+  "en": "Zoom to route",
+  "zh": "放大路线",
+  "ja": "経路を拡大",
+  "ko": "경로 확대"
  },
  {
   "key": "route.belt_pending",
   "vi": "Chưa có số băng chuyền cho chuyến bay này. Vui lòng xem màn hình thông tin tại sảnh đến.",
-  "en": "No belt assigned to this flight yet. Please check the information screens in the arrivals hall."
+  "en": "No belt assigned to this flight yet. Please check the information screens in the arrivals hall.",
+  "zh": "该航班暂未分配行李转盘。请查看到达大厅的信息显示屏。",
+  "ja": "この便にはまだ手荷物ターンテーブルが割り当てられていません。到着ロビーの案内表示板をご覧ください。",
+  "ko": "이 항공편에는 아직 수하물 벨트가 배정되지 않았습니다. 도착 홀의 안내 전광판을 확인해 주세요."
  },
  {
   "key": "home.terminal",
   "vi": "Nhà ga",
-  "en": "Terminal"
+  "en": "Terminal",
+  "zh": "航站楼",
+  "ja": "ターミナル",
+  "ko": "터미널"
  },
  {
   "key": "home.terminal_T1",
   "vi": "Nội địa",
-  "en": "Domestic"
+  "en": "Domestic",
+  "zh": "国内",
+  "ja": "国内線",
+  "ko": "국내선"
  },
  {
   "key": "home.terminal_T2",
   "vi": "Quốc tế",
-  "en": "International"
+  "en": "International",
+  "zh": "国际",
+  "ja": "国際線",
+  "ko": "국제선"
  },
  {
   "key": "route.bad_title",
   "vi": "Chuyến bay không phù hợp với hành trình này",
-  "en": "This flight does not match your journey"
+  "en": "This flight does not match your journey",
+  "zh": "该航班与您的行程不符",
+  "ja": "この便はご利用の経路と一致しません",
+  "ko": "이 항공편은 선택하신 여정과 맞지 않습니다"
  },
  {
   "key": "route.bad_msg",
   "vi": "Chuyến bay {f} là chuyến {k}, không phù hợp với hành trình “{label}” (cần chuyến {w}). Vui lòng kiểm tra lại số hiệu chuyến bay hoặc chọn lại hành trình ở trang đầu.",
-  "en": "Flight {f} is {k}, which does not match the journey “{label}” (a {w} flight is needed). Please check the flight number or choose your journey again on the first page."
+  "en": "Flight {f} is {k}, which does not match the journey “{label}” (a {w} flight is needed). Please check the flight number or choose your journey again on the first page.",
+  "zh": "航班 {f} 为{k}航班，与行程“{label}”不符（需要{w}航班）。请核对航班号，或在首页重新选择行程。",
+  "ja": "便 {f} は{k}の便で、「{label}」には該当しません（{w}の便が必要です）。便名をご確認いただくか、最初のページで経路を選び直してください。",
+  "ko": "항공편 {f}은(는) {k} 항공편으로, “{label}” 여정과 맞지 않습니다({w} 항공편 필요). 편명을 확인하거나 첫 화면에서 여정을 다시 선택해 주세요."
  },
  {
   "key": "kind.dom",
   "vi": "nội địa",
-  "en": "domestic"
+  "en": "domestic",
+  "zh": "国内",
+  "ja": "国内線",
+  "ko": "국내선"
  },
  {
   "key": "kind.intl",
   "vi": "quốc tế",
-  "en": "international"
+  "en": "international",
+  "zh": "国际",
+  "ja": "国際線",
+  "ko": "국제선"
  },
  {
   "key": "route.bad_retry",
   "vi": "Nhập lại số hiệu",
-  "en": "Re-enter flight number"
+  "en": "Re-enter flight number",
+  "zh": "重新输入航班号",
+  "ja": "便名を入力し直す",
+  "ko": "편명 다시 입력"
  },
  {
   "key": "route.bad_home",
   "vi": "Chọn lại hành trình",
-  "en": "Choose journey again"
+  "en": "Choose journey again",
+  "zh": "重新选择行程",
+  "ja": "経路を選び直す",
+  "ko": "여정 다시 선택"
+ },
+ {
+  "key": "flight.input",
+  "vi": "Số hiệu chuyến bay",
+  "en": "Flight number",
+  "zh": "航班号",
+  "ja": "便名",
+  "ko": "편명"
+ },
+ {
+  "key": "route.gate_next",
+  "vi": "Cửa ra tàu bay",
+  "en": "Boarding gate",
+  "zh": "登机口",
+  "ja": "搭乗口",
+  "ko": "탑승구"
+ },
+ {
+  "key": "route.gate_no",
+  "vi": "Số",
+  "en": "No.",
+  "zh": "号",
+  "ja": "番",
+  "ko": "번"
  }
 ]
