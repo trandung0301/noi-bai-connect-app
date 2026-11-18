@@ -506,8 +506,8 @@
   "belt": "",
   "label_vi": "Kiểm tra an ninh",
   "label_en": "Security screening",
-  "desc_vi": "Lên tầng 3 bằng thang cuốn rồi vào khu vực soi chiếu an ninh.",
-  "desc_en": "Take the escalator to Level 3, then enter security screening.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "",
   "map_x": "55.6",
   "map_y": "28.66",
@@ -520,9 +520,9 @@
   "label_zh": "安全检查",
   "label_ja": "保安検査",
   "label_ko": "보안 검색",
-  "desc_zh": "乘自动扶梯上到3层，进入安检区域。",
-  "desc_ja": "エスカレーターで3階へ上がり、保安検査エリアへお進みください。",
-  "desc_ko": "에스컬레이터로 3층에 올라가 보안 검색 구역으로 들어가세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "ii-arrival__gate",
@@ -1356,8 +1356,8 @@
   "belt": "8",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
-  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1370,9 +1370,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
-  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
-  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -1431,8 +1431,8 @@
   "belt": "7",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
-  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1445,9 +1445,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
-  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
-  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -1506,8 +1506,8 @@
   "belt": "6",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
-  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1520,9 +1520,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
-  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
-  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -1581,8 +1581,8 @@
   "belt": "5",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
-  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1595,9 +1595,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
-  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
-  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -1656,8 +1656,8 @@
   "belt": "4",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
-  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1670,9 +1670,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
-  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
-  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -1731,8 +1731,8 @@
   "belt": "3",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
-  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1745,9 +1745,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
-  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
-  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -1806,8 +1806,8 @@
   "belt": "2",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
-  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1820,9 +1820,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
-  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
-  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -1881,8 +1881,8 @@
   "belt": "1",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
-  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1895,9 +1895,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
-  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
-  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -1956,8 +1956,8 @@
   "belt": "",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "Đón xe shuttle bus tại cột 18, làn 1, phía bên trái nhà ga để sang nhà ga nội địa T1.",
-  "desc_en": "Board the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to Terminal 1.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1970,9 +1970,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼T1。",
-  "desc_ja": "ターミナル左側、レーン1の18番柱でシャトルバスに乗り、国内線ターミナルT1へ向かいます。",
-  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥에서 셔틀버스를 타고 국내선 터미널 T1으로 이동하세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -2131,8 +2131,8 @@
   "belt": "8",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
-  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2145,9 +2145,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
-  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
-  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -2156,8 +2156,8 @@
   "belt": "7",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
-  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2170,9 +2170,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
-  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
-  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -2181,8 +2181,8 @@
   "belt": "6",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
-  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2195,9 +2195,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
-  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
-  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -2206,8 +2206,8 @@
   "belt": "5",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
-  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2220,9 +2220,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
-  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
-  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -2231,8 +2231,8 @@
   "belt": "4",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
-  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2245,9 +2245,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
-  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
-  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -2256,8 +2256,8 @@
   "belt": "3",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
-  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2270,9 +2270,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
-  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
-  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -2281,8 +2281,8 @@
   "belt": "2",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
-  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2295,9 +2295,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
-  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
-  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -2306,8 +2306,8 @@
   "belt": "1",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
-  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2320,9 +2320,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
-  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
-  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -2331,8 +2331,8 @@
   "belt": "",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
-  "desc_en": "After the customs area, turn right and hand over your baggage to the receiving staff.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2345,9 +2345,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "通过海关区域后向右转，将行李交给接收的工作人员。",
-  "desc_ja": "税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
-  "desc_ko": "세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "id-arrival__t1",
@@ -2781,8 +2781,8 @@
   "belt": "",
   "label_vi": "Cửa vào",
   "label_en": "Entrance",
-  "desc_vi": "Vào sảnh đi tầng 3 nhà ga T2 qua cửa Departure D1-D4, quý khách di chuyển vào khu quầy của VNA tại đảo B, C, D.",
-  "desc_en": "Enter the Level 3 departures hall of Terminal 2 through Departure doors D1–D4, then go to the Vietnam Airlines counter area on islands B, C and D.",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "",
   "map_x": "56.4",
   "map_y": "76.2",
@@ -2795,9 +2795,9 @@
   "label_zh": "入口",
   "label_ja": "入口",
   "label_ko": "입구",
-  "desc_zh": "从出发门D1–D4进入T2航站楼3层出发大厅，然后前往B、C、D岛的越南航空柜台区。",
-  "desc_ja": "出発ドアD1～D4からT2ターミナル3階の出発ロビーに入り、B・C・Dアイランドのベトナム航空カウンターエリアへ進みます。",
-  "desc_ko": "출발 출입문 D1–D4로 T2 터미널 3층 출발 로비에 들어간 뒤, B, C, D 아일랜드의 베트남항공 카운터 구역으로 이동하세요."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "t2-departure__gate",
@@ -2806,8 +2806,8 @@
   "belt": "",
   "label_vi": "Quầy thủ tục",
   "label_en": "Check-in",
-  "desc_vi": "Quầy làm thủ tục của VNA tại các đảo B, C, D. Quầy đóng trước giờ khởi hành 50 phút.\n# Đảo D|Thương gia, Phổ thông đặc biệt, ưu tiên\nD01 – D05|Hạng Thương gia và hội viên Million Miler\nD06 – D09|Khách SkyPriority\nD10 – D11|Hạng Phổ thông đặc biệt\n# Đảo C\nC01 – C04|Khách đã làm thủ tục trực tuyến (Online check-in)\nC05|Khách cần hỗ trợ đặc biệt\nC06|Gia đình đi cùng nhau\nC07 – C12|Hạng Phổ thông\n# Đảo B\nB01 – B12|Hạng Phổ thông\n# Đảo A|Ký gửi hành lý tự động\nA01 – A03|Kiosk ký gửi hành lý tự động (Self Bag Drop)",
-  "desc_en": "Vietnam Airlines check-in counters are on islands B, C and D. Counters close 50 minutes before departure.\n# Island D|Business, special-assistance Economy, priority\nD01 – D05|Business Class and Million Miler members\nD06 – D09|SkyPriority passengers\nD10 – D11|Special-assistance Economy\n# Island C\nC01 – C04|Passengers who have checked in online\nC05|Passengers needing special assistance\nC06|Families travelling together\nC07 – C12|Economy\n# Island B\nB01 – B12|Economy\n# Island A|Automated baggage drop\nA01 – A03|Self Bag Drop kiosks",
+  "desc_vi": "Quầy đóng trước giờ khởi hành 50 phút.\n# Đảo D|Thương gia, Phổ thông đặc biệt, ưu tiên\nD01 – D05|Hạng Thương gia và hội viên Million Miler\nD06 – D09|Khách SkyPriority\nD10 – D11|Hạng Phổ thông đặc biệt\n# Đảo C\nC01 – C04|Khách đã làm thủ tục trực tuyến (Online check-in)\nC05|Khách cần hỗ trợ đặc biệt\nC06|Gia đình đi cùng nhau\nC07 – C12|Hạng Phổ thông\n# Đảo B\nB01 – B12|Hạng Phổ thông\n# Đảo A|Ký gửi hành lý tự động\nA01 – A03|Kiosk ký gửi hành lý tự động (Self Bag Drop)",
+  "desc_en": "Counters close 50 minutes before departure.\n# Island D|Business, special-assistance Economy, priority\nD01 – D05|Business Class and Million Miler members\nD06 – D09|SkyPriority passengers\nD10 – D11|Special-assistance Economy\n# Island C\nC01 – C04|Passengers who have checked in online\nC05|Passengers needing special assistance\nC06|Families travelling together\nC07 – C12|Economy\n# Island B\nB01 – B12|Economy\n# Island A|Automated baggage drop\nA01 – A03|Self Bag Drop kiosks",
   "image": "t2-checkin-counter.jpg",
   "map_x": "62.8",
   "map_y": "57.5",
@@ -2820,9 +2820,9 @@
   "label_zh": "值机柜台",
   "label_ja": "チェックイン",
   "label_ko": "체크인",
-  "desc_zh": "越南航空值机柜台位于B、C、D岛。柜台在起飞前50分钟关闭。\n# D岛|公务舱、特殊协助经济舱、优先旅客\nD01 – D05|公务舱及Million Miler会员\nD06 – D09|SkyPriority旅客\nD10 – D11|特殊协助经济舱\n# C岛\nC01 – C04|已在线值机的旅客\nC05|需要特殊协助的旅客\nC06|家庭同行旅客\nC07 – C12|经济舱\n# B岛\nB01 – B12|经济舱\n# A岛|自助行李托运\nA01 – A03|自助行李托运终端（Self Bag Drop）",
-  "desc_ja": "ベトナム航空のチェックインカウンターはB・C・Dアイランドにあります。カウンターは出発の50分前に閉まります。\n# Dアイランド|ビジネス、特別サポートのエコノミー、優先のお客様\nD01 – D05|ビジネスクラス、Million Miler会員\nD06 – D09|SkyPriorityのお客様\nD10 – D11|特別サポートのエコノミー\n# Cアイランド\nC01 – C04|オンラインチェックイン済みのお客様\nC05|特別なサポートが必要なお客様\nC06|ご家族連れ\nC07 – C12|エコノミー\n# Bアイランド\nB01 – B12|エコノミー\n# Aアイランド|自動手荷物預け\nA01 – A03|自動手荷物預け機（Self Bag Drop）",
-  "desc_ko": "베트남항공 체크인 카운터는 B, C, D 아일랜드에 있습니다. 카운터는 출발 50분 전에 닫힙니다.\n# D 아일랜드|비즈니스, 특별 지원 일반석, 우대 승객\nD01 – D05|비즈니스석 및 Million Miler 회원\nD06 – D09|SkyPriority 승객\nD10 – D11|특별 지원 일반석\n# C 아일랜드\nC01 – C04|온라인 체크인을 마친 승객\nC05|특별 지원이 필요한 승객\nC06|가족 동반 승객\nC07 – C12|일반석\n# B 아일랜드\nB01 – B12|일반석\n# A 아일랜드|자동 수하물 위탁\nA01 – A03|자동 수하물 위탁 키오스크(Self Bag Drop)"
+  "desc_zh": "柜台在起飞前50分钟关闭。\n# D岛|公务舱、特殊协助经济舱、优先旅客\nD01 – D05|公务舱及Million Miler会员\nD06 – D09|SkyPriority旅客\nD10 – D11|特殊协助经济舱\n# C岛\nC01 – C04|已在线值机的旅客\nC05|需要特殊协助的旅客\nC06|家庭同行旅客\nC07 – C12|经济舱\n# B岛\nB01 – B12|经济舱\n# A岛|自助行李托运\nA01 – A03|自助行李托运终端（Self Bag Drop）",
+  "desc_ja": "カウンターは出発の50分前に閉まります。\n# Dアイランド|ビジネス、特別サポートのエコノミー、優先のお客様\nD01 – D05|ビジネスクラス、Million Miler会員\nD06 – D09|SkyPriorityのお客様\nD10 – D11|特別サポートのエコノミー\n# Cアイランド\nC01 – C04|オンラインチェックイン済みのお客様\nC05|特別なサポートが必要なお客様\nC06|ご家族連れ\nC07 – C12|エコノミー\n# Bアイランド\nB01 – B12|エコノミー\n# Aアイランド|自動手荷物預け\nA01 – A03|自動手荷物預け機（Self Bag Drop）",
+  "desc_ko": "카운터는 출발 50분 전에 닫힙니다.\n# D 아일랜드|비즈니스, 특별 지원 일반석, 우대 승객\nD01 – D05|비즈니스석 및 Million Miler 회원\nD06 – D09|SkyPriority 승객\nD10 – D11|특별 지원 일반석\n# C 아일랜드\nC01 – C04|온라인 체크인을 마친 승객\nC05|특별 지원이 필요한 승객\nC06|가족 동반 승객\nC07 – C12|일반석\n# B 아일랜드\nB01 – B12|일반석\n# A 아일랜드|자동 수하물 위탁\nA01 – A03|자동 수하물 위탁 키오스크(Self Bag Drop)"
  },
  {
   "route_code": "t2-departure__gate",
@@ -2831,8 +2831,8 @@
   "belt": "",
   "label_vi": "Xuất cảnh · An ninh",
   "label_en": "Immigration · Security",
-  "desc_vi": "Chuẩn bị hộ chiếu và thẻ lên tàu bay. Tại điểm soi chiếu, bỏ thiết bị điện tử và chất lỏng ra khay. Có 3 lối vào khu vực xuất cảnh: A, B, C (ảnh là lối vào A).",
-  "desc_en": "Have your passport and boarding pass ready. At the screening point, place electronic devices and liquids in the tray. There are 3 entrances to the immigration area: A, B and C (the photo shows entrance A).",
+  "desc_vi": "Có 3 lối vào khu vực xuất cảnh A, B, C (trong ảnh là lối vào A).",
+  "desc_en": "There are 3 entrances to the immigration area: A, B and C (the photo shows entrance A).",
   "image": "security-check-point.jpg",
   "map_x": "55.6",
   "map_y": "28.7",
@@ -2845,9 +2845,9 @@
   "label_zh": "出境·安检",
   "label_ja": "出国・保安検査",
   "label_ko": "출국·보안",
-  "desc_zh": "请备好护照和登机牌。在安检处，请将电子设备和液体放入托盘。 出境区域有3个入口：A、B、C（图中为A入口）。",
-  "desc_ja": "パスポートと搭乗券をご準備ください。保安検査では電子機器と液体類をトレーに出してください。 出国審査エリアへの入口は3か所（A・B・C）あります（写真はA入口）。",
-  "desc_ko": "여권과 탑승권을 준비하세요. 보안 검색대에서는 전자기기와 액체류를 트레이에 꺼내 놓으세요. 출국 심사 구역 입구는 A, B, C 세 곳입니다(사진은 A 입구)."
+  "desc_zh": "出境区域有3个入口：A、B、C（图中为A入口）。",
+  "desc_ja": "出国審査エリアへの入口は3か所（A・B・C）あります（写真はA入口）。",
+  "desc_ko": "출국 심사 구역 입구는 A, B, C 세 곳입니다(사진은 A 입구)."
  },
  {
   "route_code": "t2-departure__gate",
@@ -2906,8 +2906,8 @@
   "belt": "",
   "label_vi": "Quầy VNA",
   "label_en": "VNA check-in",
-  "desc_vi": "Làm thủ tục tại khu quầy VNA ở sảnh B. Chọn 1 trong 3 cách:\nQuầy thủ tục|Gửi hành lý, nhận thẻ lên tàu bay\nOnline check-in|Không ký gửi hành lý thì vào thẳng an ninh – phòng chờ\nKiosk|Làm thủ tục tự phục vụ\n# Quầy theo hạng vé\nB0|Quầy đại diện hỗ trợ\nB01 – B03|Hạng Thương gia và Hội viên Triệu dặm\nB04 – B08|SkyPriority và Phổ thông đặc biệt\nB09|Khách đối ngoại\nB10 – B11, B27|Bố trí linh hoạt\nB12 – B14|Khách đã làm thủ tục trực tuyến (Online check-in)\nB15|Hỗ trợ đặc biệt\nB16 – B18|Hạng Phổ thông đi TP. Hồ Chí Minh\nB20 – B23|Hạng Phổ thông các tuyến nội địa khác\nB24 – B25|Khách đi theo đoàn\nB28 – B31|Chuyến bay Pacific Airlines\nB32|Vé có chính sách giảm giá",
-  "desc_en": "Check in at the Vietnam Airlines counter area in Hall B. Choose one of 3 ways:\nCounter|Drop baggage, get your boarding pass\nOnline check-in|No checked baggage? Go straight to security and the waiting area\nKiosk|Self-service check-in\n# Counters by ticket class\nB0|Customer support counter\nB01 – B03|Business Class and Million Miles members\nB04 – B08|SkyPriority and special-assistance Economy\nB09|Official (diplomatic) guests\nB10 – B11, B27|Flexible allocation\nB12 – B14|Passengers who have checked in online\nB15|Special assistance\nB16 – B18|Economy to Ho Chi Minh City\nB20 – B23|Economy to other domestic routes\nB24 – B25|Group passengers\nB28 – B31|Pacific Airlines flights\nB32|Discounted fares",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "",
   "map_x": "75.32",
   "map_y": "84.57",
@@ -2920,9 +2920,9 @@
   "label_zh": "VNA值机",
   "label_ja": "VNAチェックイン",
   "label_ko": "VNA 체크인",
-  "desc_zh": "请到B厅的越南航空值机区办理乘机手续。3种方式任选其一：\n柜台|托运行李、领取登机牌\n在线值机|无托运行李可直接前往安检和候机区\n自助终端|自助办理值机\n# 按舱位划分的柜台\nB0|服务支援柜台\nB01 – B03|公务舱及百万里程会员\nB04 – B08|SkyPriority及特殊协助经济舱旅客\nB09|外事旅客\nB10 – B11、B27|灵活安排\nB12 – B14|已在线值机的旅客\nB15|特殊协助\nB16 – B18|经济舱，前往胡志明市\nB20 – B23|经济舱，其他国内航线\nB24 – B25|团体旅客\nB28 – B31|太平洋航空（Pacific Airlines）航班\nB32|折扣机票",
-  "desc_ja": "Bホールのベトナム航空カウンターエリアでチェックインします。3つの方法から選べます：\nカウンター|手荷物預け・搭乗券の受け取り\nオンライン|預け手荷物がなければ、そのまま保安検査場・待合エリアへ\nキオスク|セルフチェックイン\n# 運賃クラス別カウンター\nB0|サポートカウンター\nB01 – B03|ビジネスクラス、ミリオンマイル会員\nB04 – B08|SkyPriority、特別サポートのエコノミー\nB09|公賓・外務関連のお客様\nB10 – B11、B27|状況に応じて割り当て\nB12 – B14|オンラインチェックイン済みのお客様\nB15|特別サポート\nB16 – B18|エコノミー（ホーチミン市行き）\nB20 – B23|エコノミー（その他の国内線）\nB24 – B25|団体のお客様\nB28 – B31|パシフィック航空の便\nB32|割引運賃",
-  "desc_ko": "B홀 베트남항공 카운터 구역에서 체크인하세요. 3가지 중 선택:\n카운터|수하물 위탁, 탑승권 수령\n온라인 체크인|위탁 수하물이 없으면 바로 보안 검색대·대기 구역으로\n키오스크|셀프 체크인\n# 좌석 등급별 카운터\nB0|안내 지원 카운터\nB01 – B03|비즈니스석 및 밀리언 마일 회원\nB04 – B08|SkyPriority 및 특별 지원 일반석\nB09|외빈(공식 방문) 승객\nB10 – B11, B27|유동 배정\nB12 – B14|온라인 체크인을 마친 승객\nB15|특별 지원\nB16 – B18|일반석, 호찌민시행\nB20 – B23|일반석, 기타 국내선\nB24 – B25|단체 승객\nB28 – B31|퍼시픽 항공 편\nB32|할인 운임"
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "t1-departure__gate",
