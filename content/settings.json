@@ -53,5 +53,16 @@
   "desc_zh": "T1–T2接驳巴士发车间隔",
   "desc_ja": "T1–T2間シャトルバスの運行間隔",
   "desc_ko": "T1–T2 셔틀버스 배차 간격"
+ },
+ {
+  "key": "feedback_url",
+  "value": "https://script.google.com/macros/s/AKfycbzLyZIWoF1L8VrfBLEIkDJs7ivteLvlvXo0QpcHm8ISPjs_13jSAHIoUrlj1FolHV0W/exec",
+  "unit": "",
+  "desc_vi": "Địa chỉ nhận phản hồi của khách (URL ứng dụng web Google Apps Script, dạng https://script.google.com/macros/s/…/exec). Để trống = không lưu phản hồi.",
+  "source": "Xem cms/huong-dan-phan-hoi.md",
+  "desc_en": "Endpoint that receives customer feedback (Google Apps Script web app URL). Empty = feedback is not stored.",
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  }
 ]
