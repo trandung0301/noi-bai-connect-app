@@ -169,5 +169,24 @@
   "title_zh": "3层 · T2出发大厅",
   "title_ja": "3階 · T2出発ロビー",
   "title_ko": "3층 · T2 출발 홀"
+ },
+ {
+  "route_code": "t1-departure__gate",
+  "leg": "1",
+  "map_image": "ga-t1-di.png",
+  "terminal": "T1",
+  "from_step": "1",
+  "to_step": "99",
+  "title_vi": "Tầng 2 · Sảnh đi T1",
+  "title_en": "Level 2 · T1 Departures",
+  "gate_x0": "",
+  "gate_y0": "",
+  "gate_w": "",
+  "gate_h": "",
+  "gate_elbow": "",
+  "khung_rong": "",
+  "title_zh": "2层 · T1出发大厅",
+  "title_ja": "2階 · T1出発ロビー",
+  "title_ko": "2층 · T1 출발 홀"
  }
 ]
