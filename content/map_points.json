@@ -6,8 +6,8 @@
   "belt": "",
   "label_vi": "Quầy hỗ trợ nối chuyến T1",
   "label_en": "T1 transfer support desk",
-  "desc_vi": "Quầy hỗ trợ nối chuyến nằm ngay khi quý khách vào sảnh đến.",
-  "desc_en": "The transfer support desk is right inside the arrivals hall.",
+  "desc_vi": "Khách vào nhà ga quốc nội (T1) – Có quầy hỗ trợ nối chuyến ngay khi khách vào nhà ga (xem ảnh).\nQuầy hỗ trợ nối chuyến nằm ngay khi quý khách vào sảnh đến.",
+  "desc_en": "Arrive at the domestic terminal (T1) – A transit support counter is available right when you enter the terminal (see photo).\nThe transfer support desk is right inside the arrivals hall.",
   "image": "transfer-desk-t1-01.jpg",
   "map_x": "50",
   "map_y": "12.89",
@@ -20,9 +20,9 @@
   "label_zh": "T1中转服务台",
   "label_ja": "T1 乗り継ぎサポートデスク",
   "label_ko": "T1 환승 지원 데스크",
-  "desc_zh": "进入到达大厅后即可看到中转服务台。",
-  "desc_ja": "到着ロビーに入るとすぐ、乗り継ぎサポートデスクがあります。",
-  "desc_ko": "도착 홀에 들어서면 바로 환승 지원 데스크가 있습니다."
+  "desc_zh": "进入国内航站楼 (T1) – 进入航站楼后即可看到中转服务柜台（请参考图片）。\n进入到达大厅后即可看到中转服务台。",
+  "desc_ja": "国内線ターミナル (T1) に入る – ターミナルに入ると、乗り継ぎサポートカウンターがあります（写真をご覧ください）。\n到着ロビーに入るとすぐ、乗り継ぎサポートデスクがあります。",
+  "desc_ko": "국내선 터미널 (T1) 입장 – 터미널에 들어오면 바로 환승 지원 카운터를 확인할 수 있습니다(사진 참조).\n도착 홀에 들어서면 바로 환승 지원 데스크가 있습니다."
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -31,8 +31,8 @@
   "belt": "",
   "label_vi": "Cửa 05 · lối ra đón xe buýt",
   "label_en": "Exit 05 · to the shuttle",
-  "desc_vi": "Đi theo biển Lối ra, ra ngoài bằng Cửa 05.",
-  "desc_en": "Follow the Exit signs and leave through Exit 05.",
+  "desc_vi": "Di chuyển ra xe shuttle bus sang nhà ga quốc tế (T2) – Di chuyển ra ngoài nhà ga, rẽ phải, xe shuttle bus ở làn 2 (Ảnh xe shuttle bus-miễn phí).\nĐi theo biển Lối ra, ra ngoài bằng Cửa 05.",
+  "desc_en": "Take the shuttle bus to the international terminal (T2) – Exit the terminal, turn right; the shuttle bus is at lane 2 (photo of the shuttle bus – free).\nFollow the Exit signs and leave through Exit 05.",
   "image": "",
   "map_x": "25.1",
   "map_y": "32.12",
@@ -45,9 +45,9 @@
   "label_zh": "5号出口 · 前往摆渡车",
   "label_ja": "出口05 · シャトル乗り場へ",
   "label_ko": "출구 05 · 셔틀 승차장으로",
-  "desc_zh": "请跟随“出口”标志，从5号出口出去。",
-  "desc_ja": "「出口」の案内に従い、出口05から外へ出てください。",
-  "desc_ko": "“출구” 표지판을 따라 05번 출구로 나가세요."
+  "desc_zh": "乘坐摆渡车前往国际航站楼 (T2) – 走出航站楼后右转，摆渡车位于2号车道（摆渡车照片）。 运营时间：05:00至次日01:30以后 | 平均每15-20分钟一班 | 免费乘坐\n请跟随“出口”标志，从5号出口出去。",
+  "desc_ja": "シャトルバスで国際線ターミナル (T2) へ移動する – ターミナルの外に出て右へ曲がると、2番レーンにシャトルバスがあります（シャトルバスの写真）。 運行時間：05:00から翌01:30以降まで | 平均15-20分間隔 | 無料\n「出口」の案内に従い、出口05から外へ出てください。",
+  "desc_ko": "셔틀버스를 타고 국제선 터미널 (T2)로 이동 – 터미널 밖으로 나와 오른쪽으로 이동하면 2번 차선에 셔틀버스가 있습니다(셔틀버스 사진). 운행 시간: 05:00부터 다음 날 01:30 이후까지 | 평균 15-20분 간격 | 무료 이용\n“출구” 표지판을 따라 05번 출구로 나가세요."
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -56,8 +56,8 @@
   "belt": "",
   "label_vi": "Điểm đón xe buýt sang T2",
   "label_en": "Shuttle stop to T2",
-  "desc_vi": "Ra Cửa 05, đi theo làn xe khoảng 450 m. Xe buýt nối chuyến miễn phí.",
-  "desc_en": "Leave by Exit 05 and follow the lane about 450 m. The transfer shuttle is free.",
+  "desc_vi": "Di chuyển ra xe shuttle bus sang nhà ga quốc tế (T2) – Di chuyển ra ngoài nhà ga, rẽ phải, xe shuttle bus ở làn 2 (Ảnh xe shuttle bus-miễn phí).\nRa Cửa 05, đi theo làn xe khoảng 450 m. Xe buýt nối chuyến miễn phí.",
+  "desc_en": "Take the shuttle bus to the international terminal (T2) – Exit the terminal, turn right; the shuttle bus is at lane 2 (photo of the shuttle bus – free).\nLeave by Exit 05 and follow the lane about 450 m. The transfer shuttle is free.",
   "image": "shuttle-t1-01.jpg",
   "map_x": "13.5",
   "map_y": "44.16",
@@ -70,9 +70,9 @@
   "label_zh": "前往T2的摆渡车站",
   "label_ja": "T2行きシャトルバス乗り場",
   "label_ko": "T2행 셔틀버스 승차장",
-  "desc_zh": "从5号出口出来，沿车道步行约450米。接驳摆渡车免费。",
-  "desc_ja": "出口05を出て、車線沿いに約450m進みます。乗り継ぎシャトルバスは無料です。",
-  "desc_ko": "05번 출구로 나와 차선을 따라 약 450m 이동하세요. 환승 셔틀버스는 무료입니다."
+  "desc_zh": "乘坐摆渡车前往国际航站楼 (T2) – 走出航站楼后右转，摆渡车位于2号车道（摆渡车照片）。 运营时间：05:00至次日01:30以后 | 平均每15-20分钟一班 | 免费乘坐\n从5号出口出来，沿车道步行约450米。接驳摆渡车免费。",
+  "desc_ja": "シャトルバスで国際線ターミナル (T2) へ移動する – ターミナルの外に出て右へ曲がると、2番レーンにシャトルバスがあります（シャトルバスの写真）。 運行時間：05:00から翌01:30以降まで | 平均15-20分間隔 | 無料\n出口05を出て、車線沿いに約450m進みます。乗り継ぎシャトルバスは無料です。",
+  "desc_ko": "셔틀버스를 타고 국제선 터미널 (T2)로 이동 – 터미널 밖으로 나와 오른쪽으로 이동하면 2번 차선에 셔틀버스가 있습니다(셔틀버스 사진). 운행 시간: 05:00부터 다음 날 01:30 이후까지 | 평균 15-20분 간격 | 무료 이용\n05번 출구로 나와 차선을 따라 약 450m 이동하세요. 환승 셔틀버스는 무료입니다."
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -81,8 +81,8 @@
   "belt": "",
   "label_vi": "Cửa vào nhà ga · Cửa D2",
   "label_en": "Terminal entrance · Door D2",
-  "desc_vi": "Xe buýt trả khách tại tầng đi nhà ga T2. Đi dọc theo nhà ga tới Cửa D2 và vào bên trong.",
-  "desc_en": "The shuttle drops you at the T2 departure level. Walk along the terminal to Door D2 and go inside.",
+  "desc_vi": "Tại nhà ga quốc tế, quý khách vào khu vực kiểm tra an ninh và công an cửa khẩu (tầng 3 nhà ga T2) – Trường hợp khách chưa được làm thủ tục, vào quầy check-in tại khu vực đảo A, B.\nXe buýt trả khách tại tầng đi nhà ga T2. Đi dọc theo nhà ga tới Cửa D2 và vào bên trong.",
+  "desc_en": "Security and immigration checkpoint (Level 3, Terminal T2) – If you have not been checked in, go to the check-in counter at island A, B.\nThe shuttle drops you at the T2 departure level. Walk along the terminal to Door D2 and go inside.",
   "image": "departure-entrance-2.jpg",
   "map_x": "56.7",
   "map_y": "90.28",
@@ -95,9 +95,9 @@
   "label_zh": "航站楼入口 · D2门",
   "label_ja": "ターミナル入口 · D2ドア",
   "label_ko": "터미널 입구 · D2 출입구",
-  "desc_zh": "摆渡车在T2航站楼出发层放客。沿航站楼前行至D2门，进入大楼。",
-  "desc_ja": "シャトルバスはT2ターミナルの出発階で降車します。ターミナルに沿ってD2ドアまで進み、中へお入りください。",
-  "desc_ko": "셔틀버스는 T2 터미널 출발층에서 하차합니다. 터미널을 따라 D2 출입구까지 이동해 안으로 들어가세요."
+  "desc_zh": "前往安检和边检区域 (T2航站楼3层) – 如果尚未办理值机，请前往A、B岛的值机柜台。\n摆渡车在T2航站楼出发层放客。沿航站楼前行至D2门，进入大楼。",
+  "desc_ja": "保安検査・出入国審査エリアへ進む (T2の3階) – チェックインがお済みでない場合は、AまたはBアイランドのチェックインカウンターへお越しください。\nシャトルバスはT2ターミナルの出発階で降車します。ターミナルに沿ってD2ドアまで進み、中へお入りください。",
+  "desc_ko": "보안검색 및 출입국 심사 구역으로 이동 (T2 3층) – 체크인을 아직 하지 않았다면 A 또는 B 아일랜드의 체크인 카운터로 이동해 주세요.\n셔틀버스는 T2 터미널 출발층에서 하차합니다. 터미널을 따라 D2 출입구까지 이동해 안으로 들어가세요."
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -106,8 +106,8 @@
   "belt": "",
   "label_vi": "Điểm kiểm tra an ninh",
   "label_en": "Security check point",
-  "desc_vi": "Xếp hàng tại điểm kiểm tra an ninh và xuất cảnh, tầng 3 nhà ga T2.",
-  "desc_en": "Queue at the security and immigration check point on level 3 of Terminal 2.",
+  "desc_vi": "Tại nhà ga quốc tế, quý khách vào khu vực kiểm tra an ninh và công an cửa khẩu (tầng 3 nhà ga T2) – Trường hợp khách chưa được làm thủ tục, vào quầy check-in tại khu vực đảo A, B.\nXếp hàng tại điểm kiểm tra an ninh và xuất cảnh, tầng 3 nhà ga T2.",
+  "desc_en": "Security and immigration checkpoint (Level 3, Terminal T2) – If you have not been checked in, go to the check-in counter at island A, B.\nQueue at the security and immigration check point on level 3 of Terminal 2.",
   "image": "security-check-point.jpg",
   "map_x": "55.6",
   "map_y": "76.55",
@@ -120,9 +120,9 @@
   "label_zh": "安检点",
   "label_ja": "保安検査場",
   "label_ko": "보안 검색대",
-  "desc_zh": "请在T2航站楼3层的安检及出境检查点排队。",
-  "desc_ja": "T2ターミナル3階の保安検査・出国審査場に並んでください。",
-  "desc_ko": "T2 터미널 3층의 보안 검색 및 출국 심사대에서 줄을 서 주세요."
+  "desc_zh": "前往安检和边检区域 (T2航站楼3层) – 如果尚未办理值机，请前往A、B岛的值机柜台。\n请在T2航站楼3层的安检及出境检查点排队。",
+  "desc_ja": "保安検査・出入国審査エリアへ進む (T2の3階) – チェックインがお済みでない場合は、AまたはBアイランドのチェックインカウンターへお越しください。\nT2ターミナル3階の保安検査・出国審査場に並んでください。",
+  "desc_ko": "보안검색 및 출입국 심사 구역으로 이동 (T2 3층) – 체크인을 아직 하지 않았다면 A 또는 B 아일랜드의 체크인 카운터로 이동해 주세요.\nT2 터미널 3층의 보안 검색 및 출국 심사대에서 줄을 서 주세요."
  },
  {
   "route_code": "di-t1__t2-gate",
@@ -156,8 +156,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Follow the flight information screens to gate [gate].",
+  "desc_vi": "Ra cửa ra tàu bay (gate boarding) – Quý khách di chuyển đến cửa ra tàu bay (gate boarding) theo thông tin trên bảng thông báo chuyến bay. Cửa ra tàu bay của chuyến bay là: [gate].\nĐi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Proceed to the boarding gate – Please proceed to the boarding gate according to the flight information display. Your boarding gate is: [gate].\nFollow the flight information screens to gate [gate].",
   "image": "int-gate.jpg",
   "map_x": "55.6",
   "map_y": "63.87",
@@ -170,9 +170,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "请按航班信息显示屏前往登机口 [gate]。",
-  "desc_ja": "フライト情報表示に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "항공편 안내 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 – 请根据航班信息显示屏前往登机口。您的登机口是：[gate]。\n请按航班信息显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口へ進む – フライト情報表示に従って搭乗口へお進みください。搭乗口は[gate]です。\nフライト情報表示に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구로 이동 – 항공편 안내 전광판에 따라 탑승구로 이동해 주세요. 탑승구는 [gate]입니다.\n항공편 안내 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -181,8 +181,8 @@
   "belt": "1,2,3",
   "label_vi": "Lối vào Sảnh B",
   "label_en": "Entrance – Hall B",
-  "desc_vi": "Xuống thang cuốn, đi theo biển Sảnh đến B. Lối vào ở cạnh băng chuyền số 3.",
-  "desc_en": "After the escalator, follow the sign to Arrival Hall B. The entrance is next to belt 3.",
+  "desc_vi": "Quý khách đi vào sảnh đến, tìm băng chuyền số [belt].\nXuống thang cuốn, đi theo biển Sảnh đến B. Lối vào ở cạnh băng chuyền số 3.",
+  "desc_en": "Enter the arrivals hall and find baggage belt [belt].\nAfter the escalator, follow the sign to Arrival Hall B. The entrance is next to belt 3.",
   "image": "den-nd-1.jpg",
   "map_x": "67",
   "map_y": "20",
@@ -195,9 +195,9 @@
   "label_zh": "B厅入口",
   "label_ja": "ホールBの入口",
   "label_ko": "B홀 입구",
-  "desc_zh": "乘自动扶梯下行，跟随“到达B厅”标志。入口在3号行李转盘旁。",
-  "desc_ja": "エスカレーターを降り、「到着ホールB」の案内に従います。入口は3番ターンテーブルの隣です。",
-  "desc_ko": "에스컬레이터로 내려와 “도착 B홀” 표지판을 따라가세요. 입구는 3번 수하물 벨트 옆입니다."
+  "desc_zh": "请进入到达大厅，找到[belt]号行李转盘。\n乘自动扶梯下行，跟随“到达B厅”标志。入口在3号行李转盘旁。",
+  "desc_ja": "到着ロビーに入り、ターンテーブル[belt]番を探してください。\nエスカレーターを降り、「到着ホールB」の案内に従います。入口は3番ターンテーブルの隣です。",
+  "desc_ko": "도착 홀로 들어가 [belt]번 수하물 벨트를 찾으세요.\n에스컬레이터로 내려와 “도착 B홀” 표지판을 따라가세요. 입구는 3번 수하물 벨트 옆입니다."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -206,8 +206,8 @@
   "belt": "4,5,6",
   "label_vi": "Lối vào Sảnh A",
   "label_en": "Entrance – Hall A",
-  "desc_vi": "Xuống thang cuốn, đi theo biển Sảnh đến A. Lối vào ở cạnh băng chuyền số 4.",
-  "desc_en": "After the escalator, follow the sign to Arrival Hall A. The entrance is next to belt 4.",
+  "desc_vi": "Quý khách đi vào sảnh đến, tìm băng chuyền số [belt].\nXuống thang cuốn, đi theo biển Sảnh đến A. Lối vào ở cạnh băng chuyền số 4.",
+  "desc_en": "Enter the arrivals hall and find baggage belt [belt].\nAfter the escalator, follow the sign to Arrival Hall A. The entrance is next to belt 4.",
   "image": "den-nd-1.jpg",
   "map_x": "33",
   "map_y": "20",
@@ -220,9 +220,9 @@
   "label_zh": "A厅入口",
   "label_ja": "ホールAの入口",
   "label_ko": "A홀 입구",
-  "desc_zh": "乘自动扶梯下行，跟随“到达A厅”标志。入口在4号行李转盘旁。",
-  "desc_ja": "エスカレーターを降り、「到着ホールA」の案内に従います。入口は4番ターンテーブルの隣です。",
-  "desc_ko": "에스컬레이터로 내려와 “도착 A홀” 표지판을 따라가세요. 입구는 4번 수하물 벨트 옆입니다."
+  "desc_zh": "请进入到达大厅，找到[belt]号行李转盘。\n乘自动扶梯下行，跟随“到达A厅”标志。入口在4号行李转盘旁。",
+  "desc_ja": "到着ロビーに入り、ターンテーブル[belt]番を探してください。\nエスカレーターを降り、「到着ホールA」の案内に従います。入口は4番ターンテーブルの隣です。",
+  "desc_ko": "도착 홀로 들어가 [belt]번 수하물 벨트를 찾으세요.\n에스컬레이터로 내려와 “도착 A홀” 표지판을 따라가세요. 입구는 4번 수하물 벨트 옆입니다."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -231,8 +231,8 @@
   "belt": "1",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Chờ và nhận hành lý tại băng chuyền số [belt].",
-  "desc_en": "Wait for and collect your baggage at belt [belt].",
+  "desc_vi": "Quý khách nhận hành lý và đi ra ngoài theo các cửa.\nChờ và nhận hành lý tại băng chuyền số [belt].",
+  "desc_en": "Collect your baggage and leave through the exit doors.\nWait for and collect your baggage at belt [belt].",
   "image": "den-nd-b1.jpg",
   "map_x": "84",
   "map_y": "52.2",
@@ -245,9 +245,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "请在[belt]号行李转盘等候并领取行李。",
-  "desc_ja": "ターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
-  "desc_ko": "[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
+  "desc_zh": "领取行李后，请从出口门离开。\n请在[belt]号行李转盘等候并领取行李。",
+  "desc_ja": "手荷物を受け取り、出口から外へお進みください。\nターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
+  "desc_ko": "수하물을 찾은 후 출구로 나가세요.\n[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -256,8 +256,8 @@
   "belt": "2",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Chờ và nhận hành lý tại băng chuyền số [belt].",
-  "desc_en": "Wait for and collect your baggage at belt [belt].",
+  "desc_vi": "Quý khách nhận hành lý và đi ra ngoài theo các cửa.\nChờ và nhận hành lý tại băng chuyền số [belt].",
+  "desc_en": "Collect your baggage and leave through the exit doors.\nWait for and collect your baggage at belt [belt].",
   "image": "den-nd-b2.jpg",
   "map_x": "77.3",
   "map_y": "45.9",
@@ -270,9 +270,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "请在[belt]号行李转盘等候并领取行李。",
-  "desc_ja": "ターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
-  "desc_ko": "[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
+  "desc_zh": "领取行李后，请从出口门离开。\n请在[belt]号行李转盘等候并领取行李。",
+  "desc_ja": "手荷物を受け取り、出口から外へお進みください。\nターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
+  "desc_ko": "수하물을 찾은 후 출구로 나가세요.\n[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -281,8 +281,8 @@
   "belt": "3",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Chờ và nhận hành lý tại băng chuyền số [belt].",
-  "desc_en": "Wait for and collect your baggage at belt [belt].",
+  "desc_vi": "Quý khách nhận hành lý và đi ra ngoài theo các cửa.\nChờ và nhận hành lý tại băng chuyền số [belt].",
+  "desc_en": "Collect your baggage and leave through the exit doors.\nWait for and collect your baggage at belt [belt].",
   "image": "den-nd-b3.jpg",
   "map_x": "68.4",
   "map_y": "37.6",
@@ -295,9 +295,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "请在[belt]号行李转盘等候并领取行李。",
-  "desc_ja": "ターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
-  "desc_ko": "[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
+  "desc_zh": "领取行李后，请从出口门离开。\n请在[belt]号行李转盘等候并领取行李。",
+  "desc_ja": "手荷物を受け取り、出口から外へお進みください。\nターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
+  "desc_ko": "수하물을 찾은 후 출구로 나가세요.\n[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -306,8 +306,8 @@
   "belt": "4",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Chờ và nhận hành lý tại băng chuyền số [belt].",
-  "desc_en": "Wait for and collect your baggage at belt [belt].",
+  "desc_vi": "Quý khách nhận hành lý và đi ra ngoài theo các cửa.\nChờ và nhận hành lý tại băng chuyền số [belt].",
+  "desc_en": "Collect your baggage and leave through the exit doors.\nWait for and collect your baggage at belt [belt].",
   "image": "den-nd-b4.jpg",
   "map_x": "31.6",
   "map_y": "37.6",
@@ -320,9 +320,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "请在[belt]号行李转盘等候并领取行李。",
-  "desc_ja": "ターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
-  "desc_ko": "[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
+  "desc_zh": "领取行李后，请从出口门离开。\n请在[belt]号行李转盘等候并领取行李。",
+  "desc_ja": "手荷物を受け取り、出口から外へお進みください。\nターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
+  "desc_ko": "수하물을 찾은 후 출구로 나가세요.\n[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -331,8 +331,8 @@
   "belt": "5",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Chờ và nhận hành lý tại băng chuyền số [belt].",
-  "desc_en": "Wait for and collect your baggage at belt [belt].",
+  "desc_vi": "Quý khách nhận hành lý và đi ra ngoài theo các cửa.\nChờ và nhận hành lý tại băng chuyền số [belt].",
+  "desc_en": "Collect your baggage and leave through the exit doors.\nWait for and collect your baggage at belt [belt].",
   "image": "den-nd-b5.jpg",
   "map_x": "22.7",
   "map_y": "45.9",
@@ -345,9 +345,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "请在[belt]号行李转盘等候并领取行李。",
-  "desc_ja": "ターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
-  "desc_ko": "[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
+  "desc_zh": "领取行李后，请从出口门离开。\n请在[belt]号行李转盘等候并领取行李。",
+  "desc_ja": "手荷物を受け取り、出口から外へお進みください。\nターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
+  "desc_ko": "수하물을 찾은 후 출구로 나가세요.\n[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -356,8 +356,8 @@
   "belt": "6",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Chờ và nhận hành lý tại băng chuyền số [belt].",
-  "desc_en": "Wait for and collect your baggage at belt [belt].",
+  "desc_vi": "Quý khách nhận hành lý và đi ra ngoài theo các cửa.\nChờ và nhận hành lý tại băng chuyền số [belt].",
+  "desc_en": "Collect your baggage and leave through the exit doors.\nWait for and collect your baggage at belt [belt].",
   "image": "den-nd-b6.jpg",
   "map_x": "16",
   "map_y": "52.2",
@@ -370,9 +370,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "请在[belt]号行李转盘等候并领取行李。",
-  "desc_ja": "ターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
-  "desc_ko": "[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
+  "desc_zh": "领取行李后，请从出口门离开。\n请在[belt]号行李转盘等候并领取行李。",
+  "desc_ja": "手荷物を受け取り、出口から外へお進みください。\nターンテーブル[belt]番でお待ちいただき、手荷物をお受け取りください。",
+  "desc_ko": "수하물을 찾은 후 출구로 나가세요.\n[belt]번 수하물 벨트에서 기다렸다가 수하물을 찾으세요."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -381,8 +381,8 @@
   "belt": "1,2,3",
   "label_vi": "Lối ra Sảnh B",
   "label_en": "Exit – Hall B",
-  "desc_vi": "Sau khi nhận hành lý, đi theo biển Lối ra để ra ngoài.",
-  "desc_en": "After collecting your baggage, follow the Exit signs to leave.",
+  "desc_vi": "Quý khách nhận hành lý và đi ra ngoài theo các cửa.\nSau khi nhận hành lý, đi theo biển Lối ra để ra ngoài.",
+  "desc_en": "Collect your baggage and leave through the exit doors.\nAfter collecting your baggage, follow the Exit signs to leave.",
   "image": "den-nd-3.jpg",
   "map_x": "69.3",
   "map_y": "53.2",
@@ -395,9 +395,9 @@
   "label_zh": "B厅出口",
   "label_ja": "ホールBの出口",
   "label_ko": "B홀 출구",
-  "desc_zh": "领取行李后，请跟随“出口”标志离开。",
-  "desc_ja": "手荷物を受け取ったら、「出口」の案内に従って外へ出てください。",
-  "desc_ko": "수하물을 찾은 후 “출구” 표지판을 따라 나가세요."
+  "desc_zh": "领取行李后，请从出口门离开。\n领取行李后，请跟随“出口”标志离开。",
+  "desc_ja": "手荷物を受け取り、出口から外へお進みください。\n手荷物を受け取ったら、「出口」の案内に従って外へ出てください。",
+  "desc_ko": "수하물을 찾은 후 출구로 나가세요.\n수하물을 찾은 후 “출구” 표지판을 따라 나가세요."
  },
  {
   "route_code": "t1-arrival__exit",
@@ -406,8 +406,8 @@
   "belt": "4,5,6",
   "label_vi": "Lối ra Sảnh A",
   "label_en": "Exit – Hall A",
-  "desc_vi": "Sau khi nhận hành lý, đi theo biển Lối ra để ra ngoài.",
-  "desc_en": "After collecting your baggage, follow the Exit signs to leave.",
+  "desc_vi": "Quý khách nhận hành lý và đi ra ngoài theo các cửa.\nSau khi nhận hành lý, đi theo biển Lối ra để ra ngoài.",
+  "desc_en": "Collect your baggage and leave through the exit doors.\nAfter collecting your baggage, follow the Exit signs to leave.",
   "image": "den-sanh-a.jpg",
   "map_x": "30.7",
   "map_y": "53.2",
@@ -420,9 +420,9 @@
   "label_zh": "A厅出口",
   "label_ja": "ホールAの出口",
   "label_ko": "A홀 출구",
-  "desc_zh": "领取行李后，请跟随“出口”标志离开。",
-  "desc_ja": "手荷物を受け取ったら、「出口」の案内に従って外へ出てください。",
-  "desc_ko": "수하물을 찾은 후 “출구” 표지판을 따라 나가세요."
+  "desc_zh": "领取行李后，请从出口门离开。\n领取行李后，请跟随“出口”标志离开。",
+  "desc_ja": "手荷物を受け取り、出口から外へお進みください。\n手荷物を受け取ったら、「出口」の案内に従って外へ出てください。",
+  "desc_ko": "수하물을 찾은 후 출구로 나가세요.\n수하물을 찾은 후 “출구” 표지판을 따라 나가세요."
  },
  {
   "route_code": "ii-arrival__gate",
@@ -431,8 +431,8 @@
   "belt": "",
   "label_vi": "Quầy transfer",
   "label_en": "Transfer counter",
-  "desc_vi": "Transfer Counter – nơi cấp thẻ lên máy bay cho chặng bay tiếp theo.",
-  "desc_en": "Transfer counter – boarding pass for the next leg.",
+  "desc_vi": "Vào quầy nối chuyến – Đa số hành khách đã được làm thủ tục (check-in) thẳng tới điểm đến cuối cùng. Tuy nhiên, quý khách vui lòng liên hệ Quầy Nối chuyến (Transfer Counter) để được nhân viên hỗ trợ nếu thuộc các trường hợp sau: Chưa được cấp thẻ lên máy bay (boarding pass) cho chặng bay tiếp theo. | Cần kiểm tra và xác nhận lại tình trạng hành lý ký gửi. | Cần xác minh tính hợp lệ của thị thực (visa) và giấy tờ nhập cảnh tại điểm đến cuối cùng. | Các thông tin cập nhật khác,...\nTransfer Counter – nơi cấp thẻ lên máy bay cho chặng bay tiếp theo.\nLưu ý hành lý: Hành lý ký gửi thông thường sẽ tự động chuyển thẳng đến đích cuối cùng. Quý khách vui lòng xác nhận lại trạng thái thẻ hành lý với nhân viên tại quầy.",
+  "desc_en": "Go to the transfer counter – Most passengers have already been checked through to their final destination. However, please contact the Transfer Counter for assistance if you fall into one of the following cases: You have not been issued a boarding pass for the next flight segment. | You need to check and reconfirm the status of your checked baggage. | You need to verify the validity of your visa and entry documents for the final destination. | Other updated travel information, etc.\nTransfer counter – boarding pass for the next leg.\nBaggage note: Checked baggage is usually transferred automatically to the final destination. Please confirm the baggage tag status with the staff at the counter.",
   "image": "transfer-desk-01.jpg",
   "map_x": "29.4",
   "map_y": "25",
@@ -445,9 +445,9 @@
   "label_zh": "中转柜台",
   "label_ja": "乗り継ぎカウンター",
   "label_ko": "환승 카운터",
-  "desc_zh": "中转柜台（Transfer Counter）– 办理下一程航班登机牌。",
-  "desc_ja": "乗り継ぎカウンター（Transfer Counter）– 次の区間の搭乗券を発行します。",
-  "desc_ko": "환승 카운터(Transfer Counter) – 다음 구간 탑승권을 발급합니다."
+  "desc_zh": "前往中转柜台 – 大多数旅客已直接办理值机至最终目的地。但如属于以下情况，请联系中转柜台（Transfer Counter）寻求工作人员协助： 尚未领取下一段航班的登机牌。 | 需要检查并确认托运行李状态。 | 需要确认最终目的地签证及入境文件是否有效。 | 其他最新出行信息等。\n中转柜台（Transfer Counter）– 办理下一程航班登机牌。\n行李提示：托运行李通常会自动直接转运至最终目的地。请向柜台工作人员确认行李牌状态。",
+  "desc_ja": "乗り継ぎカウンターへ – 多くのお客様は最終目的地まで通しでチェックイン済みです。ただし、以下の場合は乗り継ぎカウンター（Transfer Counter）でスタッフのサポートを受けてください。 次の区間の搭乗券がまだ発行されていない場合。 | 受託手荷物の状況確認が必要な場合。 | 最終目的地で必要なビザおよび入国書類の有効性確認が必要な場合。 | その他の最新案内が必要な場合。\n乗り継ぎカウンター（Transfer Counter）– 次の区間の搭乗券を発行します。\n手荷物のご注意：受託手荷物は通常、最終目的地まで自動的に転送されます。手荷物タグの状況はカウンターのスタッフにご確認ください。",
+  "desc_ko": "환승 카운터로 이동 – 대부분의 승객은 최종 목적지까지 연결 체크인이 이미 완료되어 있습니다. 다만 아래 경우에는 환승 카운터(Transfer Counter)에서 직원의 안내를 받으시기 바랍니다. 다음 구간 탑승권을 아직 받지 못한 경우. | 위탁수하물 상태를 확인하고 재확인해야 하는 경우. | 최종 목적지의 비자 및 입국 서류 유효성 확인이 필요한 경우. | 기타 최신 안내가 필요한 경우.\n환승 카운터(Transfer Counter) – 다음 구간 탑승권을 발급합니다.\n수하물 안내: 위탁수하물은 보통 최종 목적지까지 자동으로 연결됩니다. 수하물 태그 상태는 카운터 직원에게 다시 확인해 주세요."
  },
  {
   "route_code": "ii-arrival__gate",
@@ -456,8 +456,8 @@
   "belt": "",
   "label_vi": "Làn nối chuyến QT–QT",
   "label_en": "Intl transit lane",
-  "desc_vi": "Theo biển LANE · TRANSIT (lối đi · quá cảnh) để vào đúng làn nối chuyến quốc tế – quốc tế.",
-  "desc_en": "Follow the LANE · TRANSIT sign into the international transfer lane.",
+  "desc_vi": "Di chuyển vào line dành cho khách nối chuyến Quốc tế/Quốc tế (ảnh đính kèm). Quý khách chuẩn bị sẵn hộ chiếu gốc và thẻ lên máy bay hợp lệ, Công an cửa khẩu sẽ tiến hành kiểm tra tại bục kiểm soát.\nTheo biển LANE · TRANSIT (lối đi · quá cảnh) để vào đúng làn nối chuyến quốc tế – quốc tế.",
+  "desc_en": "Move into the lane for International/International transfer passengers (photo attached). Please have your original passport and valid boarding pass ready; border police will check them at the checkpoint.\nFollow the LANE · TRANSIT sign into the international transfer lane.",
   "image": "signboard-connection-int-int.jpg",
   "map_x": "41.4",
   "map_y": "46.7",
@@ -470,9 +470,9 @@
   "label_zh": "国际中转通道",
   "label_ja": "国際線乗り継ぎレーン",
   "label_ko": "국제선 환승 레인",
-  "desc_zh": "请跟随“LANE · TRANSIT（通道 · 中转）”标志，进入国际转国际中转通道。",
-  "desc_ja": "「LANE · TRANSIT（通路 · 乗り継ぎ）」の案内に従い、国際線同士の乗り継ぎレーンへお進みください。",
-  "desc_ko": "“LANE · TRANSIT(통로 · 환승)” 표지판을 따라 국제선 ↔ 국제선 환승 레인으로 들어가세요."
+  "desc_zh": "接受边检检查 – 请在紧邻中转柜台的独立中转证件检查区域排队，提前准备好护照原件和有效登机牌。\n请跟随“LANE · TRANSIT（通道 · 中转）”标志，进入国际转国际中转通道。",
+  "desc_ja": "出入国審査 – 乗り継ぎカウンターのすぐ隣にある専用の乗り継ぎ書類確認エリアにお並びください。パスポート原本と有効な搭乗券をご準備ください。\n「LANE · TRANSIT（通路 · 乗り継ぎ）」の案内に従い、国際線同士の乗り継ぎレーンへお進みください。",
+  "desc_ko": "출입국 심사 – 환승 카운터 바로 옆에 있는 전용 환승 서류 확인 구역에서 줄을 서 주시고, 여권 원본과 유효한 탑승권을 준비해 주세요.\n“LANE · TRANSIT(통로 · 환승)” 표지판을 따라 국제선 ↔ 국제선 환승 레인으로 들어가세요."
  },
  {
   "route_code": "ii-arrival__gate",
@@ -506,8 +506,8 @@
   "belt": "",
   "label_vi": "Kiểm tra an ninh",
   "label_en": "Security screening",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Kiểm tra an ninh – Đi theo lối cầu thang cuốn đi bộ lên tầng 3 và đi trực tiếp vào khu vực soi chiếu an ninh hàng không.",
+  "desc_en": "Security screening – Take the escalator up to Level 3 and proceed directly to the transit security screening area.",
   "image": "",
   "map_x": "55.6",
   "map_y": "28.66",
@@ -520,9 +520,9 @@
   "label_zh": "安全检查",
   "label_ja": "保安検査",
   "label_ko": "보안 검색",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "安全检查 – 请乘自动扶梯步行至三层，并直接前往中转旅客专用安检区域。",
+  "desc_ja": "保安検査 – エスカレーターで3階へ上がり、そのまま乗り継ぎ旅客専用の保安検査場へお進みください。",
+  "desc_ko": "보안 검색 – 에스컬레이터를 이용해 3층으로 올라간 뒤 환승 승객 전용 보안 검색 구역으로 바로 이동해 주세요."
  },
  {
   "route_code": "ii-arrival__gate",
@@ -531,8 +531,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Biển THÔNG TIN CỬA RA TÀU BAY chỉ hai hướng: cửa 21–35 và cửa 36–50. Xem số cửa của chuyến bay rồi đi theo mũi tên tương ứng; các lối A, B, C dẫn xuống khu vực cửa ra tàu bay.",
-  "desc_en": "The Boarding gate information sign points two ways: gates 21–35 and gates 36–50. Check your gate number and follow the matching arrow; A, B and C lead down to the boarding gates.",
+  "desc_vi": "Ra cửa khởi hành – Sau khi kiểm tra an ninh, quý khách vào phòng chờ quốc tế tầng 3. Cửa khởi hành của chuyến bay là: [gate]. Xin lưu ý, cửa khởi hành (boarding gate) sẽ đóng cửa trước 15 phút so với giờ khởi hành dự kiến.\nBiển THÔNG TIN CỬA RA TÀU BAY chỉ hai hướng: cửa 21–35 và cửa 36–50. Xem số cửa của chuyến bay rồi đi theo mũi tên tương ứng; các lối A, B, C dẫn xuống khu vực cửa ra tàu bay.",
+  "desc_en": "Proceed to the boarding gate – After passing security screening, please proceed to the international departure lounge on Level 3. Your boarding gate is: [gate]. Please note that the boarding gate closes 15 minutes before the scheduled departure time.\nThe Boarding gate information sign points two ways: gates 21–35 and gates 36–50. Check your gate number and follow the matching arrow; A, B and C lead down to the boarding gates.",
   "image": "int-gate.jpg",
   "map_x": "55.6",
   "map_y": "13.4",
@@ -545,9 +545,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "“登机口信息”标志指向两个方向：21–35号登机口和36–50号登机口。请确认您的登机口号码，并按对应箭头前行；A、B、C通道通往登机口区域。",
-  "desc_ja": "「搭乗口案内」の表示は2方向を示しています：21～35番ゲートと36～50番ゲート。ご自身の搭乗口番号を確認し、該当する矢印に従ってください。A・B・Cの通路が搭乗口エリアへ続いています。",
-  "desc_ko": "“탑승구 안내” 표지판은 두 방향을 가리킵니다: 21~35번 탑승구와 36~50번 탑승구. 본인의 탑승구 번호를 확인하고 해당 화살표를 따라가세요. A, B, C 통로가 탑승구 구역으로 이어집니다."
+  "desc_zh": "前往登机口 – 通过安检后，请前往三层国际候机厅。您的登机口为：[gate]。请注意，登机口将在预计起飞时间前15分钟关闭。\n“登机口信息”标志指向两个方向：21–35号登机口和36–50号登机口。请确认您的登机口号码，并按对应箭头前行；A、B、C通道通往登机口区域。",
+  "desc_ja": "搭乗口へ移動 – 保安検査後、3階の国際線待合エリアへお進みください。ご搭乗口は [gate] です。搭乗口は出発予定時刻の15分前に閉まりますのでご注意ください。\n「搭乗口案内」の表示は2方向を示しています：21～35番ゲートと36～50番ゲート。ご自身の搭乗口番号を確認し、該当する矢印に従ってください。A・B・Cの通路が搭乗口エリアへ続いています。",
+  "desc_ko": "탑승구로 이동 – 보안 검색 후 3층 국제선 대합실로 이동해 주세요. 탑승구는 [gate] 입니다. 탑승구는 예정 출발 시각 15분 전에 닫히니 유의해 주세요.\n“탑승구 안내” 표지판은 두 방향을 가리킵니다: 21~35번 탑승구와 36~50번 탑승구. 본인의 탑승구 번호를 확인하고 해당 화살표를 따라가세요. A, B, C 통로가 탑승구 구역으로 이어집니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -556,8 +556,8 @@
   "belt": "",
   "label_vi": "Hành lang ga đến",
   "label_en": "Arrival corridor",
-  "desc_vi": "Đi theo biển Nhập cảnh · Arrival. Khách nối chuyến tới Quầy nối chuyến; khách cần thị thực tới Quầy cấp thị thực tại cửa khẩu trước khi nhập cảnh.",
-  "desc_en": "Follow the Arrival signs. Transfer passengers go to the Transfer counter; passengers needing a visa go to the Visa on arrival counter before immigration.",
+  "desc_vi": "Quý khách theo hành lang ga đến, đi theo biển \"Nhập cảnh / Arrival\". \n- Đối với khách phải làm thủ tục nhận visa điểm đến hoặc các thủ tục khác, quý khách di chuyển vào quầy thủ tục công an cửa khẩu.\n- Đối với khách nước ngoài: trước khi nhập cảnh, quý khách hoàn thiện biểu mẫu pre-arrvival theo đường link: https://prearrival.immigration.gov.vn/home-page\nĐi theo biển Nhập cảnh · Arrival. Khách nối chuyến tới Quầy nối chuyến; khách cần thị thực tới Quầy cấp thị thực tại cửa khẩu trước khi nhập cảnh.",
+  "desc_en": "Follow the arrivals corridor and the \"Immigration / Arrival\" signs.\n- Passengers who need a visa on arrival or other procedures should go to the border-police counter.\n- Foreign passengers: before entering, complete the pre-arrival form at: https://prearrival.immigration.gov.vn/home-page\nFollow the Arrival signs. Transfer passengers go to the Transfer counter; passengers needing a visa go to the Visa on arrival counter before immigration.",
   "image": "t2-immigration.jpg",
   "map_x": "28.68",
   "map_y": "15.65",
@@ -570,9 +570,9 @@
   "label_zh": "到达走廊",
   "label_ja": "到着通路",
   "label_ko": "도착 복도",
-  "desc_zh": "请跟随“入境 · Arrival”标志。中转旅客前往中转柜台；需要办理签证的旅客，请在入境前到口岸签证柜台办理。",
-  "desc_ja": "「入国 · Arrival」の案内に従います。乗り継ぎのお客様は乗り継ぎカウンターへ。ビザが必要なお客様は、入国審査の前に国境のビザ発給カウンターへお進みください。",
-  "desc_ko": "“입국 · Arrival” 표지판을 따라가세요. 환승 승객은 환승 카운터로, 비자가 필요한 승객은 입국 심사 전에 국경 비자 발급 카운터로 이동하세요."
+  "desc_zh": "请沿到达走廊前行，跟随“入境 / Arrival”指示牌。\n- 需办理落地签证或其他手续的旅客，请前往边检手续柜台。\n- 外国旅客：入境前请通过以下链接填写预申报表（pre-arrival）：https://prearrival.immigration.gov.vn/home-page\n请跟随“入境 · Arrival”标志。中转旅客前往中转柜台；需要办理签证的旅客，请在入境前到口岸签证柜台办理。",
+  "desc_ja": "到着通路に沿って進み、「入国 / Arrival」の案内表示に従ってください。\n- 到着ビザやその他の手続きが必要な方は、出入国管理の手続きカウンターへお進みください。\n- 外国人のお客様：入国前に、次のリンクから事前申告フォーム（pre-arrival）をご記入ください：https://prearrival.immigration.gov.vn/home-page\n「入国 · Arrival」の案内に従います。乗り継ぎのお客様は乗り継ぎカウンターへ。ビザが必要なお客様は、入国審査の前に国境のビザ発給カウンターへお進みください。",
+  "desc_ko": "도착 복도를 따라 이동하며 “입국 / Arrival” 표지판을 따라가세요.\n- 도착 비자 또는 기타 수속이 필요한 승객은 출입국 관리 수속 카운터로 이동해 주세요.\n- 외국인 승객: 입국 전에 아래 링크에서 사전 신고서(pre-arrival)를 작성해 주세요: https://prearrival.immigration.gov.vn/home-page\n“입국 · Arrival” 표지판을 따라가세요. 환승 승객은 환승 카운터로, 비자가 필요한 승객은 입국 심사 전에 국경 비자 발급 카운터로 이동하세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -581,8 +581,8 @@
   "belt": "",
   "label_vi": "Nhập cảnh",
   "label_en": "Immigration",
-  "desc_vi": "Bục kiểm soát của Công an cửa khẩu. Sau đó đi thang xuống tầng 1.",
-  "desc_en": "Border police immigration counters. Then take the stairs/escalator down to Level 1.",
+  "desc_vi": "Nhập cảnh: Hành khách di chuyển theo luồng Nhập cảnh (Immigration) để làm thủ tục nhập cảnh vào Việt Nam. \nKhu vực nhập cảnh chia làm các làn như sau:\n- lane dành cho khách ngoại giao (tất cả các quốc tịch): \n- Lane dành cho khách ưu tiên (khách hạng thương gia, prioirity, khách có thẻ Apec -tất cả các quốc tịch)\n- Lane dành cho khách người Việt nam\n- Lane dành cho khách người nước ngoài\n- Lane dành cho khách người việt dùng cửa nhập cảnh tự động (Chỉ dành cho khách quốc tịch Việt Nam)\n- Làn dành cho khách nối chuyến đi các chuyến bay quốc tế.\nBục kiểm soát của Công an cửa khẩu. Sau đó đi thang xuống tầng 1.",
+  "desc_en": "Immigration: Follow the Immigration channel to complete entry procedures into Vietnam.\nThe immigration area is divided into the following lanes:\n- Lane for diplomatic passengers (all nationalities):\n- Lane for priority passengers (business class, priority, APEC card holders – all nationalities)\n- Lane for Vietnamese passengers\n- Lane for foreign passengers\n- Lane for Vietnamese passengers using the automatic immigration gate (Vietnamese nationals only)\n- Lane for passengers transferring to international flights.\nBorder police immigration counters. Then take the stairs/escalator down to Level 1.",
   "image": "t2-arrival.jpg",
   "map_x": "50.03",
   "map_y": "34.35",
@@ -595,9 +595,9 @@
   "label_zh": "入境",
   "label_ja": "入国審査",
   "label_ko": "입국 심사",
-  "desc_zh": "边检（口岸公安）检查柜台。之后乘扶梯下到1层。",
-  "desc_ja": "国境警備（出入国管理）の審査ブースです。その後、階段またはエスカレーターで1階へ降ります。",
-  "desc_ko": "출입국 관리(국경 경찰) 심사대입니다. 이후 계단 또는 에스컬레이터로 1층으로 내려가세요."
+  "desc_zh": "入境：请按照入境（Immigration）通道办理进入越南的入境手续。\n入境区域分为以下通道：\n- 外交旅客通道（所有国籍）\n- 优先旅客通道（公务舱、优先（priority）旅客、持APEC卡旅客，所有国籍）\n- 越南籍旅客通道\n- 外国籍旅客通道\n- 越南籍旅客自动入境闸机通道（仅限越南国籍）\n- 前往国际航班的中转旅客通道\n边检（口岸公安）检查柜台。之后乘扶梯下到1层。",
+  "desc_ja": "入国審査：入国（Immigration）の流れに沿って、ベトナムへの入国手続きを行ってください。\n入国審査エリアは次のレーンに分かれています。\n- 外交官用レーン（全国籍）\n- 優先レーン（ビジネスクラス、プライオリティ、APECカード保持者。全国籍）\n- ベトナム国籍のお客様用レーン\n- 外国籍のお客様用レーン\n- ベトナム国籍のお客様用の自動入国ゲート（ベトナム国籍のみ）\n- 国際線へ乗り継ぐお客様用レーン\n国境警備（出入国管理）の審査ブースです。その後、階段またはエスカレーターで1階へ降ります。",
+  "desc_ko": "입국 심사: 입국(Immigration) 동선을 따라 베트남 입국 절차를 진행해 주세요.\n입국 심사 구역은 다음과 같은 레인으로 나뉩니다.\n- 외교 승객 전용 레인(모든 국적)\n- 우선 승객 레인(비즈니스석, 프라이어리티, APEC 카드 소지자. 모든 국적)\n- 베트남 국적 승객 레인\n- 외국 국적 승객 레인\n- 베트남 국적 승객 자동 입국 게이트(베트남 국적만 해당)\n- 국제선 환승 승객 전용 레인\n출입국 관리(국경 경찰) 심사대입니다. 이후 계단 또는 에스컬레이터로 1층으로 내려가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -606,8 +606,8 @@
   "belt": "1",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Băng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
-  "desc_en": "Belts are numbered 1–8 from right to left as you come down.",
+  "desc_vi": "Xuống tầng 1, nhận hành lý tại băng chuyền số [belt].\nBăng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
+  "desc_en": "Go down to Level 1 and collect your baggage at belt [belt].\nBelts are numbered 1–8 from right to left as you come down.",
   "image": "t2-belt-1.jpg",
   "map_x": "79.67",
   "map_y": "61.57",
@@ -620,9 +620,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "行李转盘编号为1–8，沿下行方向从右到左排列。",
-  "desc_ja": "ターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
-  "desc_ko": "수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
+  "desc_zh": "下到1层，在[belt]号行李转盘领取行李。\n行李转盘编号为1–8，沿下行方向从右到左排列。",
+  "desc_ja": "1階へ降り、ターンテーブル[belt]番で手荷物を受け取ります。\nターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
+  "desc_ko": "1층으로 내려가 [belt]번 수하물 벨트에서 수하물을 찾으세요.\n수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -631,8 +631,8 @@
   "belt": "1",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Luồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
-  "desc_en": "Green channel if nothing to declare, red channel otherwise.",
+  "desc_vi": "Hải quan: luồng xanh nếu không có hàng phải khai, luồng đỏ nếu có\nLuồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
+  "desc_en": "Customs: green channel if nothing to declare, red channel otherwise",
   "image": "",
   "map_x": "65.97",
   "map_y": "83.43",
@@ -645,9 +645,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
-  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
-  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
+  "desc_zh": "海关：无需申报物品请走绿色通道，有申报物品请走红色通道\n无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "税関：申告するものがなければ緑ルート、ある場合は赤ルートへ",
+  "desc_ko": "세관: 신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 이동\n신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -656,8 +656,8 @@
   "belt": "1",
   "label_vi": "Sảnh đến",
   "label_en": "Arrivals hall",
-  "desc_vi": "Taxi, xe buýt, xe đưa đón.",
-  "desc_en": "Taxi, bus, pick-up.",
+  "desc_vi": "Ra sảnh đến: taxi, xe buýt, xe đưa đón",
+  "desc_en": "Arrivals hall: taxi, bus, pick-up",
   "image": "",
   "map_x": "65.97",
   "map_y": "91.11",
@@ -670,9 +670,9 @@
   "label_zh": "到达大厅",
   "label_ja": "到着ロビー",
   "label_ko": "도착 홀",
-  "desc_zh": "出租车、公交车、接送车。",
-  "desc_ja": "タクシー、バス、送迎車。",
-  "desc_ko": "택시, 버스, 픽업 차량."
+  "desc_zh": "前往到达大厅：出租车、公交车、接送车",
+  "desc_ja": "到着ロビーへ：タクシー、バス、送迎車",
+  "desc_ko": "도착 홀: 택시, 버스, 픽업 차량"
  },
  {
   "route_code": "t2-arrival__exit",
@@ -681,8 +681,8 @@
   "belt": "2",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Băng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
-  "desc_en": "Belts are numbered 1–8 from right to left as you come down.",
+  "desc_vi": "Xuống tầng 1, nhận hành lý tại băng chuyền số [belt].\nBăng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
+  "desc_en": "Go down to Level 1 and collect your baggage at belt [belt].\nBelts are numbered 1–8 from right to left as you come down.",
   "image": "t2-belt-2.jpg",
   "map_x": "72.98",
   "map_y": "61.57",
@@ -695,9 +695,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "行李转盘编号为1–8，沿下行方向从右到左排列。",
-  "desc_ja": "ターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
-  "desc_ko": "수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
+  "desc_zh": "下到1层，在[belt]号行李转盘领取行李。\n行李转盘编号为1–8，沿下行方向从右到左排列。",
+  "desc_ja": "1階へ降り、ターンテーブル[belt]番で手荷物を受け取ります。\nターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
+  "desc_ko": "1층으로 내려가 [belt]번 수하물 벨트에서 수하물을 찾으세요.\n수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -706,8 +706,8 @@
   "belt": "2",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Luồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
-  "desc_en": "Green channel if nothing to declare, red channel otherwise.",
+  "desc_vi": "Hải quan: luồng xanh nếu không có hàng phải khai, luồng đỏ nếu có\nLuồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
+  "desc_en": "Customs: green channel if nothing to declare, red channel otherwise",
   "image": "",
   "map_x": "65.97",
   "map_y": "83.43",
@@ -720,9 +720,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
-  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
-  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
+  "desc_zh": "海关：无需申报物品请走绿色通道，有申报物品请走红色通道\n无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "税関：申告するものがなければ緑ルート、ある場合は赤ルートへ",
+  "desc_ko": "세관: 신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 이동\n신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -731,8 +731,8 @@
   "belt": "2",
   "label_vi": "Sảnh đến",
   "label_en": "Arrivals hall",
-  "desc_vi": "Taxi, xe buýt, xe đưa đón.",
-  "desc_en": "Taxi, bus, pick-up.",
+  "desc_vi": "Ra sảnh đến: taxi, xe buýt, xe đưa đón",
+  "desc_en": "Arrivals hall: taxi, bus, pick-up",
   "image": "",
   "map_x": "65.97",
   "map_y": "91.11",
@@ -745,9 +745,9 @@
   "label_zh": "到达大厅",
   "label_ja": "到着ロビー",
   "label_ko": "도착 홀",
-  "desc_zh": "出租车、公交车、接送车。",
-  "desc_ja": "タクシー、バス、送迎車。",
-  "desc_ko": "택시, 버스, 픽업 차량."
+  "desc_zh": "前往到达大厅：出租车、公交车、接送车",
+  "desc_ja": "到着ロビーへ：タクシー、バス、送迎車",
+  "desc_ko": "도착 홀: 택시, 버스, 픽업 차량"
  },
  {
   "route_code": "t2-arrival__exit",
@@ -756,8 +756,8 @@
   "belt": "3",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Băng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
-  "desc_en": "Belts are numbered 1–8 from right to left as you come down.",
+  "desc_vi": "Xuống tầng 1, nhận hành lý tại băng chuyền số [belt].\nBăng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
+  "desc_en": "Go down to Level 1 and collect your baggage at belt [belt].\nBelts are numbered 1–8 from right to left as you come down.",
   "image": "t2-belt-3.jpg",
   "map_x": "59.59",
   "map_y": "61.57",
@@ -770,9 +770,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "行李转盘编号为1–8，沿下行方向从右到左排列。",
-  "desc_ja": "ターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
-  "desc_ko": "수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
+  "desc_zh": "下到1层，在[belt]号行李转盘领取行李。\n行李转盘编号为1–8，沿下行方向从右到左排列。",
+  "desc_ja": "1階へ降り、ターンテーブル[belt]番で手荷物を受け取ります。\nターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
+  "desc_ko": "1층으로 내려가 [belt]번 수하물 벨트에서 수하물을 찾으세요.\n수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -781,8 +781,8 @@
   "belt": "3",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Luồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
-  "desc_en": "Green channel if nothing to declare, red channel otherwise.",
+  "desc_vi": "Hải quan: luồng xanh nếu không có hàng phải khai, luồng đỏ nếu có\nLuồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
+  "desc_en": "Customs: green channel if nothing to declare, red channel otherwise",
   "image": "",
   "map_x": "65.97",
   "map_y": "83.43",
@@ -795,9 +795,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
-  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
-  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
+  "desc_zh": "海关：无需申报物品请走绿色通道，有申报物品请走红色通道\n无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "税関：申告するものがなければ緑ルート、ある場合は赤ルートへ",
+  "desc_ko": "세관: 신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 이동\n신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -806,8 +806,8 @@
   "belt": "3",
   "label_vi": "Sảnh đến",
   "label_en": "Arrivals hall",
-  "desc_vi": "Taxi, xe buýt, xe đưa đón.",
-  "desc_en": "Taxi, bus, pick-up.",
+  "desc_vi": "Ra sảnh đến: taxi, xe buýt, xe đưa đón",
+  "desc_en": "Arrivals hall: taxi, bus, pick-up",
   "image": "",
   "map_x": "65.97",
   "map_y": "91.11",
@@ -820,9 +820,9 @@
   "label_zh": "到达大厅",
   "label_ja": "到着ロビー",
   "label_ko": "도착 홀",
-  "desc_zh": "出租车、公交车、接送车。",
-  "desc_ja": "タクシー、バス、送迎車。",
-  "desc_ko": "택시, 버스, 픽업 차량."
+  "desc_zh": "前往到达大厅：出租车、公交车、接送车",
+  "desc_ja": "到着ロビーへ：タクシー、バス、送迎車",
+  "desc_ko": "도착 홀: 택시, 버스, 픽업 차량"
  },
  {
   "route_code": "t2-arrival__exit",
@@ -831,8 +831,8 @@
   "belt": "4",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Băng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
-  "desc_en": "Belts are numbered 1–8 from right to left as you come down.",
+  "desc_vi": "Xuống tầng 1, nhận hành lý tại băng chuyền số [belt].\nBăng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
+  "desc_en": "Go down to Level 1 and collect your baggage at belt [belt].\nBelts are numbered 1–8 from right to left as you come down.",
   "image": "t2-belt-4.jpg",
   "map_x": "53.54",
   "map_y": "61.57",
@@ -845,9 +845,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "行李转盘编号为1–8，沿下行方向从右到左排列。",
-  "desc_ja": "ターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
-  "desc_ko": "수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
+  "desc_zh": "下到1层，在[belt]号行李转盘领取行李。\n行李转盘编号为1–8，沿下行方向从右到左排列。",
+  "desc_ja": "1階へ降り、ターンテーブル[belt]番で手荷物を受け取ります。\nターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
+  "desc_ko": "1층으로 내려가 [belt]번 수하물 벨트에서 수하물을 찾으세요.\n수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -856,8 +856,8 @@
   "belt": "4",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Luồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
-  "desc_en": "Green channel if nothing to declare, red channel otherwise.",
+  "desc_vi": "Hải quan: luồng xanh nếu không có hàng phải khai, luồng đỏ nếu có\nLuồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
+  "desc_en": "Customs: green channel if nothing to declare, red channel otherwise",
   "image": "",
   "map_x": "65.97",
   "map_y": "83.43",
@@ -870,9 +870,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
-  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
-  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
+  "desc_zh": "海关：无需申报物品请走绿色通道，有申报物品请走红色通道\n无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "税関：申告するものがなければ緑ルート、ある場合は赤ルートへ",
+  "desc_ko": "세관: 신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 이동\n신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -881,8 +881,8 @@
   "belt": "4",
   "label_vi": "Sảnh đến",
   "label_en": "Arrivals hall",
-  "desc_vi": "Taxi, xe buýt, xe đưa đón.",
-  "desc_en": "Taxi, bus, pick-up.",
+  "desc_vi": "Ra sảnh đến: taxi, xe buýt, xe đưa đón",
+  "desc_en": "Arrivals hall: taxi, bus, pick-up",
   "image": "",
   "map_x": "65.97",
   "map_y": "91.11",
@@ -895,9 +895,9 @@
   "label_zh": "到达大厅",
   "label_ja": "到着ロビー",
   "label_ko": "도착 홀",
-  "desc_zh": "出租车、公交车、接送车。",
-  "desc_ja": "タクシー、バス、送迎車。",
-  "desc_ko": "택시, 버스, 픽업 차량."
+  "desc_zh": "前往到达大厅：出租车、公交车、接送车",
+  "desc_ja": "到着ロビーへ：タクシー、バス、送迎車",
+  "desc_ko": "도착 홀: 택시, 버스, 픽업 차량"
  },
  {
   "route_code": "t2-arrival__exit",
@@ -906,8 +906,8 @@
   "belt": "5",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Băng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
-  "desc_en": "Belts are numbered 1–8 from right to left as you come down.",
+  "desc_vi": "Xuống tầng 1, nhận hành lý tại băng chuyền số [belt].\nBăng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
+  "desc_en": "Go down to Level 1 and collect your baggage at belt [belt].\nBelts are numbered 1–8 from right to left as you come down.",
   "image": "t2-belt-5.jpg",
   "map_x": "47.48",
   "map_y": "61.57",
@@ -920,9 +920,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "行李转盘编号为1–8，沿下行方向从右到左排列。",
-  "desc_ja": "ターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
-  "desc_ko": "수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
+  "desc_zh": "下到1层，在[belt]号行李转盘领取行李。\n行李转盘编号为1–8，沿下行方向从右到左排列。",
+  "desc_ja": "1階へ降り、ターンテーブル[belt]番で手荷物を受け取ります。\nターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
+  "desc_ko": "1층으로 내려가 [belt]번 수하물 벨트에서 수하물을 찾으세요.\n수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -931,8 +931,8 @@
   "belt": "5",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Luồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
-  "desc_en": "Green channel if nothing to declare, red channel otherwise.",
+  "desc_vi": "Hải quan: luồng xanh nếu không có hàng phải khai, luồng đỏ nếu có\nLuồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
+  "desc_en": "Customs: green channel if nothing to declare, red channel otherwise",
   "image": "",
   "map_x": "34.1",
   "map_y": "83.43",
@@ -945,9 +945,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
-  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
-  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
+  "desc_zh": "海关：无需申报物品请走绿色通道，有申报物品请走红色通道\n无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "税関：申告するものがなければ緑ルート、ある場合は赤ルートへ",
+  "desc_ko": "세관: 신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 이동\n신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -956,8 +956,8 @@
   "belt": "5",
   "label_vi": "Sảnh đến",
   "label_en": "Arrivals hall",
-  "desc_vi": "Taxi, xe buýt, xe đưa đón.",
-  "desc_en": "Taxi, bus, pick-up.",
+  "desc_vi": "Ra sảnh đến: taxi, xe buýt, xe đưa đón",
+  "desc_en": "Arrivals hall: taxi, bus, pick-up",
   "image": "",
   "map_x": "34.1",
   "map_y": "91.11",
@@ -970,9 +970,9 @@
   "label_zh": "到达大厅",
   "label_ja": "到着ロビー",
   "label_ko": "도착 홀",
-  "desc_zh": "出租车、公交车、接送车。",
-  "desc_ja": "タクシー、バス、送迎車。",
-  "desc_ko": "택시, 버스, 픽업 차량."
+  "desc_zh": "前往到达大厅：出租车、公交车、接送车",
+  "desc_ja": "到着ロビーへ：タクシー、バス、送迎車",
+  "desc_ko": "도착 홀: 택시, 버스, 픽업 차량"
  },
  {
   "route_code": "t2-arrival__exit",
@@ -981,8 +981,8 @@
   "belt": "6",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Băng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
-  "desc_en": "Belts are numbered 1–8 from right to left as you come down.",
+  "desc_vi": "Xuống tầng 1, nhận hành lý tại băng chuyền số [belt].\nBăng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
+  "desc_en": "Go down to Level 1 and collect your baggage at belt [belt].\nBelts are numbered 1–8 from right to left as you come down.",
   "image": "t2-belt-6.jpg",
   "map_x": "41.43",
   "map_y": "61.57",
@@ -995,9 +995,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "行李转盘编号为1–8，沿下行方向从右到左排列。",
-  "desc_ja": "ターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
-  "desc_ko": "수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
+  "desc_zh": "下到1层，在[belt]号行李转盘领取行李。\n行李转盘编号为1–8，沿下行方向从右到左排列。",
+  "desc_ja": "1階へ降り、ターンテーブル[belt]番で手荷物を受け取ります。\nターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
+  "desc_ko": "1층으로 내려가 [belt]번 수하물 벨트에서 수하물을 찾으세요.\n수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -1006,8 +1006,8 @@
   "belt": "6",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Luồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
-  "desc_en": "Green channel if nothing to declare, red channel otherwise.",
+  "desc_vi": "Hải quan: luồng xanh nếu không có hàng phải khai, luồng đỏ nếu có\nLuồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
+  "desc_en": "Customs: green channel if nothing to declare, red channel otherwise",
   "image": "",
   "map_x": "34.1",
   "map_y": "83.43",
@@ -1020,9 +1020,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
-  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
-  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
+  "desc_zh": "海关：无需申报物品请走绿色通道，有申报物品请走红色通道\n无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "税関：申告するものがなければ緑ルート、ある場合は赤ルートへ",
+  "desc_ko": "세관: 신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 이동\n신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -1031,8 +1031,8 @@
   "belt": "6",
   "label_vi": "Sảnh đến",
   "label_en": "Arrivals hall",
-  "desc_vi": "Taxi, xe buýt, xe đưa đón.",
-  "desc_en": "Taxi, bus, pick-up.",
+  "desc_vi": "Ra sảnh đến: taxi, xe buýt, xe đưa đón",
+  "desc_en": "Arrivals hall: taxi, bus, pick-up",
   "image": "",
   "map_x": "34.1",
   "map_y": "91.11",
@@ -1045,9 +1045,9 @@
   "label_zh": "到达大厅",
   "label_ja": "到着ロビー",
   "label_ko": "도착 홀",
-  "desc_zh": "出租车、公交车、接送车。",
-  "desc_ja": "タクシー、バス、送迎車。",
-  "desc_ko": "택시, 버스, 픽업 차량."
+  "desc_zh": "前往到达大厅：出租车、公交车、接送车",
+  "desc_ja": "到着ロビーへ：タクシー、バス、送迎車",
+  "desc_ko": "도착 홀: 택시, 버스, 픽업 차량"
  },
  {
   "route_code": "t2-arrival__exit",
@@ -1056,8 +1056,8 @@
   "belt": "7",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Băng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
-  "desc_en": "Belts are numbered 1–8 from right to left as you come down.",
+  "desc_vi": "Xuống tầng 1, nhận hành lý tại băng chuyền số [belt].\nBăng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
+  "desc_en": "Go down to Level 1 and collect your baggage at belt [belt].\nBelts are numbered 1–8 from right to left as you come down.",
   "image": "t2-belt-7.jpg",
   "map_x": "27.09",
   "map_y": "61.57",
@@ -1070,9 +1070,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "行李转盘编号为1–8，沿下行方向从右到左排列。",
-  "desc_ja": "ターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
-  "desc_ko": "수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
+  "desc_zh": "下到1层，在[belt]号行李转盘领取行李。\n行李转盘编号为1–8，沿下行方向从右到左排列。",
+  "desc_ja": "1階へ降り、ターンテーブル[belt]番で手荷物を受け取ります。\nターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
+  "desc_ko": "1층으로 내려가 [belt]번 수하물 벨트에서 수하물을 찾으세요.\n수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -1081,8 +1081,8 @@
   "belt": "7",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Luồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
-  "desc_en": "Green channel if nothing to declare, red channel otherwise.",
+  "desc_vi": "Hải quan: luồng xanh nếu không có hàng phải khai, luồng đỏ nếu có\nLuồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
+  "desc_en": "Customs: green channel if nothing to declare, red channel otherwise",
   "image": "",
   "map_x": "34.1",
   "map_y": "83.43",
@@ -1095,9 +1095,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
-  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
-  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
+  "desc_zh": "海关：无需申报物品请走绿色通道，有申报物品请走红色通道\n无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "税関：申告するものがなければ緑ルート、ある場合は赤ルートへ",
+  "desc_ko": "세관: 신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 이동\n신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -1106,8 +1106,8 @@
   "belt": "7",
   "label_vi": "Sảnh đến",
   "label_en": "Arrivals hall",
-  "desc_vi": "Taxi, xe buýt, xe đưa đón.",
-  "desc_en": "Taxi, bus, pick-up.",
+  "desc_vi": "Ra sảnh đến: taxi, xe buýt, xe đưa đón",
+  "desc_en": "Arrivals hall: taxi, bus, pick-up",
   "image": "",
   "map_x": "34.1",
   "map_y": "91.11",
@@ -1120,9 +1120,9 @@
   "label_zh": "到达大厅",
   "label_ja": "到着ロビー",
   "label_ko": "도착 홀",
-  "desc_zh": "出租车、公交车、接送车。",
-  "desc_ja": "タクシー、バス、送迎車。",
-  "desc_ko": "택시, 버스, 픽업 차량."
+  "desc_zh": "前往到达大厅：出租车、公交车、接送车",
+  "desc_ja": "到着ロビーへ：タクシー、バス、送迎車",
+  "desc_ko": "도착 홀: 택시, 버스, 픽업 차량"
  },
  {
   "route_code": "t2-arrival__exit",
@@ -1131,8 +1131,8 @@
   "belt": "8",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Băng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
-  "desc_en": "Belts are numbered 1–8 from right to left as you come down.",
+  "desc_vi": "Xuống tầng 1, nhận hành lý tại băng chuyền số [belt].\nBăng chuyền đánh số 1–8 từ phải sang trái theo hướng đi xuống.",
+  "desc_en": "Go down to Level 1 and collect your baggage at belt [belt].\nBelts are numbered 1–8 from right to left as you come down.",
   "image": "",
   "map_x": "20.4",
   "map_y": "61.57",
@@ -1145,9 +1145,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "行李转盘编号为1–8，沿下行方向从右到左排列。",
-  "desc_ja": "ターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
-  "desc_ko": "수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
+  "desc_zh": "下到1层，在[belt]号行李转盘领取行李。\n行李转盘编号为1–8，沿下行方向从右到左排列。",
+  "desc_ja": "1階へ降り、ターンテーブル[belt]番で手荷物を受け取ります。\nターンテーブルは、降りてきた向きで右から左へ1～8番と並んでいます。",
+  "desc_ko": "1층으로 내려가 [belt]번 수하물 벨트에서 수하물을 찾으세요.\n수하물 벨트는 내려오는 방향 기준으로 오른쪽에서 왼쪽으로 1~8번까지 번호가 매겨져 있습니다."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -1156,8 +1156,8 @@
   "belt": "8",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Luồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
-  "desc_en": "Green channel if nothing to declare, red channel otherwise.",
+  "desc_vi": "Hải quan: luồng xanh nếu không có hàng phải khai, luồng đỏ nếu có\nLuồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
+  "desc_en": "Customs: green channel if nothing to declare, red channel otherwise",
   "image": "",
   "map_x": "34.1",
   "map_y": "83.43",
@@ -1170,9 +1170,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
-  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
-  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
+  "desc_zh": "海关：无需申报物品请走绿色通道，有申报物品请走红色通道\n无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "税関：申告するものがなければ緑ルート、ある場合は赤ルートへ",
+  "desc_ko": "세관: 신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 이동\n신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -1181,8 +1181,8 @@
   "belt": "8",
   "label_vi": "Sảnh đến",
   "label_en": "Arrivals hall",
-  "desc_vi": "Taxi, xe buýt, xe đưa đón.",
-  "desc_en": "Taxi, bus, pick-up.",
+  "desc_vi": "Ra sảnh đến: taxi, xe buýt, xe đưa đón",
+  "desc_en": "Arrivals hall: taxi, bus, pick-up",
   "image": "",
   "map_x": "34.1",
   "map_y": "91.11",
@@ -1195,9 +1195,9 @@
   "label_zh": "到达大厅",
   "label_ja": "到着ロビー",
   "label_ko": "도착 홀",
-  "desc_zh": "出租车、公交车、接送车。",
-  "desc_ja": "タクシー、バス、送迎車。",
-  "desc_ko": "택시, 버스, 픽업 차량."
+  "desc_zh": "前往到达大厅：出租车、公交车、接送车",
+  "desc_ja": "到着ロビーへ：タクシー、バス、送迎車",
+  "desc_ko": "도착 홀: 택시, 버스, 픽업 차량"
  },
  {
   "route_code": "t2-arrival__exit",
@@ -1206,8 +1206,8 @@
   "belt": "",
   "label_vi": "Khu băng chuyền hành lý",
   "label_en": "Baggage claim area",
-  "desc_vi": "Xem số băng chuyền của chuyến bay trên màn hình thông tin.",
-  "desc_en": "Check the screens for your flight's belt number.",
+  "desc_vi": "Xuống tầng 1, nhận hành lý tại băng chuyền số [belt].\nXem số băng chuyền của chuyến bay trên màn hình thông tin.",
+  "desc_en": "Go down to Level 1 and collect your baggage at belt [belt].\nCheck the screens for your flight's belt number.",
   "image": "",
   "map_x": "38.24",
   "map_y": "58.52",
@@ -1220,9 +1220,9 @@
   "label_zh": "行李转盘区",
   "label_ja": "手荷物受取エリア",
   "label_ko": "수하물 수취 구역",
-  "desc_zh": "请在信息显示屏上查看您航班的行李转盘号。",
-  "desc_ja": "案内表示板でご搭乗便のターンテーブル番号をご確認ください。",
-  "desc_ko": "안내 전광판에서 해당 항공편의 수하물 벨트 번호를 확인하세요."
+  "desc_zh": "下到1层，在[belt]号行李转盘领取行李。\n请在信息显示屏上查看您航班的行李转盘号。",
+  "desc_ja": "1階へ降り、ターンテーブル[belt]番で手荷物を受け取ります。\n案内表示板でご搭乗便のターンテーブル番号をご確認ください。",
+  "desc_ko": "1층으로 내려가 [belt]번 수하물 벨트에서 수하물을 찾으세요.\n안내 전광판에서 해당 항공편의 수하물 벨트 번호를 확인하세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -1231,8 +1231,8 @@
   "belt": "",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Luồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
-  "desc_en": "Green channel if nothing to declare, red channel otherwise.",
+  "desc_vi": "Hải quan: luồng xanh nếu không có hàng phải khai, luồng đỏ nếu có\nLuồng xanh nếu không có hàng phải khai báo, luồng đỏ nếu có.",
+  "desc_en": "Customs: green channel if nothing to declare, red channel otherwise",
   "image": "",
   "map_x": "34.1",
   "map_y": "83.43",
@@ -1245,9 +1245,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "无需申报物品走绿色通道，有需申报物品走红色通道。",
-  "desc_ja": "申告するものがなければ緑ルート、ある場合は赤ルートへ。",
-  "desc_ko": "신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
+  "desc_zh": "海关：无需申报物品请走绿色通道，有申报物品请走红色通道\n无需申报物品走绿色通道，有需申报物品走红色通道。",
+  "desc_ja": "税関：申告するものがなければ緑ルート、ある場合は赤ルートへ",
+  "desc_ko": "세관: 신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 이동\n신고할 물품이 없으면 녹색 통로, 있으면 적색 통로로 가세요."
  },
  {
   "route_code": "t2-arrival__exit",
@@ -1256,8 +1256,8 @@
   "belt": "",
   "label_vi": "Sảnh đến",
   "label_en": "Arrivals hall",
-  "desc_vi": "Taxi, xe buýt, xe đưa đón.",
-  "desc_en": "Taxi, bus, pick-up.",
+  "desc_vi": "Ra sảnh đến: taxi, xe buýt, xe đưa đón",
+  "desc_en": "Arrivals hall: taxi, bus, pick-up",
   "image": "",
   "map_x": "34.1",
   "map_y": "91.11",
@@ -1270,9 +1270,9 @@
   "label_zh": "到达大厅",
   "label_ja": "到着ロビー",
   "label_ko": "도착 홀",
-  "desc_zh": "出租车、公交车、接送车。",
-  "desc_ja": "タクシー、バス、送迎車。",
-  "desc_ko": "택시, 버스, 픽업 차량."
+  "desc_zh": "前往到达大厅：出租车、公交车、接送车",
+  "desc_ja": "到着ロビーへ：タクシー、バス、送迎車",
+  "desc_ko": "도착 홀: 택시, 버스, 픽업 차량"
  },
  {
   "route_code": "id-arrival__t1",
@@ -1281,8 +1281,8 @@
   "belt": "",
   "label_vi": "Nhập cảnh",
   "label_en": "Immigration",
-  "desc_vi": "Từ hành lang ga đến, đi theo biển Nhập cảnh · Arrival tới bục kiểm soát của Công an cửa khẩu.",
-  "desc_en": "From the arrival corridor follow the Arrival signs to the immigration counters.",
+  "desc_vi": "Nhập cảnh: Hành khách di chuyển theo luồng Nhập cảnh (Immigration) để làm thủ tục nhập cảnh vào Việt Nam. \n1.\n- Đối với khách phải làm thủ tục nhận visa điểm đến hoặc các thủ tục khác, quý khách di chuyển vào quầy thủ tục công an cửa khẩu.\n- Đối với khách nước ngoài: trước khi nhập cảnh, quý khách hoàn thiện biểu mẫu pre-arrvival theo đường link: https://prearrival.immigration.gov.vn/home-page\n2. Khu vực nhập cảnh chia làm các làn như sau:\n- lane dành cho khách ngoại giao (tất cả các quốc tịch): \n- Lane dành cho khách ưu tiên (khách hạng thương gia, prioirity, khách có thẻ Apec -tất cả các quốc tịch)\n- Lane dành cho khách người Việt nam\n- Lane dành cho khách người nước ngoài\n- Lane dành cho khách người việt dùng cửa nhập cảnh tự động (Chỉ dành cho khách quốc tịch Việt Nam)\n- Làn dành cho khách nối chuyến đi các chuyến bay quốc tế.\nTừ hành lang ga đến, đi theo biển Nhập cảnh · Arrival tới bục kiểm soát của Công an cửa khẩu.",
+  "desc_en": "Immigration: Follow the Immigration channel to complete entry procedures into Vietnam.\n1.\n- Passengers who need a visa on arrival or other procedures should go to the border-police counter.\n- Foreign passengers: before entering, complete the pre-arrival form at: https://prearrival.immigration.gov.vn/home-page\n2. The immigration area is divided into the following lanes:\n- Lane for diplomatic passengers (all nationalities):\n- Lane for priority passengers (business class, priority, APEC card holders – all nationalities)\n- Lane for Vietnamese passengers\n- Lane for foreign passengers\n- Lane for Vietnamese passengers using the automatic immigration gate (Vietnamese nationals only)\n- Lane for passengers transferring to international flights.\nFrom the arrival corridor follow the Arrival signs to the immigration counters.",
   "image": "t2-immigration.jpg",
   "map_x": "50.03",
   "map_y": "16.7",
@@ -1295,9 +1295,9 @@
   "label_zh": "入境",
   "label_ja": "入国審査",
   "label_ko": "입국 심사",
-  "desc_zh": "从到达走廊跟随“入境 · Arrival”标志前往边检（口岸公安）检查柜台。",
-  "desc_ja": "到着通路から「入国 · Arrival」の案内に従い、国境警備（出入国管理）の審査ブースへお進みください。",
-  "desc_ko": "도착 복도에서 “입국 · Arrival” 표지판을 따라 출입국 관리(국경 경찰) 심사대로 이동하세요."
+  "desc_zh": "入境：请按照入境（Immigration）通道办理进入越南的入境手续。\n1.\n- 需办理落地签证或其他手续的旅客，请前往边检手续柜台。\n- 外国旅客：入境前请通过以下链接填写预申报表（pre-arrival）：https://prearrival.immigration.gov.vn/home-page\n2. 入境区域分为以下通道：\n- 外交旅客通道（所有国籍）\n- 优先旅客通道（公务舱、优先（priority）旅客、持APEC卡旅客，所有国籍）\n- 越南籍旅客通道\n- 外国籍旅客通道\n- 越南籍旅客自动入境闸机通道（仅限越南国籍）\n- 前往国际航班的中转旅客通道\n从到达走廊跟随“入境 · Arrival”标志前往边检（口岸公安）检查柜台。",
+  "desc_ja": "入国審査：入国（Immigration）の流れに沿って、ベトナムへの入国手続きを行ってください。\n1.\n- 到着ビザやその他の手続きが必要な方は、出入国管理の手続きカウンターへお進みください。\n- 外国人のお客様：入国前に、次のリンクから事前申告フォーム（pre-arrival）をご記入ください：https://prearrival.immigration.gov.vn/home-page\n2. 入国審査エリアは次のレーンに分かれています。\n- 外交官用レーン（全国籍）\n- 優先レーン（ビジネスクラス、プライオリティ、APECカード保持者。全国籍）\n- ベトナム国籍のお客様用レーン\n- 外国籍のお客様用レーン\n- ベトナム国籍のお客様用の自動入国ゲート（ベトナム国籍のみ）\n- 国際線へ乗り継ぐお客様用レーン\n到着通路から「入国 · Arrival」の案内に従い、国境警備（出入国管理）の審査ブースへお進みください。",
+  "desc_ko": "입국 심사: 입국(Immigration) 동선을 따라 베트남 입국 절차를 진행해 주세요.\n1.\n- 도착 비자 또는 기타 수속이 필요한 승객은 출입국 관리 수속 카운터로 이동해 주세요.\n- 외국인 승객: 입국 전에 아래 링크에서 사전 신고서(pre-arrival)를 작성해 주세요: https://prearrival.immigration.gov.vn/home-page\n2. 입국 심사 구역은 다음과 같은 레인으로 나뉩니다.\n- 외교 승객 전용 레인(모든 국적)\n- 우선 승객 레인(비즈니스석, 프라이어리티, APEC 카드 소지자. 모든 국적)\n- 베트남 국적 승객 레인\n- 외국 국적 승객 레인\n- 베트남 국적 승객 자동 입국 게이트(베트남 국적만 해당)\n- 국제선 환승 승객 전용 레인\n도착 복도에서 “입국 · Arrival” 표지판을 따라 출입국 관리(국경 경찰) 심사대로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1306,8 +1306,8 @@
   "belt": "8",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Tự nhận lại toàn bộ hành lý ký gửi.",
-  "desc_en": "Collect all your checked baggage.",
+  "desc_vi": "Lấy hành lý & Kiểm tra Hải quan: lấy hành lý tại băng chuyền số [belt].\nQuý khách lưu ý: Mặc dù hành lý được checkin đến điểm cuối nội địa, tuy nhiên, khách vẫn cần nhận lại hành lý để làm thủ tục hải quan.\nTự nhận lại toàn bộ hành lý ký gửi.",
+  "desc_en": "Baggage claim & customs: collect your bags at belt [belt].\nPlease note: although your bags are checked through to the final domestic destination, you still need to collect them to go through customs.\nCollect all your checked baggage.",
   "image": "",
   "map_x": "20.4",
   "map_y": "29.93",
@@ -1320,9 +1320,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "请自行领取全部托运行李。",
-  "desc_ja": "受託手荷物はすべてご自身でお受け取りください。",
-  "desc_ko": "위탁수하물을 모두 직접 찾으세요."
+  "desc_zh": "领取行李及海关检查：请在[belt]号行李转盘领取行李。\n请注意：虽然您的行李已办理直挂至国内航段的最终目的地，但仍需重新领取行李以办理海关手续。\n请自行领取全部托运行李。",
+  "desc_ja": "手荷物の受け取りと税関検査：ターンテーブル[belt]番で手荷物を受け取ってください。\nご注意：手荷物は国内線の最終目的地まで通しで預けられていますが、税関手続きのため、一度ご自身で受け取る必要があります。\n受託手荷物はすべてご自身でお受け取りください。",
+  "desc_ko": "수하물 수취 및 세관 검사: [belt]번 수하물 벨트에서 수하물을 찾아 주세요.\n유의 사항: 수하물이 국내선 최종 목적지까지 연결 체크인되었더라도, 세관 절차를 위해 수하물을 다시 찾으셔야 합니다.\n위탁수하물을 모두 직접 찾으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1331,8 +1331,8 @@
   "belt": "8",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Quý khách làm thủ tục hải quan.",
-  "desc_en": "Complete the customs check.",
+  "desc_vi": "Hải quan – Quý khách đi qua khu vực kiểm tra hải quan sau khi nhận hành lý.\nQuý khách làm thủ tục hải quan.",
+  "desc_en": "Customs – Go through the customs check after collecting your baggage.\nComplete the customs check.",
   "image": "",
   "map_x": "50",
   "map_y": "40.55",
@@ -1345,9 +1345,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "请办理海关手续。",
-  "desc_ja": "税関手続きを行ってください。",
-  "desc_ko": "세관 절차를 진행하세요."
+  "desc_zh": "海关 – 领取行李后，请通过海关检查区域。\n请办理海关手续。",
+  "desc_ja": "税関 – 手荷物を受け取った後、税関検査エリアをお通りください。\n税関手続きを行ってください。",
+  "desc_ko": "세관 – 수하물을 찾은 후 세관 검사 구역을 통과해 주세요.\n세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1356,8 +1356,8 @@
   "belt": "8",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Đón xe shuttle bus tại vị trí cột 18, làn 1, phía bên trái nhà ga, để sang nhà ga nội địa (T1).",
+  "desc_en": "Take the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to the domestic terminal (T1).",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1370,9 +1370,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼（T1）。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱の位置でシャトルバスに乗り、国内線ターミナル（T1）へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥 위치에서 셔틀버스를 타고 국내선 터미널(T1)로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1381,8 +1381,8 @@
   "belt": "7",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Tự nhận lại toàn bộ hành lý ký gửi.",
-  "desc_en": "Collect all your checked baggage.",
+  "desc_vi": "Lấy hành lý & Kiểm tra Hải quan: lấy hành lý tại băng chuyền số [belt].\nQuý khách lưu ý: Mặc dù hành lý được checkin đến điểm cuối nội địa, tuy nhiên, khách vẫn cần nhận lại hành lý để làm thủ tục hải quan.\nTự nhận lại toàn bộ hành lý ký gửi.",
+  "desc_en": "Baggage claim & customs: collect your bags at belt [belt].\nPlease note: although your bags are checked through to the final domestic destination, you still need to collect them to go through customs.\nCollect all your checked baggage.",
   "image": "t2-belt-7.jpg",
   "map_x": "27.09",
   "map_y": "29.93",
@@ -1395,9 +1395,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "请自行领取全部托运行李。",
-  "desc_ja": "受託手荷物はすべてご自身でお受け取りください。",
-  "desc_ko": "위탁수하물을 모두 직접 찾으세요."
+  "desc_zh": "领取行李及海关检查：请在[belt]号行李转盘领取行李。\n请注意：虽然您的行李已办理直挂至国内航段的最终目的地，但仍需重新领取行李以办理海关手续。\n请自行领取全部托运行李。",
+  "desc_ja": "手荷物の受け取りと税関検査：ターンテーブル[belt]番で手荷物を受け取ってください。\nご注意：手荷物は国内線の最終目的地まで通しで預けられていますが、税関手続きのため、一度ご自身で受け取る必要があります。\n受託手荷物はすべてご自身でお受け取りください。",
+  "desc_ko": "수하물 수취 및 세관 검사: [belt]번 수하물 벨트에서 수하물을 찾아 주세요.\n유의 사항: 수하물이 국내선 최종 목적지까지 연결 체크인되었더라도, 세관 절차를 위해 수하물을 다시 찾으셔야 합니다.\n위탁수하물을 모두 직접 찾으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1406,8 +1406,8 @@
   "belt": "7",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Quý khách làm thủ tục hải quan.",
-  "desc_en": "Complete the customs check.",
+  "desc_vi": "Hải quan – Quý khách đi qua khu vực kiểm tra hải quan sau khi nhận hành lý.\nQuý khách làm thủ tục hải quan.",
+  "desc_en": "Customs – Go through the customs check after collecting your baggage.\nComplete the customs check.",
   "image": "",
   "map_x": "50",
   "map_y": "40.55",
@@ -1420,9 +1420,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "请办理海关手续。",
-  "desc_ja": "税関手続きを行ってください。",
-  "desc_ko": "세관 절차를 진행하세요."
+  "desc_zh": "海关 – 领取行李后，请通过海关检查区域。\n请办理海关手续。",
+  "desc_ja": "税関 – 手荷物を受け取った後、税関検査エリアをお通りください。\n税関手続きを行ってください。",
+  "desc_ko": "세관 – 수하물을 찾은 후 세관 검사 구역을 통과해 주세요.\n세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1431,8 +1431,8 @@
   "belt": "7",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Đón xe shuttle bus tại vị trí cột 18, làn 1, phía bên trái nhà ga, để sang nhà ga nội địa (T1).",
+  "desc_en": "Take the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to the domestic terminal (T1).",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1445,9 +1445,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼（T1）。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱の位置でシャトルバスに乗り、国内線ターミナル（T1）へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥 위치에서 셔틀버스를 타고 국내선 터미널(T1)로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1456,8 +1456,8 @@
   "belt": "6",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Tự nhận lại toàn bộ hành lý ký gửi.",
-  "desc_en": "Collect all your checked baggage.",
+  "desc_vi": "Lấy hành lý & Kiểm tra Hải quan: lấy hành lý tại băng chuyền số [belt].\nQuý khách lưu ý: Mặc dù hành lý được checkin đến điểm cuối nội địa, tuy nhiên, khách vẫn cần nhận lại hành lý để làm thủ tục hải quan.\nTự nhận lại toàn bộ hành lý ký gửi.",
+  "desc_en": "Baggage claim & customs: collect your bags at belt [belt].\nPlease note: although your bags are checked through to the final domestic destination, you still need to collect them to go through customs.\nCollect all your checked baggage.",
   "image": "t2-belt-6.jpg",
   "map_x": "41.43",
   "map_y": "29.93",
@@ -1470,9 +1470,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "请自行领取全部托运行李。",
-  "desc_ja": "受託手荷物はすべてご自身でお受け取りください。",
-  "desc_ko": "위탁수하물을 모두 직접 찾으세요."
+  "desc_zh": "领取行李及海关检查：请在[belt]号行李转盘领取行李。\n请注意：虽然您的行李已办理直挂至国内航段的最终目的地，但仍需重新领取行李以办理海关手续。\n请自行领取全部托运行李。",
+  "desc_ja": "手荷物の受け取りと税関検査：ターンテーブル[belt]番で手荷物を受け取ってください。\nご注意：手荷物は国内線の最終目的地まで通しで預けられていますが、税関手続きのため、一度ご自身で受け取る必要があります。\n受託手荷物はすべてご自身でお受け取りください。",
+  "desc_ko": "수하물 수취 및 세관 검사: [belt]번 수하물 벨트에서 수하물을 찾아 주세요.\n유의 사항: 수하물이 국내선 최종 목적지까지 연결 체크인되었더라도, 세관 절차를 위해 수하물을 다시 찾으셔야 합니다.\n위탁수하물을 모두 직접 찾으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1481,8 +1481,8 @@
   "belt": "6",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Quý khách làm thủ tục hải quan.",
-  "desc_en": "Complete the customs check.",
+  "desc_vi": "Hải quan – Quý khách đi qua khu vực kiểm tra hải quan sau khi nhận hành lý.\nQuý khách làm thủ tục hải quan.",
+  "desc_en": "Customs – Go through the customs check after collecting your baggage.\nComplete the customs check.",
   "image": "",
   "map_x": "50",
   "map_y": "40.55",
@@ -1495,9 +1495,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "请办理海关手续。",
-  "desc_ja": "税関手続きを行ってください。",
-  "desc_ko": "세관 절차를 진행하세요."
+  "desc_zh": "海关 – 领取行李后，请通过海关检查区域。\n请办理海关手续。",
+  "desc_ja": "税関 – 手荷物を受け取った後、税関検査エリアをお通りください。\n税関手続きを行ってください。",
+  "desc_ko": "세관 – 수하물을 찾은 후 세관 검사 구역을 통과해 주세요.\n세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1506,8 +1506,8 @@
   "belt": "6",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Đón xe shuttle bus tại vị trí cột 18, làn 1, phía bên trái nhà ga, để sang nhà ga nội địa (T1).",
+  "desc_en": "Take the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to the domestic terminal (T1).",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1520,9 +1520,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼（T1）。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱の位置でシャトルバスに乗り、国内線ターミナル（T1）へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥 위치에서 셔틀버스를 타고 국내선 터미널(T1)로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1531,8 +1531,8 @@
   "belt": "5",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Tự nhận lại toàn bộ hành lý ký gửi.",
-  "desc_en": "Collect all your checked baggage.",
+  "desc_vi": "Lấy hành lý & Kiểm tra Hải quan: lấy hành lý tại băng chuyền số [belt].\nQuý khách lưu ý: Mặc dù hành lý được checkin đến điểm cuối nội địa, tuy nhiên, khách vẫn cần nhận lại hành lý để làm thủ tục hải quan.\nTự nhận lại toàn bộ hành lý ký gửi.",
+  "desc_en": "Baggage claim & customs: collect your bags at belt [belt].\nPlease note: although your bags are checked through to the final domestic destination, you still need to collect them to go through customs.\nCollect all your checked baggage.",
   "image": "t2-belt-5.jpg",
   "map_x": "47.48",
   "map_y": "29.93",
@@ -1545,9 +1545,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "请自行领取全部托运行李。",
-  "desc_ja": "受託手荷物はすべてご自身でお受け取りください。",
-  "desc_ko": "위탁수하물을 모두 직접 찾으세요."
+  "desc_zh": "领取行李及海关检查：请在[belt]号行李转盘领取行李。\n请注意：虽然您的行李已办理直挂至国内航段的最终目的地，但仍需重新领取行李以办理海关手续。\n请自行领取全部托运行李。",
+  "desc_ja": "手荷物の受け取りと税関検査：ターンテーブル[belt]番で手荷物を受け取ってください。\nご注意：手荷物は国内線の最終目的地まで通しで預けられていますが、税関手続きのため、一度ご自身で受け取る必要があります。\n受託手荷物はすべてご自身でお受け取りください。",
+  "desc_ko": "수하물 수취 및 세관 검사: [belt]번 수하물 벨트에서 수하물을 찾아 주세요.\n유의 사항: 수하물이 국내선 최종 목적지까지 연결 체크인되었더라도, 세관 절차를 위해 수하물을 다시 찾으셔야 합니다.\n위탁수하물을 모두 직접 찾으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1556,8 +1556,8 @@
   "belt": "5",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Quý khách làm thủ tục hải quan.",
-  "desc_en": "Complete the customs check.",
+  "desc_vi": "Hải quan – Quý khách đi qua khu vực kiểm tra hải quan sau khi nhận hành lý.\nQuý khách làm thủ tục hải quan.",
+  "desc_en": "Customs – Go through the customs check after collecting your baggage.\nComplete the customs check.",
   "image": "",
   "map_x": "50",
   "map_y": "40.55",
@@ -1570,9 +1570,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "请办理海关手续。",
-  "desc_ja": "税関手続きを行ってください。",
-  "desc_ko": "세관 절차를 진행하세요."
+  "desc_zh": "海关 – 领取行李后，请通过海关检查区域。\n请办理海关手续。",
+  "desc_ja": "税関 – 手荷物を受け取った後、税関検査エリアをお通りください。\n税関手続きを行ってください。",
+  "desc_ko": "세관 – 수하물을 찾은 후 세관 검사 구역을 통과해 주세요.\n세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1581,8 +1581,8 @@
   "belt": "5",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Đón xe shuttle bus tại vị trí cột 18, làn 1, phía bên trái nhà ga, để sang nhà ga nội địa (T1).",
+  "desc_en": "Take the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to the domestic terminal (T1).",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1595,9 +1595,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼（T1）。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱の位置でシャトルバスに乗り、国内線ターミナル（T1）へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥 위치에서 셔틀버스를 타고 국내선 터미널(T1)로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1606,8 +1606,8 @@
   "belt": "4",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Tự nhận lại toàn bộ hành lý ký gửi.",
-  "desc_en": "Collect all your checked baggage.",
+  "desc_vi": "Lấy hành lý & Kiểm tra Hải quan: lấy hành lý tại băng chuyền số [belt].\nQuý khách lưu ý: Mặc dù hành lý được checkin đến điểm cuối nội địa, tuy nhiên, khách vẫn cần nhận lại hành lý để làm thủ tục hải quan.\nTự nhận lại toàn bộ hành lý ký gửi.",
+  "desc_en": "Baggage claim & customs: collect your bags at belt [belt].\nPlease note: although your bags are checked through to the final domestic destination, you still need to collect them to go through customs.\nCollect all your checked baggage.",
   "image": "t2-belt-4.jpg",
   "map_x": "53.54",
   "map_y": "29.93",
@@ -1620,9 +1620,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "请自行领取全部托运行李。",
-  "desc_ja": "受託手荷物はすべてご自身でお受け取りください。",
-  "desc_ko": "위탁수하물을 모두 직접 찾으세요."
+  "desc_zh": "领取行李及海关检查：请在[belt]号行李转盘领取行李。\n请注意：虽然您的行李已办理直挂至国内航段的最终目的地，但仍需重新领取行李以办理海关手续。\n请自行领取全部托运行李。",
+  "desc_ja": "手荷物の受け取りと税関検査：ターンテーブル[belt]番で手荷物を受け取ってください。\nご注意：手荷物は国内線の最終目的地まで通しで預けられていますが、税関手続きのため、一度ご自身で受け取る必要があります。\n受託手荷物はすべてご自身でお受け取りください。",
+  "desc_ko": "수하물 수취 및 세관 검사: [belt]번 수하물 벨트에서 수하물을 찾아 주세요.\n유의 사항: 수하물이 국내선 최종 목적지까지 연결 체크인되었더라도, 세관 절차를 위해 수하물을 다시 찾으셔야 합니다.\n위탁수하물을 모두 직접 찾으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1631,8 +1631,8 @@
   "belt": "4",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Quý khách làm thủ tục hải quan.",
-  "desc_en": "Complete the customs check.",
+  "desc_vi": "Hải quan – Quý khách đi qua khu vực kiểm tra hải quan sau khi nhận hành lý.\nQuý khách làm thủ tục hải quan.",
+  "desc_en": "Customs – Go through the customs check after collecting your baggage.\nComplete the customs check.",
   "image": "",
   "map_x": "50",
   "map_y": "40.55",
@@ -1645,9 +1645,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "请办理海关手续。",
-  "desc_ja": "税関手続きを行ってください。",
-  "desc_ko": "세관 절차를 진행하세요."
+  "desc_zh": "海关 – 领取行李后，请通过海关检查区域。\n请办理海关手续。",
+  "desc_ja": "税関 – 手荷物を受け取った後、税関検査エリアをお通りください。\n税関手続きを行ってください。",
+  "desc_ko": "세관 – 수하물을 찾은 후 세관 검사 구역을 통과해 주세요.\n세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1656,8 +1656,8 @@
   "belt": "4",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Đón xe shuttle bus tại vị trí cột 18, làn 1, phía bên trái nhà ga, để sang nhà ga nội địa (T1).",
+  "desc_en": "Take the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to the domestic terminal (T1).",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1670,9 +1670,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼（T1）。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱の位置でシャトルバスに乗り、国内線ターミナル（T1）へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥 위치에서 셔틀버스를 타고 국내선 터미널(T1)로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1681,8 +1681,8 @@
   "belt": "3",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Tự nhận lại toàn bộ hành lý ký gửi.",
-  "desc_en": "Collect all your checked baggage.",
+  "desc_vi": "Lấy hành lý & Kiểm tra Hải quan: lấy hành lý tại băng chuyền số [belt].\nQuý khách lưu ý: Mặc dù hành lý được checkin đến điểm cuối nội địa, tuy nhiên, khách vẫn cần nhận lại hành lý để làm thủ tục hải quan.\nTự nhận lại toàn bộ hành lý ký gửi.",
+  "desc_en": "Baggage claim & customs: collect your bags at belt [belt].\nPlease note: although your bags are checked through to the final domestic destination, you still need to collect them to go through customs.\nCollect all your checked baggage.",
   "image": "t2-belt-3.jpg",
   "map_x": "59.59",
   "map_y": "29.93",
@@ -1695,9 +1695,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "请自行领取全部托运行李。",
-  "desc_ja": "受託手荷物はすべてご自身でお受け取りください。",
-  "desc_ko": "위탁수하물을 모두 직접 찾으세요."
+  "desc_zh": "领取行李及海关检查：请在[belt]号行李转盘领取行李。\n请注意：虽然您的行李已办理直挂至国内航段的最终目的地，但仍需重新领取行李以办理海关手续。\n请自行领取全部托运行李。",
+  "desc_ja": "手荷物の受け取りと税関検査：ターンテーブル[belt]番で手荷物を受け取ってください。\nご注意：手荷物は国内線の最終目的地まで通しで預けられていますが、税関手続きのため、一度ご自身で受け取る必要があります。\n受託手荷物はすべてご自身でお受け取りください。",
+  "desc_ko": "수하물 수취 및 세관 검사: [belt]번 수하물 벨트에서 수하물을 찾아 주세요.\n유의 사항: 수하물이 국내선 최종 목적지까지 연결 체크인되었더라도, 세관 절차를 위해 수하물을 다시 찾으셔야 합니다.\n위탁수하물을 모두 직접 찾으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1706,8 +1706,8 @@
   "belt": "3",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Quý khách làm thủ tục hải quan.",
-  "desc_en": "Complete the customs check.",
+  "desc_vi": "Hải quan – Quý khách đi qua khu vực kiểm tra hải quan sau khi nhận hành lý.\nQuý khách làm thủ tục hải quan.",
+  "desc_en": "Customs – Go through the customs check after collecting your baggage.\nComplete the customs check.",
   "image": "",
   "map_x": "50",
   "map_y": "40.55",
@@ -1720,9 +1720,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "请办理海关手续。",
-  "desc_ja": "税関手続きを行ってください。",
-  "desc_ko": "세관 절차를 진행하세요."
+  "desc_zh": "海关 – 领取行李后，请通过海关检查区域。\n请办理海关手续。",
+  "desc_ja": "税関 – 手荷物を受け取った後、税関検査エリアをお通りください。\n税関手続きを行ってください。",
+  "desc_ko": "세관 – 수하물을 찾은 후 세관 검사 구역을 통과해 주세요.\n세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1731,8 +1731,8 @@
   "belt": "3",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Đón xe shuttle bus tại vị trí cột 18, làn 1, phía bên trái nhà ga, để sang nhà ga nội địa (T1).",
+  "desc_en": "Take the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to the domestic terminal (T1).",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1745,9 +1745,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼（T1）。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱の位置でシャトルバスに乗り、国内線ターミナル（T1）へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥 위치에서 셔틀버스를 타고 국내선 터미널(T1)로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1756,8 +1756,8 @@
   "belt": "2",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Tự nhận lại toàn bộ hành lý ký gửi.",
-  "desc_en": "Collect all your checked baggage.",
+  "desc_vi": "Lấy hành lý & Kiểm tra Hải quan: lấy hành lý tại băng chuyền số [belt].\nQuý khách lưu ý: Mặc dù hành lý được checkin đến điểm cuối nội địa, tuy nhiên, khách vẫn cần nhận lại hành lý để làm thủ tục hải quan.\nTự nhận lại toàn bộ hành lý ký gửi.",
+  "desc_en": "Baggage claim & customs: collect your bags at belt [belt].\nPlease note: although your bags are checked through to the final domestic destination, you still need to collect them to go through customs.\nCollect all your checked baggage.",
   "image": "t2-belt-2.jpg",
   "map_x": "72.98",
   "map_y": "29.93",
@@ -1770,9 +1770,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "请自行领取全部托运行李。",
-  "desc_ja": "受託手荷物はすべてご自身でお受け取りください。",
-  "desc_ko": "위탁수하물을 모두 직접 찾으세요."
+  "desc_zh": "领取行李及海关检查：请在[belt]号行李转盘领取行李。\n请注意：虽然您的行李已办理直挂至国内航段的最终目的地，但仍需重新领取行李以办理海关手续。\n请自行领取全部托运行李。",
+  "desc_ja": "手荷物の受け取りと税関検査：ターンテーブル[belt]番で手荷物を受け取ってください。\nご注意：手荷物は国内線の最終目的地まで通しで預けられていますが、税関手続きのため、一度ご自身で受け取る必要があります。\n受託手荷物はすべてご自身でお受け取りください。",
+  "desc_ko": "수하물 수취 및 세관 검사: [belt]번 수하물 벨트에서 수하물을 찾아 주세요.\n유의 사항: 수하물이 국내선 최종 목적지까지 연결 체크인되었더라도, 세관 절차를 위해 수하물을 다시 찾으셔야 합니다.\n위탁수하물을 모두 직접 찾으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1781,8 +1781,8 @@
   "belt": "2",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Quý khách làm thủ tục hải quan.",
-  "desc_en": "Complete the customs check.",
+  "desc_vi": "Hải quan – Quý khách đi qua khu vực kiểm tra hải quan sau khi nhận hành lý.\nQuý khách làm thủ tục hải quan.",
+  "desc_en": "Customs – Go through the customs check after collecting your baggage.\nComplete the customs check.",
   "image": "",
   "map_x": "50",
   "map_y": "40.55",
@@ -1795,9 +1795,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "请办理海关手续。",
-  "desc_ja": "税関手続きを行ってください。",
-  "desc_ko": "세관 절차를 진행하세요."
+  "desc_zh": "海关 – 领取行李后，请通过海关检查区域。\n请办理海关手续。",
+  "desc_ja": "税関 – 手荷物を受け取った後、税関検査エリアをお通りください。\n税関手続きを行ってください。",
+  "desc_ko": "세관 – 수하물을 찾은 후 세관 검사 구역을 통과해 주세요.\n세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1806,8 +1806,8 @@
   "belt": "2",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Đón xe shuttle bus tại vị trí cột 18, làn 1, phía bên trái nhà ga, để sang nhà ga nội địa (T1).",
+  "desc_en": "Take the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to the domestic terminal (T1).",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1820,9 +1820,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼（T1）。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱の位置でシャトルバスに乗り、国内線ターミナル（T1）へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥 위치에서 셔틀버스를 타고 국내선 터미널(T1)로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1831,8 +1831,8 @@
   "belt": "1",
   "label_vi": "Băng chuyền số [belt]",
   "label_en": "Baggage belt [belt]",
-  "desc_vi": "Tự nhận lại toàn bộ hành lý ký gửi.",
-  "desc_en": "Collect all your checked baggage.",
+  "desc_vi": "Lấy hành lý & Kiểm tra Hải quan: lấy hành lý tại băng chuyền số [belt].\nQuý khách lưu ý: Mặc dù hành lý được checkin đến điểm cuối nội địa, tuy nhiên, khách vẫn cần nhận lại hành lý để làm thủ tục hải quan.\nTự nhận lại toàn bộ hành lý ký gửi.",
+  "desc_en": "Baggage claim & customs: collect your bags at belt [belt].\nPlease note: although your bags are checked through to the final domestic destination, you still need to collect them to go through customs.\nCollect all your checked baggage.",
   "image": "t2-belt-1.jpg",
   "map_x": "79.67",
   "map_y": "29.93",
@@ -1845,9 +1845,9 @@
   "label_zh": "[belt]号行李转盘",
   "label_ja": "ターンテーブル[belt]番",
   "label_ko": "[belt]번 수하물 벨트",
-  "desc_zh": "请自行领取全部托运行李。",
-  "desc_ja": "受託手荷物はすべてご自身でお受け取りください。",
-  "desc_ko": "위탁수하물을 모두 직접 찾으세요."
+  "desc_zh": "领取行李及海关检查：请在[belt]号行李转盘领取行李。\n请注意：虽然您的行李已办理直挂至国内航段的最终目的地，但仍需重新领取行李以办理海关手续。\n请自行领取全部托运行李。",
+  "desc_ja": "手荷物の受け取りと税関検査：ターンテーブル[belt]番で手荷物を受け取ってください。\nご注意：手荷物は国内線の最終目的地まで通しで預けられていますが、税関手続きのため、一度ご自身で受け取る必要があります。\n受託手荷物はすべてご自身でお受け取りください。",
+  "desc_ko": "수하물 수취 및 세관 검사: [belt]번 수하물 벨트에서 수하물을 찾아 주세요.\n유의 사항: 수하물이 국내선 최종 목적지까지 연결 체크인되었더라도, 세관 절차를 위해 수하물을 다시 찾으셔야 합니다.\n위탁수하물을 모두 직접 찾으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1856,8 +1856,8 @@
   "belt": "1",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Quý khách làm thủ tục hải quan.",
-  "desc_en": "Complete the customs check.",
+  "desc_vi": "Hải quan – Quý khách đi qua khu vực kiểm tra hải quan sau khi nhận hành lý.\nQuý khách làm thủ tục hải quan.",
+  "desc_en": "Customs – Go through the customs check after collecting your baggage.\nComplete the customs check.",
   "image": "",
   "map_x": "50",
   "map_y": "40.55",
@@ -1870,9 +1870,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "请办理海关手续。",
-  "desc_ja": "税関手続きを行ってください。",
-  "desc_ko": "세관 절차를 진행하세요."
+  "desc_zh": "海关 – 领取行李后，请通过海关检查区域。\n请办理海关手续。",
+  "desc_ja": "税関 – 手荷物を受け取った後、税関検査エリアをお通りください。\n税関手続きを行ってください。",
+  "desc_ko": "세관 – 수하물을 찾은 후 세관 검사 구역을 통과해 주세요.\n세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1881,8 +1881,8 @@
   "belt": "1",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Đón xe shuttle bus tại vị trí cột 18, làn 1, phía bên trái nhà ga, để sang nhà ga nội địa (T1).",
+  "desc_en": "Take the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to the domestic terminal (T1).",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1895,9 +1895,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼（T1）。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱の位置でシャトルバスに乗り、国内線ターミナル（T1）へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥 위치에서 셔틀버스를 타고 국내선 터미널(T1)로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1906,8 +1906,8 @@
   "belt": "",
   "label_vi": "Khu băng chuyền hành lý",
   "label_en": "Baggage claim area",
-  "desc_vi": "Xem số băng chuyền của chuyến bay trên màn hình thông tin.",
-  "desc_en": "Check the screens for your flight's belt number.",
+  "desc_vi": "Lấy hành lý & Kiểm tra Hải quan: lấy hành lý tại băng chuyền số [belt].\nQuý khách lưu ý: Mặc dù hành lý được checkin đến điểm cuối nội địa, tuy nhiên, khách vẫn cần nhận lại hành lý để làm thủ tục hải quan.\nXem số băng chuyền của chuyến bay trên màn hình thông tin.",
+  "desc_en": "Baggage claim & customs: collect your bags at belt [belt].\nPlease note: although your bags are checked through to the final domestic destination, you still need to collect them to go through customs.\nCheck the screens for your flight's belt number.",
   "image": "",
   "map_x": "38.24",
   "map_y": "28.44",
@@ -1920,9 +1920,9 @@
   "label_zh": "行李转盘区",
   "label_ja": "手荷物受取エリア",
   "label_ko": "수하물 수취 구역",
-  "desc_zh": "请在信息显示屏上查看您航班的行李转盘号。",
-  "desc_ja": "案内表示板でご搭乗便のターンテーブル番号をご確認ください。",
-  "desc_ko": "안내 전광판에서 해당 항공편의 수하물 벨트 번호를 확인하세요."
+  "desc_zh": "领取行李及海关检查：请在[belt]号行李转盘领取行李。\n请注意：虽然您的行李已办理直挂至国内航段的最终目的地，但仍需重新领取行李以办理海关手续。\n请在信息显示屏上查看您航班的行李转盘号。",
+  "desc_ja": "手荷物の受け取りと税関検査：ターンテーブル[belt]番で手荷物を受け取ってください。\nご注意：手荷物は国内線の最終目的地まで通しで預けられていますが、税関手続きのため、一度ご自身で受け取る必要があります。\n案内表示板でご搭乗便のターンテーブル番号をご確認ください。",
+  "desc_ko": "수하물 수취 및 세관 검사: [belt]번 수하물 벨트에서 수하물을 찾아 주세요.\n유의 사항: 수하물이 국내선 최종 목적지까지 연결 체크인되었더라도, 세관 절차를 위해 수하물을 다시 찾으셔야 합니다.\n안내 전광판에서 해당 항공편의 수하물 벨트 번호를 확인하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1931,8 +1931,8 @@
   "belt": "",
   "label_vi": "Hải quan",
   "label_en": "Customs",
-  "desc_vi": "Quý khách làm thủ tục hải quan.",
-  "desc_en": "Complete the customs check.",
+  "desc_vi": "Hải quan – Quý khách đi qua khu vực kiểm tra hải quan sau khi nhận hành lý.\nQuý khách làm thủ tục hải quan.",
+  "desc_en": "Customs – Go through the customs check after collecting your baggage.\nComplete the customs check.",
   "image": "",
   "map_x": "50",
   "map_y": "40.55",
@@ -1945,9 +1945,9 @@
   "label_zh": "海关",
   "label_ja": "税関",
   "label_ko": "세관",
-  "desc_zh": "请办理海关手续。",
-  "desc_ja": "税関手続きを行ってください。",
-  "desc_ko": "세관 절차를 진행하세요."
+  "desc_zh": "海关 – 领取行李后，请通过海关检查区域。\n请办理海关手续。",
+  "desc_ja": "税関 – 手荷物を受け取った後、税関検査エリアをお通りください。\n税関手続きを行ってください。",
+  "desc_ko": "세관 – 수하물을 찾은 후 세관 검사 구역을 통과해 주세요.\n세관 절차를 진행하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1956,8 +1956,8 @@
   "belt": "",
   "label_vi": "Đón xe buýt sang T1 (cột 18)",
   "label_en": "Shuttle to T1 (pillar 18)",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Đón xe shuttle bus tại vị trí cột 18, làn 1, phía bên trái nhà ga, để sang nhà ga nội địa (T1).",
+  "desc_en": "Take the shuttle bus at pillar 18, lane 1, on the left side of the terminal, to the domestic terminal (T1).",
   "image": "shuttle-t2-01.jpg",
   "map_x": "18",
   "map_y": "45.93",
@@ -1970,9 +1970,9 @@
   "label_zh": "前往T1的摆渡车（18号立柱）",
   "label_ja": "T1行きシャトル（18番柱）",
   "label_ko": "T1행 셔틀버스(18번 기둥)",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "请在航站楼左侧、1号车道18号立柱处乘坐摆渡车，前往国内航站楼（T1）。",
+  "desc_ja": "ターミナル左側、レーン1の18番柱の位置でシャトルバスに乗り、国内線ターミナル（T1）へ向かいます。",
+  "desc_ko": "터미널 왼쪽 1번 차선 18번 기둥 위치에서 셔틀버스를 타고 국내선 터미널(T1)로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -1981,8 +1981,8 @@
   "belt": "",
   "label_vi": "Soi chiếu an ninh T1",
   "label_en": "T1 security check",
-  "desc_vi": "Xe buýt trả khách tại nhà ga T1. Lên sảnh đi tầng 2 và qua soi chiếu an ninh nội địa.",
-  "desc_en": "The bus drops you at Terminal 1. Go up to the departures hall (Level 2) and through domestic security.",
+  "desc_vi": "Làm thủ tục an ninh tại nhà ga T1\nXe buýt trả khách tại nhà ga T1. Lên sảnh đi tầng 2 và qua soi chiếu an ninh nội địa.",
+  "desc_en": "Go through security screening at Terminal 1.\nThe bus drops you at Terminal 1. Go up to the departures hall (Level 2) and through domestic security.",
   "image": "",
   "map_x": "51.21",
   "map_y": "87.07",
@@ -1995,9 +1995,9 @@
   "label_zh": "T1安检",
   "label_ja": "T1 保安検査",
   "label_ko": "T1 보안 검색",
-  "desc_zh": "摆渡车在T1航站楼放客。上到2层出发大厅，通过国内安检。",
-  "desc_ja": "シャトルバスはT1ターミナルで降車します。2階の出発ロビーへ上がり、国内線の保安検査を受けてください。",
-  "desc_ko": "셔틀버스는 T1 터미널에서 하차합니다. 2층 출발 홀로 올라가 국내선 보안 검색을 받으세요."
+  "desc_zh": "在T1航站楼办理安检\n摆渡车在T1航站楼放客。上到2层出发大厅，通过国内安检。",
+  "desc_ja": "T1ターミナルで保安検査を受ける\nシャトルバスはT1ターミナルで降車します。2階の出発ロビーへ上がり、国内線の保安検査を受けてください。",
+  "desc_ko": "T1 터미널에서 보안 검색 받기\n셔틀버스는 T1 터미널에서 하차합니다. 2층 출발 홀로 올라가 국내선 보안 검색을 받으세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2006,8 +2006,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1.",
-  "desc_en": "Terminal 1 airside.",
+  "desc_vi": "Ra tàu bay: chuyến bay của quý khách có cửa lên tàu: [gate].\nKhu cách ly nhà ga T1.",
+  "desc_en": "Go to the gate: your flight departs from gate [gate].\nTerminal 1 airside.",
   "image": "gate-t1.jpg",
   "map_x": "51.21",
   "map_y": "85.42",
@@ -2020,9 +2020,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。",
-  "desc_ja": "T1ターミナルの制限エリアです。",
-  "desc_ko": "T1 터미널 보안 구역입니다."
+  "desc_zh": "前往登机口：您的航班登机口为：[gate]。\nT1航站楼隔离区。",
+  "desc_ja": "搭乗口へ：ご搭乗便の搭乗口は [gate] です。\nT1ターミナルの制限エリアです。",
+  "desc_ko": "탑승구로 이동: 탑승하실 항공편의 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2031,8 +2031,8 @@
   "belt": "",
   "label_vi": "Quầy hỗ trợ nối chuyến T1",
   "label_en": "T1 transfer support desk",
-  "desc_vi": "Quầy hỗ trợ nối chuyến nằm ngay khi quý khách vào sảnh đến.",
-  "desc_en": "The transfer support desk is right inside the arrivals hall.",
+  "desc_vi": "Khách vào nhà ga quốc nội (T1) – Có quầy hỗ trợ nối chuyến ngay khi khách vào sảnh đến (xem ảnh).\nQuầy hỗ trợ nối chuyến nằm ngay khi quý khách vào sảnh đến.",
+  "desc_en": "Arrive at the domestic terminal (T1) – A transit support counter is available right inside the arrivals hall (see photo).\nThe transfer support desk is right inside the arrivals hall.",
   "image": "transfer-desk-t1-01.jpg",
   "map_x": "57",
   "map_y": "15",
@@ -2045,9 +2045,9 @@
   "label_zh": "T1中转服务台",
   "label_ja": "T1 乗り継ぎサポートデスク",
   "label_ko": "T1 환승 지원 데스크",
-  "desc_zh": "进入到达大厅后即可看到中转服务台。",
-  "desc_ja": "到着ロビーに入るとすぐ、乗り継ぎサポートデスクがあります。",
-  "desc_ko": "도착 홀에 들어서면 바로 환승 지원 데스크가 있습니다."
+  "desc_zh": "进入国内航站楼（T1）– 进入到达大厅后即可看到中转服务柜台（请参考图片）。\n进入到达大厅后即可看到中转服务台。",
+  "desc_ja": "国内線ターミナル（T1）に入る – 到着ロビーに入るとすぐ、乗り継ぎサポートカウンターがあります（写真をご覧ください）。\n到着ロビーに入るとすぐ、乗り継ぎサポートデスクがあります。",
+  "desc_ko": "국내선 터미널(T1) 입장 – 도착 홀에 들어서면 바로 환승 지원 카운터가 있습니다(사진 참조).\n도착 홀에 들어서면 바로 환승 지원 데스크가 있습니다."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2057,7 +2057,7 @@
   "label_vi": "Thang máy lên tầng 2",
   "label_en": "Lift to Level 2",
   "desc_vi": "Đi thẳng vào giữa sảnh đến, đi thang máy lên tầng 2 (sảnh đi).",
-  "desc_en": "Walk straight to the middle of the arrivals hall and take the lift up to Level 2 (departures).",
+  "desc_en": "Walk straight to the middle of the arrivals hall and take the lift up to Level 2 (departures hall).",
   "image": "",
   "map_x": "57",
   "map_y": "34",
@@ -2070,9 +2070,9 @@
   "label_zh": "电梯上2层",
   "label_ja": "2階へのエレベーター",
   "label_ko": "2층 엘리베이터",
-  "desc_zh": "径直走到到达大厅中央，乘电梯上到2层（出发大厅）。",
+  "desc_zh": "径直走到到达大厅中央，乘电梯上至2层（出发大厅）。\n径直走到到达大厅中央，乘电梯上到2层（出发大厅）。",
   "desc_ja": "到着ロビーの中央まで真っすぐ進み、エレベーターで2階（出発ロビー）へ上がります。",
-  "desc_ko": "도착 홀 중앙까지 곧장 이동해 엘리베이터로 2층(출발 홀)으로 올라가세요."
+  "desc_ko": "도착 홀 중앙까지 곧장 이동한 뒤 엘리베이터로 2층(출발 홀)으로 올라가세요.\n도착 홀 중앙까지 곧장 이동해 엘리베이터로 2층(출발 홀)으로 올라가세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2081,8 +2081,8 @@
   "belt": "",
   "label_vi": "Soi chiếu an ninh T1",
   "label_en": "T1 security check",
-  "desc_vi": "Lên sảnh đi tầng 2, qua soi chiếu an ninh nội địa. Chưa có boarding pass: vào quầy check-in.",
-  "desc_en": "Go up to the departures hall (Level 2) and through domestic security. No boarding pass yet: go to check-in.",
+  "desc_vi": "Nếu quý khách đã có thẻ lên tàu (boarding pass), qua soi chiếu an ninh nội địa. Trường hợp chưa có boarding pass, quý khách vui lòng vào quầy check-in để được hỗ trợ.\nLên sảnh đi tầng 2, qua soi chiếu an ninh nội địa. Chưa có boarding pass: vào quầy check-in.",
+  "desc_en": "If you already have a boarding pass, go through domestic security. If not, please go to the check-in counter for assistance.\nGo up to the departures hall (Level 2) and through domestic security. No boarding pass yet: go to check-in.",
   "image": "security-t1-01.jpg",
   "map_x": "51.3",
   "map_y": "77.4",
@@ -2095,9 +2095,9 @@
   "label_zh": "T1安检",
   "label_ja": "T1 保安検査",
   "label_ko": "T1 보안 검색",
-  "desc_zh": "上到2层出发大厅，通过国内安检。尚未取得登机牌：请前往值机柜台。",
-  "desc_ja": "2階の出発ロビーへ上がり、国内線の保安検査を受けます。搭乗券をお持ちでない場合は、チェックインカウンターへ。",
-  "desc_ko": "2층 출발 홀로 올라가 국내선 보안 검색을 받으세요. 탑승권이 없으면 체크인 카운터로 가세요."
+  "desc_zh": "已有登机牌的旅客请通过国内安检；尚未取得登机牌的旅客，请前往值机柜台获取协助。\n上到2层出发大厅，通过国内安检。尚未取得登机牌：请前往值机柜台。",
+  "desc_ja": "搭乗券をお持ちの方は、国内線の保安検査へお進みください。お持ちでない場合は、チェックインカウンターでご案内を受けてください。\n2階の出発ロビーへ上がり、国内線の保安検査を受けます。搭乗券をお持ちでない場合は、チェックインカウンターへ。",
+  "desc_ko": "탑승권이 있는 승객은 국내선 보안 검색을 통과하세요. 탑승권이 없으면 체크인 카운터에서 도움을 받으세요.\n2층 출발 홀로 올라가 국내선 보안 검색을 받으세요. 탑승권이 없으면 체크인 카운터로 가세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2106,8 +2106,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa ra tàu bay (gate boarding) – Quý khách di chuyển đến cửa ra tàu bay theo thông tin trên bảng thông báo chuyến bay. Cửa ra tàu bay của chuyến bay là: [gate].\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Proceed to the boarding gate – Please follow the flight information display. Your boarding gate is: [gate].\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "gate-t1.jpg",
   "map_x": "51.3",
   "map_y": "73.6",
@@ -2120,9 +2120,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 – 请根据航班信息显示屏前往登机口。您的登机口是：[gate]。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口へ進む – フライト情報表示に従って搭乗口へお進みください。搭乗口は [gate] です。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구로 이동 – 항공편 안내 전광판에 따라 탑승구로 이동해 주세요. 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2131,8 +2131,8 @@
   "belt": "8",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Bàn giao hành lý (Transfer drop bag) – Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "Transfer drop bag – After the customs area, turn right and hand over your baggage to the receiving staff.",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2145,9 +2145,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "行李交接（Transfer drop bag）– 通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "手荷物の引き渡し（Transfer drop bag） – 税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "수하물 인계(Transfer drop bag) – 세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2156,8 +2156,8 @@
   "belt": "7",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Bàn giao hành lý (Transfer drop bag) – Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "Transfer drop bag – After the customs area, turn right and hand over your baggage to the receiving staff.",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2170,9 +2170,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "行李交接（Transfer drop bag）– 通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "手荷物の引き渡し（Transfer drop bag） – 税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "수하물 인계(Transfer drop bag) – 세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2181,8 +2181,8 @@
   "belt": "6",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Bàn giao hành lý (Transfer drop bag) – Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "Transfer drop bag – After the customs area, turn right and hand over your baggage to the receiving staff.",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2195,9 +2195,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "行李交接（Transfer drop bag）– 通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "手荷物の引き渡し（Transfer drop bag） – 税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "수하물 인계(Transfer drop bag) – 세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2206,8 +2206,8 @@
   "belt": "5",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Bàn giao hành lý (Transfer drop bag) – Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "Transfer drop bag – After the customs area, turn right and hand over your baggage to the receiving staff.",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2220,9 +2220,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "行李交接（Transfer drop bag）– 通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "手荷物の引き渡し（Transfer drop bag） – 税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "수하물 인계(Transfer drop bag) – 세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2231,8 +2231,8 @@
   "belt": "4",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Bàn giao hành lý (Transfer drop bag) – Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "Transfer drop bag – After the customs area, turn right and hand over your baggage to the receiving staff.",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2245,9 +2245,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "行李交接（Transfer drop bag）– 通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "手荷物の引き渡し（Transfer drop bag） – 税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "수하물 인계(Transfer drop bag) – 세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2256,8 +2256,8 @@
   "belt": "3",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Bàn giao hành lý (Transfer drop bag) – Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "Transfer drop bag – After the customs area, turn right and hand over your baggage to the receiving staff.",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2270,9 +2270,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "行李交接（Transfer drop bag）– 通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "手荷物の引き渡し（Transfer drop bag） – 税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "수하물 인계(Transfer drop bag) – 세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2281,8 +2281,8 @@
   "belt": "2",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Bàn giao hành lý (Transfer drop bag) – Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "Transfer drop bag – After the customs area, turn right and hand over your baggage to the receiving staff.",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2295,9 +2295,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "行李交接（Transfer drop bag）– 通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "手荷物の引き渡し（Transfer drop bag） – 税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "수하물 인계(Transfer drop bag) – 세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2306,8 +2306,8 @@
   "belt": "1",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Bàn giao hành lý (Transfer drop bag) – Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "Transfer drop bag – After the customs area, turn right and hand over your baggage to the receiving staff.",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2320,9 +2320,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "行李交接（Transfer drop bag）– 通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "手荷物の引き渡し（Transfer drop bag） – 税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "수하물 인계(Transfer drop bag) – 세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2331,8 +2331,8 @@
   "belt": "",
   "label_vi": "Bàn giao hành lý",
   "label_en": "Transfer drop bag",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Bàn giao hành lý (Transfer drop bag) – Sau khu vực hải quan, quý khách rẽ phải, bàn giao lại hành lý cho nhân viên tiếp nhận.",
+  "desc_en": "Transfer drop bag – After the customs area, turn right and hand over your baggage to the receiving staff.",
   "image": "domestic-transfer-drop-bag.jpg",
   "map_x": "71",
   "map_y": "40.55",
@@ -2345,9 +2345,9 @@
   "label_zh": "行李交接",
   "label_ja": "手荷物の引き渡し",
   "label_ko": "수하물 인계",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "行李交接（Transfer drop bag）– 通过海关区域后向右转，将行李交给接收的工作人员。",
+  "desc_ja": "手荷物の引き渡し（Transfer drop bag） – 税関エリアを出たら右へ曲がり、受付スタッフに手荷物をお渡しください。",
+  "desc_ko": "수하물 인계(Transfer drop bag) – 세관 구역을 지난 후 오른쪽으로 돌아 담당 직원에게 수하물을 맡겨 주세요."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2356,8 +2356,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1.",
-  "desc_en": "Terminal 1 airside.",
+  "desc_vi": "Ra tàu bay: chuyến bay của quý khách có cửa lên tàu: [gate].\nKhu cách ly nhà ga T1.",
+  "desc_en": "Go to the gate: your flight departs from gate [gate].\nTerminal 1 airside.",
   "image": "t1-boarding-gate-5.jpg",
   "map_x": "51.21",
   "map_y": "85.42",
@@ -2370,9 +2370,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。",
-  "desc_ja": "T1ターミナルの制限エリアです。",
-  "desc_ko": "T1 터미널 보안 구역입니다."
+  "desc_zh": "前往登机口：您的航班登机口为：[gate]。\nT1航站楼隔离区。",
+  "desc_ja": "搭乗口へ：ご搭乗便の搭乗口は [gate] です。\nT1ターミナルの制限エリアです。",
+  "desc_ko": "탑승구로 이동: 탑승하실 항공편의 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2381,8 +2381,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1.",
-  "desc_en": "Terminal 1 airside.",
+  "desc_vi": "Ra tàu bay: chuyến bay của quý khách có cửa lên tàu: [gate].\nKhu cách ly nhà ga T1.",
+  "desc_en": "Go to the gate: your flight departs from gate [gate].\nTerminal 1 airside.",
   "image": "t1-boarding-gate-6.jpg",
   "map_x": "51.21",
   "map_y": "85.42",
@@ -2395,9 +2395,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。",
-  "desc_ja": "T1ターミナルの制限エリアです。",
-  "desc_ko": "T1 터미널 보안 구역입니다."
+  "desc_zh": "前往登机口：您的航班登机口为：[gate]。\nT1航站楼隔离区。",
+  "desc_ja": "搭乗口へ：ご搭乗便の搭乗口は [gate] です。\nT1ターミナルの制限エリアです。",
+  "desc_ko": "탑승구로 이동: 탑승하실 항공편의 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2406,8 +2406,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1.",
-  "desc_en": "Terminal 1 airside.",
+  "desc_vi": "Ra tàu bay: chuyến bay của quý khách có cửa lên tàu: [gate].\nKhu cách ly nhà ga T1.",
+  "desc_en": "Go to the gate: your flight departs from gate [gate].\nTerminal 1 airside.",
   "image": "t1-boarding-gate-7.jpg",
   "map_x": "51.21",
   "map_y": "85.42",
@@ -2420,9 +2420,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。",
-  "desc_ja": "T1ターミナルの制限エリアです。",
-  "desc_ko": "T1 터미널 보안 구역입니다."
+  "desc_zh": "前往登机口：您的航班登机口为：[gate]。\nT1航站楼隔离区。",
+  "desc_ja": "搭乗口へ：ご搭乗便の搭乗口は [gate] です。\nT1ターミナルの制限エリアです。",
+  "desc_ko": "탑승구로 이동: 탑승하실 항공편의 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2431,8 +2431,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1.",
-  "desc_en": "Terminal 1 airside.",
+  "desc_vi": "Ra tàu bay: chuyến bay của quý khách có cửa lên tàu: [gate].\nKhu cách ly nhà ga T1.",
+  "desc_en": "Go to the gate: your flight departs from gate [gate].\nTerminal 1 airside.",
   "image": "t1-boarding-gate-8.jpg",
   "map_x": "51.21",
   "map_y": "85.42",
@@ -2445,9 +2445,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。",
-  "desc_ja": "T1ターミナルの制限エリアです。",
-  "desc_ko": "T1 터미널 보안 구역입니다."
+  "desc_zh": "前往登机口：您的航班登机口为：[gate]。\nT1航站楼隔离区。",
+  "desc_ja": "搭乗口へ：ご搭乗便の搭乗口は [gate] です。\nT1ターミナルの制限エリアです。",
+  "desc_ko": "탑승구로 이동: 탑승하실 항공편의 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2456,8 +2456,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1.",
-  "desc_en": "Terminal 1 airside.",
+  "desc_vi": "Ra tàu bay: chuyến bay của quý khách có cửa lên tàu: [gate].\nKhu cách ly nhà ga T1.",
+  "desc_en": "Go to the gate: your flight departs from gate [gate].\nTerminal 1 airside.",
   "image": "t1-boarding-gate-9.jpg",
   "map_x": "51.21",
   "map_y": "85.42",
@@ -2470,9 +2470,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。",
-  "desc_ja": "T1ターミナルの制限エリアです。",
-  "desc_ko": "T1 터미널 보안 구역입니다."
+  "desc_zh": "前往登机口：您的航班登机口为：[gate]。\nT1航站楼隔离区。",
+  "desc_ja": "搭乗口へ：ご搭乗便の搭乗口は [gate] です。\nT1ターミナルの制限エリアです。",
+  "desc_ko": "탑승구로 이동: 탑승하실 항공편의 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2481,8 +2481,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1.",
-  "desc_en": "Terminal 1 airside.",
+  "desc_vi": "Ra tàu bay: chuyến bay của quý khách có cửa lên tàu: [gate].\nKhu cách ly nhà ga T1.",
+  "desc_en": "Go to the gate: your flight departs from gate [gate].\nTerminal 1 airside.",
   "image": "t1-boarding-gate-10.jpg",
   "map_x": "51.21",
   "map_y": "85.42",
@@ -2495,9 +2495,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。",
-  "desc_ja": "T1ターミナルの制限エリアです。",
-  "desc_ko": "T1 터미널 보안 구역입니다."
+  "desc_zh": "前往登机口：您的航班登机口为：[gate]。\nT1航站楼隔离区。",
+  "desc_ja": "搭乗口へ：ご搭乗便の搭乗口は [gate] です。\nT1ターミナルの制限エリアです。",
+  "desc_ko": "탑승구로 이동: 탑승하실 항공편의 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2506,8 +2506,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1.",
-  "desc_en": "Terminal 1 airside.",
+  "desc_vi": "Ra tàu bay: chuyến bay của quý khách có cửa lên tàu: [gate].\nKhu cách ly nhà ga T1.",
+  "desc_en": "Go to the gate: your flight departs from gate [gate].\nTerminal 1 airside.",
   "image": "t1-boarding-gate-11.jpg",
   "map_x": "51.21",
   "map_y": "85.42",
@@ -2520,9 +2520,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。",
-  "desc_ja": "T1ターミナルの制限エリアです。",
-  "desc_ko": "T1 터미널 보안 구역입니다."
+  "desc_zh": "前往登机口：您的航班登机口为：[gate]。\nT1航站楼隔离区。",
+  "desc_ja": "搭乗口へ：ご搭乗便の搭乗口は [gate] です。\nT1ターミナルの制限エリアです。",
+  "desc_ko": "탑승구로 이동: 탑승하실 항공편의 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다."
  },
  {
   "route_code": "id-arrival__t1",
@@ -2531,8 +2531,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1.",
-  "desc_en": "Terminal 1 airside.",
+  "desc_vi": "Ra tàu bay: chuyến bay của quý khách có cửa lên tàu: [gate].\nKhu cách ly nhà ga T1.",
+  "desc_en": "Go to the gate: your flight departs from gate [gate].\nTerminal 1 airside.",
   "image": "t1-boarding-gate-12.jpg",
   "map_x": "51.21",
   "map_y": "85.42",
@@ -2545,9 +2545,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。",
-  "desc_ja": "T1ターミナルの制限エリアです。",
-  "desc_ko": "T1 터미널 보안 구역입니다."
+  "desc_zh": "前往登机口：您的航班登机口为：[gate]。\nT1航站楼隔离区。",
+  "desc_ja": "搭乗口へ：ご搭乗便の搭乗口は [gate] です。\nT1ターミナルの制限エリアです。",
+  "desc_ko": "탑승구로 이동: 탑승하실 항공편의 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2556,8 +2556,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa ra tàu bay (gate boarding) – Quý khách di chuyển đến cửa ra tàu bay theo thông tin trên bảng thông báo chuyến bay. Cửa ra tàu bay của chuyến bay là: [gate].\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Proceed to the boarding gate – Please follow the flight information display. Your boarding gate is: [gate].\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "t1-boarding-gate-5.jpg",
   "map_x": "51.3",
   "map_y": "73.6",
@@ -2570,9 +2570,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 – 请根据航班信息显示屏前往登机口。您的登机口是：[gate]。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口へ進む – フライト情報表示に従って搭乗口へお進みください。搭乗口は [gate] です。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구로 이동 – 항공편 안내 전광판에 따라 탑승구로 이동해 주세요. 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2581,8 +2581,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa ra tàu bay (gate boarding) – Quý khách di chuyển đến cửa ra tàu bay theo thông tin trên bảng thông báo chuyến bay. Cửa ra tàu bay của chuyến bay là: [gate].\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Proceed to the boarding gate – Please follow the flight information display. Your boarding gate is: [gate].\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "t1-boarding-gate-6.jpg",
   "map_x": "51.3",
   "map_y": "73.6",
@@ -2595,9 +2595,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 – 请根据航班信息显示屏前往登机口。您的登机口是：[gate]。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口へ進む – フライト情報表示に従って搭乗口へお進みください。搭乗口は [gate] です。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구로 이동 – 항공편 안내 전광판에 따라 탑승구로 이동해 주세요. 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2606,8 +2606,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa ra tàu bay (gate boarding) – Quý khách di chuyển đến cửa ra tàu bay theo thông tin trên bảng thông báo chuyến bay. Cửa ra tàu bay của chuyến bay là: [gate].\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Proceed to the boarding gate – Please follow the flight information display. Your boarding gate is: [gate].\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "t1-boarding-gate-7.jpg",
   "map_x": "51.3",
   "map_y": "73.6",
@@ -2620,9 +2620,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 – 请根据航班信息显示屏前往登机口。您的登机口是：[gate]。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口へ進む – フライト情報表示に従って搭乗口へお進みください。搭乗口は [gate] です。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구로 이동 – 항공편 안내 전광판에 따라 탑승구로 이동해 주세요. 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2631,8 +2631,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa ra tàu bay (gate boarding) – Quý khách di chuyển đến cửa ra tàu bay theo thông tin trên bảng thông báo chuyến bay. Cửa ra tàu bay của chuyến bay là: [gate].\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Proceed to the boarding gate – Please follow the flight information display. Your boarding gate is: [gate].\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "t1-boarding-gate-8.jpg",
   "map_x": "51.3",
   "map_y": "73.6",
@@ -2645,9 +2645,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 – 请根据航班信息显示屏前往登机口。您的登机口是：[gate]。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口へ進む – フライト情報表示に従って搭乗口へお進みください。搭乗口は [gate] です。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구로 이동 – 항공편 안내 전광판에 따라 탑승구로 이동해 주세요. 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2656,8 +2656,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa ra tàu bay (gate boarding) – Quý khách di chuyển đến cửa ra tàu bay theo thông tin trên bảng thông báo chuyến bay. Cửa ra tàu bay của chuyến bay là: [gate].\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Proceed to the boarding gate – Please follow the flight information display. Your boarding gate is: [gate].\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "t1-boarding-gate-9.jpg",
   "map_x": "51.3",
   "map_y": "73.6",
@@ -2670,9 +2670,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 – 请根据航班信息显示屏前往登机口。您的登机口是：[gate]。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口へ進む – フライト情報表示に従って搭乗口へお進みください。搭乗口は [gate] です。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구로 이동 – 항공편 안내 전광판에 따라 탑승구로 이동해 주세요. 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2681,8 +2681,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa ra tàu bay (gate boarding) – Quý khách di chuyển đến cửa ra tàu bay theo thông tin trên bảng thông báo chuyến bay. Cửa ra tàu bay của chuyến bay là: [gate].\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Proceed to the boarding gate – Please follow the flight information display. Your boarding gate is: [gate].\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "t1-boarding-gate-10.jpg",
   "map_x": "51.3",
   "map_y": "73.6",
@@ -2695,9 +2695,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 – 请根据航班信息显示屏前往登机口。您的登机口是：[gate]。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口へ進む – フライト情報表示に従って搭乗口へお進みください。搭乗口は [gate] です。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구로 이동 – 항공편 안내 전광판에 따라 탑승구로 이동해 주세요. 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2706,8 +2706,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa ra tàu bay (gate boarding) – Quý khách di chuyển đến cửa ra tàu bay theo thông tin trên bảng thông báo chuyến bay. Cửa ra tàu bay của chuyến bay là: [gate].\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Proceed to the boarding gate – Please follow the flight information display. Your boarding gate is: [gate].\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "t1-boarding-gate-11.jpg",
   "map_x": "51.3",
   "map_y": "73.6",
@@ -2720,9 +2720,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 – 请根据航班信息显示屏前往登机口。您的登机口是：[gate]。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口へ進む – フライト情報表示に従って搭乗口へお進みください。搭乗口は [gate] です。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구로 이동 – 항공편 안내 전광판에 따라 탑승구로 이동해 주세요. 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "dd-t1-arrival__t1-gate",
@@ -2731,8 +2731,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa ra tàu bay (gate boarding) – Quý khách di chuyển đến cửa ra tàu bay theo thông tin trên bảng thông báo chuyến bay. Cửa ra tàu bay của chuyến bay là: [gate].\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Proceed to the boarding gate – Please follow the flight information display. Your boarding gate is: [gate].\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "t1-boarding-gate-12.jpg",
   "map_x": "51.3",
   "map_y": "73.6",
@@ -2745,9 +2745,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 – 请根据航班信息显示屏前往登机口。您的登机口是：[gate]。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口へ進む – フライト情報表示に従って搭乗口へお進みください。搭乗口は [gate] です。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구로 이동 – 항공편 안내 전광판에 따라 탑승구로 이동해 주세요. 탑승구는 [gate]입니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "ii-arrival__gate",
@@ -2756,8 +2756,8 @@
   "belt": "",
   "label_vi": "Quầy visa",
   "label_en": "Visa counter",
-  "desc_vi": "Dành cho khách cần xin thị thực khi đến. Khách nối chuyến không đi qua quầy này.",
-  "desc_en": "For passengers who need a visa on arrival. Transfer passengers do not use this counter.",
+  "desc_vi": "Vào quầy nối chuyến – Đa số hành khách đã được làm thủ tục (check-in) thẳng tới điểm đến cuối cùng. Tuy nhiên, quý khách vui lòng liên hệ Quầy Nối chuyến (Transfer Counter) để được nhân viên hỗ trợ nếu thuộc các trường hợp sau: Chưa được cấp thẻ lên máy bay (boarding pass) cho chặng bay tiếp theo. | Cần kiểm tra và xác nhận lại tình trạng hành lý ký gửi. | Cần xác minh tính hợp lệ của thị thực (visa) và giấy tờ nhập cảnh tại điểm đến cuối cùng. | Các thông tin cập nhật khác,...\nDành cho khách cần xin thị thực khi đến. Khách nối chuyến không đi qua quầy này.\nLưu ý hành lý: Hành lý ký gửi thông thường sẽ tự động chuyển thẳng đến đích cuối cùng. Quý khách vui lòng xác nhận lại trạng thái thẻ hành lý với nhân viên tại quầy.",
+  "desc_en": "Go to the transfer counter – Most passengers have already been checked through to their final destination. However, please contact the Transfer Counter for assistance if you fall into one of the following cases: You have not been issued a boarding pass for the next flight segment. | You need to check and reconfirm the status of your checked baggage. | You need to verify the validity of your visa and entry documents for the final destination. | Other updated travel information, etc.\nFor passengers who need a visa on arrival. Transfer passengers do not use this counter.\nBaggage note: Checked baggage is usually transferred automatically to the final destination. Please confirm the baggage tag status with the staff at the counter.",
   "image": "t2-visa-on-arrival.jpg",
   "map_x": "63.6",
   "map_y": "25",
@@ -2770,9 +2770,9 @@
   "label_zh": "签证柜台",
   "label_ja": "ビザカウンター",
   "label_ko": "비자 카운터",
-  "desc_zh": "供需办理落地签证的旅客使用。中转旅客无需经过此柜台。",
-  "desc_ja": "到着時にビザが必要なお客様向けです。乗り継ぎのお客様はこのカウンターを通りません。",
-  "desc_ko": "도착 비자가 필요한 승객용입니다. 환승 승객은 이 카운터를 거치지 않습니다."
+  "desc_zh": "前往中转柜台 – 大多数旅客已直接办理值机至最终目的地。但如属于以下情况，请联系中转柜台（Transfer Counter）寻求工作人员协助： 尚未领取下一段航班的登机牌。 | 需要检查并确认托运行李状态。 | 需要确认最终目的地签证及入境文件是否有效。 | 其他最新出行信息等。\n供需办理落地签证的旅客使用。中转旅客无需经过此柜台。\n行李提示：托运行李通常会自动直接转运至最终目的地。请向柜台工作人员确认行李牌状态。",
+  "desc_ja": "乗り継ぎカウンターへ – 多くのお客様は最終目的地まで通しでチェックイン済みです。ただし、以下の場合は乗り継ぎカウンター（Transfer Counter）でスタッフのサポートを受けてください。 次の区間の搭乗券がまだ発行されていない場合。 | 受託手荷物の状況確認が必要な場合。 | 最終目的地で必要なビザおよび入国書類の有効性確認が必要な場合。 | その他の最新案内が必要な場合。\n到着時にビザが必要なお客様向けです。乗り継ぎのお客様はこのカウンターを通りません。\n手荷物のご注意：受託手荷物は通常、最終目的地まで自動的に転送されます。手荷物タグの状況はカウンターのスタッフにご確認ください。",
+  "desc_ko": "환승 카운터로 이동 – 대부분의 승객은 최종 목적지까지 연결 체크인이 이미 완료되어 있습니다. 다만 아래 경우에는 환승 카운터(Transfer Counter)에서 직원의 안내를 받으시기 바랍니다. 다음 구간 탑승권을 아직 받지 못한 경우. | 위탁수하물 상태를 확인하고 재확인해야 하는 경우. | 최종 목적지의 비자 및 입국 서류 유효성 확인이 필요한 경우. | 기타 최신 안내가 필요한 경우.\n도착 비자가 필요한 승객용입니다. 환승 승객은 이 카운터를 거치지 않습니다.\n수하물 안내: 위탁수하물은 보통 최종 목적지까지 자동으로 연결됩니다. 수하물 태그 상태는 카운터 직원에게 다시 확인해 주세요."
  },
  {
   "route_code": "t2-departure__gate",
@@ -2781,8 +2781,8 @@
   "belt": "",
   "label_vi": "Cửa vào",
   "label_en": "Entrance",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Vào sảnh đi tầng 3 nhà ga T2 qua cửa Departure D1-D4, quý khách di chuyển vào khu quầy của VNA tại đảo B, C, D.",
+  "desc_en": "Enter the Level 3 departures hall of Terminal 2 through Departure doors D1–D4, then go to the Vietnam Airlines counter area on islands B, C and D.",
   "image": "",
   "map_x": "56.4",
   "map_y": "76.2",
@@ -2795,9 +2795,9 @@
   "label_zh": "入口",
   "label_ja": "入口",
   "label_ko": "입구",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "从出发门D1–D4进入T2航站楼3层出发大厅，然后前往B、C、D岛的越南航空柜台区。",
+  "desc_ja": "出発ドアD1～D4からT2ターミナル3階の出発ロビーに入り、B・C・Dアイランドのベトナム航空カウンターエリアへ進みます。",
+  "desc_ko": "출발 출입문 D1–D4로 T2 터미널 3층 출발 로비에 들어간 뒤, B, C, D 아일랜드의 베트남항공 카운터 구역으로 이동하세요."
  },
  {
   "route_code": "t2-departure__gate",
@@ -2806,8 +2806,8 @@
   "belt": "",
   "label_vi": "Quầy thủ tục",
   "label_en": "Check-in",
-  "desc_vi": "Quầy đóng trước giờ khởi hành 50 phút.\n# Đảo D|Thương gia, Phổ thông đặc biệt, ưu tiên\nD01 – D05|Hạng Thương gia và hội viên Million Miler\nD06 – D09|Khách SkyPriority\nD10 – D11|Hạng Phổ thông đặc biệt\n# Đảo C\nC01 – C04|Khách đã làm thủ tục trực tuyến (Online check-in)\nC05|Khách cần hỗ trợ đặc biệt\nC06|Gia đình đi cùng nhau\nC07 – C12|Hạng Phổ thông\n# Đảo B\nB01 – B12|Hạng Phổ thông\n# Đảo A|Ký gửi hành lý tự động\nA01 – A03|Kiosk ký gửi hành lý tự động (Self Bag Drop)",
-  "desc_en": "Counters close 50 minutes before departure.\n# Island D|Business, special-assistance Economy, priority\nD01 – D05|Business Class and Million Miler members\nD06 – D09|SkyPriority passengers\nD10 – D11|Special-assistance Economy\n# Island C\nC01 – C04|Passengers who have checked in online\nC05|Passengers needing special assistance\nC06|Families travelling together\nC07 – C12|Economy\n# Island B\nB01 – B12|Economy\n# Island A|Automated baggage drop\nA01 – A03|Self Bag Drop kiosks",
+  "desc_vi": "Làm thủ tục tại quầy của VNA ở các đảo B, C, D, rồi đi tiếp qua giữa các đảo quầy về phía khu an ninh.\nQuầy đóng trước giờ khởi hành 50 phút.\n# Đảo D|Thương gia, Phổ thông đặc biệt, ưu tiên\nD01 – D05|Hạng Thương gia và hội viên Million Miler\nD06 – D09|Khách SkyPriority\nD10 – D11|Hạng Phổ thông đặc biệt\n# Đảo C\nC01 – C04|Khách đã làm thủ tục trực tuyến (Online check-in)\nC05|Khách cần hỗ trợ đặc biệt\nC06|Gia đình đi cùng nhau\nC07 – C12|Hạng Phổ thông\n# Đảo B\nB01 – B12|Hạng Phổ thông\n# Đảo A|Ký gửi hành lý tự động\nA01 – A03|Kiosk ký gửi hành lý tự động (Self Bag Drop)",
+  "desc_en": "Check in at the Vietnam Airlines counters on islands B, C and D, then continue between the counter islands towards security.\nCounters close 50 minutes before departure.\n# Island D|Business, special-assistance Economy, priority\nD01 – D05|Business Class and Million Miler members\nD06 – D09|SkyPriority passengers\nD10 – D11|Special-assistance Economy\n# Island C\nC01 – C04|Passengers who have checked in online\nC05|Passengers needing special assistance\nC06|Families travelling together\nC07 – C12|Economy\n# Island B\nB01 – B12|Economy\n# Island A|Automated baggage drop\nA01 – A03|Self Bag Drop kiosks",
   "image": "t2-checkin-counter.jpg",
   "map_x": "62.8",
   "map_y": "57.5",
@@ -2820,9 +2820,9 @@
   "label_zh": "值机柜台",
   "label_ja": "チェックイン",
   "label_ko": "체크인",
-  "desc_zh": "柜台在起飞前50分钟关闭。\n# D岛|公务舱、特殊协助经济舱、优先旅客\nD01 – D05|公务舱及Million Miler会员\nD06 – D09|SkyPriority旅客\nD10 – D11|特殊协助经济舱\n# C岛\nC01 – C04|已在线值机的旅客\nC05|需要特殊协助的旅客\nC06|家庭同行旅客\nC07 – C12|经济舱\n# B岛\nB01 – B12|经济舱\n# A岛|自助行李托运\nA01 – A03|自助行李托运终端（Self Bag Drop）",
-  "desc_ja": "カウンターは出発の50分前に閉まります。\n# Dアイランド|ビジネス、特別サポートのエコノミー、優先のお客様\nD01 – D05|ビジネスクラス、Million Miler会員\nD06 – D09|SkyPriorityのお客様\nD10 – D11|特別サポートのエコノミー\n# Cアイランド\nC01 – C04|オンラインチェックイン済みのお客様\nC05|特別なサポートが必要なお客様\nC06|ご家族連れ\nC07 – C12|エコノミー\n# Bアイランド\nB01 – B12|エコノミー\n# Aアイランド|自動手荷物預け\nA01 – A03|自動手荷物預け機（Self Bag Drop）",
-  "desc_ko": "카운터는 출발 50분 전에 닫힙니다.\n# D 아일랜드|비즈니스, 특별 지원 일반석, 우대 승객\nD01 – D05|비즈니스석 및 Million Miler 회원\nD06 – D09|SkyPriority 승객\nD10 – D11|특별 지원 일반석\n# C 아일랜드\nC01 – C04|온라인 체크인을 마친 승객\nC05|특별 지원이 필요한 승객\nC06|가족 동반 승객\nC07 – C12|일반석\n# B 아일랜드\nB01 – B12|일반석\n# A 아일랜드|자동 수하물 위탁\nA01 – A03|자동 수하물 위탁 키오스크(Self Bag Drop)"
+  "desc_zh": "请到B、C、D岛的越南航空柜台办理乘机手续，然后从柜台岛之间继续前往安检区。\n柜台在起飞前50分钟关闭。\n# D岛|公务舱、特殊协助经济舱、优先旅客\nD01 – D05|公务舱及Million Miler会员\nD06 – D09|SkyPriority旅客\nD10 – D11|特殊协助经济舱\n# C岛\nC01 – C04|已在线值机的旅客\nC05|需要特殊协助的旅客\nC06|家庭同行旅客\nC07 – C12|经济舱\n# B岛\nB01 – B12|经济舱\n# A岛|自助行李托运\nA01 – A03|自助行李托运终端（Self Bag Drop）",
+  "desc_ja": "B・C・Dアイランドのベトナム航空カウンターでチェックインし、カウンターアイランドの間を通って保安検査へ進みます。\nカウンターは出発の50分前に閉まります。\n# Dアイランド|ビジネス、特別サポートのエコノミー、優先のお客様\nD01 – D05|ビジネスクラス、Million Miler会員\nD06 – D09|SkyPriorityのお客様\nD10 – D11|特別サポートのエコノミー\n# Cアイランド\nC01 – C04|オンラインチェックイン済みのお客様\nC05|特別なサポートが必要なお客様\nC06|ご家族連れ\nC07 – C12|エコノミー\n# Bアイランド\nB01 – B12|エコノミー\n# Aアイランド|自動手荷物預け\nA01 – A03|自動手荷物預け機（Self Bag Drop）",
+  "desc_ko": "B, C, D 아일랜드의 베트남항공 카운터에서 체크인한 뒤, 카운터 아일랜드 사이로 보안 검색 구역으로 이동하세요.\n카운터는 출발 50분 전에 닫힙니다.\n# D 아일랜드|비즈니스, 특별 지원 일반석, 우대 승객\nD01 – D05|비즈니스석 및 Million Miler 회원\nD06 – D09|SkyPriority 승객\nD10 – D11|특별 지원 일반석\n# C 아일랜드\nC01 – C04|온라인 체크인을 마친 승객\nC05|특별 지원이 필요한 승객\nC06|가족 동반 승객\nC07 – C12|일반석\n# B 아일랜드\nB01 – B12|일반석\n# A 아일랜드|자동 수하물 위탁\nA01 – A03|자동 수하물 위탁 키오스크(Self Bag Drop)"
  },
  {
   "route_code": "t2-departure__gate",
@@ -2831,8 +2831,8 @@
   "belt": "",
   "label_vi": "Xuất cảnh · An ninh",
   "label_en": "Immigration · Security",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Có 3 lối vào khu vực xuất cảnh A, B, C (trong ảnh là lối vào A).\nQua khu vực xuất cảnh và an ninh: chuẩn bị hộ chiếu, thẻ lên tàu bay; bỏ thiết bị điện tử và chất lỏng ra khay.",
+  "desc_en": "There are 3 entrances to the immigration area: A, B and C (the photo shows entrance A).\nGo through immigration and security: have your passport and boarding pass ready; place electronic devices and liquids in the tray.",
   "image": "security-check-point.jpg",
   "map_x": "55.6",
   "map_y": "28.7",
@@ -2845,9 +2845,9 @@
   "label_zh": "出境·安检",
   "label_ja": "出国・保安検査",
   "label_ko": "출국·보안",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "出境区域有3个入口：A、B、C（图中为A入口）。\n通过出境和安检区域：请备好护照和登机牌；将电子设备和液体放入托盘。",
+  "desc_ja": "出国審査エリアへの入口は3か所（A・B・C）あります（写真はA入口）。\n出国審査と保安検査へ：パスポートと搭乗券をご準備ください。電子機器と液体類はトレーに出してください。",
+  "desc_ko": "출국 심사 구역 입구는 A, B, C 세 곳입니다(사진은 A 입구).\n출국 심사 및 보안 검색: 여권과 탑승권을 준비하고, 전자기기와 액체류는 트레이에 꺼내 놓으세요."
  },
  {
   "route_code": "t2-departure__gate",
@@ -2856,8 +2856,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Biển THÔNG TIN CỬA RA TÀU BAY chỉ hai hướng: cửa 21–35 và cửa 36–50. Xem số cửa của chuyến bay rồi đi theo mũi tên tương ứng; các lối A, B, C dẫn xuống khu vực cửa ra tàu bay.",
-  "desc_en": "The Boarding gate information sign points two ways: gates 21–35 and gates 36–50. Check your gate number and follow the matching arrow; A, B and C lead down to the boarding gates.",
+  "desc_vi": "Vào phòng chờ tầng 3, ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nBiển THÔNG TIN CỬA RA TÀU BAY chỉ hai hướng: cửa 21–35 và cửa 36–50. Xem số cửa của chuyến bay rồi đi theo mũi tên tương ứng; các lối A, B, C dẫn xuống khu vực cửa ra tàu bay.",
+  "desc_en": "Go to the waiting area on level 3, then to boarding gate [gate]. The gate closes 15 minutes before departure.\nThe Boarding gate information sign points two ways: gates 21–35 and gates 36–50. Check your gate number and follow the matching arrow; A, B and C lead down to the boarding gates.",
   "image": "int-gate.jpg",
   "map_x": "55.6",
   "map_y": "13.4",
@@ -2870,9 +2870,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "“登机口信息”标志指向两个方向：21–35号登机口和36–50号登机口。请确认您的登机口号码，并按对应箭头前行；A、B、C通道通往登机口区域。",
-  "desc_ja": "「搭乗口案内」の表示は2方向を示しています：21～35番ゲートと36～50番ゲート。ご自身の搭乗口番号を確認し、該当する矢印に従ってください。A・B・Cの通路が搭乗口エリアへ続いています。",
-  "desc_ko": "“탑승구 안내” 표지판은 두 방향을 가리킵니다: 21~35번 탑승구와 36~50번 탑승구. 본인의 탑승구 번호를 확인하고 해당 화살표를 따라가세요. A, B, C 통로가 탑승구 구역으로 이어집니다."
+  "desc_zh": "进入3层候机区，前往登机口 [gate]。登机口在起飞前15分钟关闭。\n“登机口信息”标志指向两个方向：21–35号登机口和36–50号登机口。请确认您的登机口号码，并按对应箭头前行；A、B、C通道通往登机口区域。",
+  "desc_ja": "3階の待合エリアに入り、搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\n「搭乗口案内」の表示は2方向を示しています：21～35番ゲートと36～50番ゲート。ご自身の搭乗口番号を確認し、該当する矢印に従ってください。A・B・Cの通路が搭乗口エリアへ続いています。",
+  "desc_ko": "3층 대기 구역으로 들어가 탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\n“탑승구 안내” 표지판은 두 방향을 가리킵니다: 21~35번 탑승구와 36~50번 탑승구. 본인의 탑승구 번호를 확인하고 해당 화살표를 따라가세요. A, B, C 통로가 탑승구 구역으로 이어집니다."
  },
  {
   "route_code": "t1-departure__gate",
@@ -2881,8 +2881,8 @@
   "belt": "",
   "label_vi": "Cửa vào",
   "label_en": "Entrance",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Vào sảnh đi tầng 2 nhà ga T1 qua cửa chính ở chính giữa.",
+  "desc_en": "Enter the T1 departures hall on level 2 through the main door in the middle.",
   "image": "",
   "map_x": "63.33",
   "map_y": "86.86",
@@ -2895,9 +2895,9 @@
   "label_zh": "入口",
   "label_ja": "入口",
   "label_ko": "입구",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "从正中间的大门进入T1航站楼2层出发大厅。",
+  "desc_ja": "中央の正面入口からT1ターミナル2階の出発ロビーに入ります。",
+  "desc_ko": "가운데 정문으로 T1 터미널 2층 출발 로비에 들어가세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -2906,8 +2906,8 @@
   "belt": "",
   "label_vi": "Quầy VNA",
   "label_en": "VNA check-in",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Làm thủ tục tại khu quầy VNA ở sảnh B – chọn 1 trong 3 cách:\n1. Tại quầy thủ tục (gửi hành lý, nhận thẻ lên tàu bay)\n2. Làm thủ tục trực tuyến (Online check-in): nếu không ký gửi hành lý, vào thẳng khu vực an ninh – phòng chờ\n3. Tại kiosk check-in tự phục vụ\nB0|Quầy đại diện hỗ trợ\nB01 – B03|Hạng Thương gia và Hội viên Triệu dặm\nB04 – B08|SkyPriority và Phổ thông đặc biệt\nB09|Khách đối ngoại\nB10 – B11, B27|Bố trí linh hoạt\nB12 – B14|Khách đã làm thủ tục trực tuyến (Online check-in)\nB15|Hỗ trợ đặc biệt\nB16 – B18|Hạng Phổ thông đi TP. Hồ Chí Minh\nB20 – B23|Hạng Phổ thông các tuyến nội địa khác\nB24 – B25|Khách đi theo đoàn\nB28 – B31|Chuyến bay Pacific Airlines\nB32|Vé có chính sách giảm giá",
+  "desc_en": "Check in at the Vietnam Airlines counter area in Hall B – choose one of 3 ways:\n1. At a check-in counter (drop baggage, get your boarding pass)\n2. Online check-in: if you have no checked baggage, go straight to security and the waiting area\n3. At a self-service check-in kiosk\nB0|Customer support counter\nB01 – B03|Business Class and Million Miles members\nB04 – B08|SkyPriority and special-assistance Economy\nB09|Official (diplomatic) guests\nB10 – B11, B27|Flexible allocation\nB12 – B14|Passengers who have checked in online\nB15|Special assistance\nB16 – B18|Economy to Ho Chi Minh City\nB20 – B23|Economy to other domestic routes\nB24 – B25|Group passengers\nB28 – B31|Pacific Airlines flights\nB32|Discounted fares",
   "image": "",
   "map_x": "75.32",
   "map_y": "84.57",
@@ -2920,9 +2920,9 @@
   "label_zh": "VNA值机",
   "label_ja": "VNAチェックイン",
   "label_ko": "VNA 체크인",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "请到B厅的越南航空值机区办理乘机手续——3种方式任选其一：\n1. 在值机柜台办理（托运行李、领取登机牌）\n2. 在线值机（Online check-in）：如无托运行李，可直接前往安检和候机区\n3. 在自助值机终端（Kiosk）办理\nB0|服务支援柜台\nB01 – B03|公务舱及百万里程会员\nB04 – B08|SkyPriority及特殊协助经济舱旅客\nB09|外事旅客\nB10 – B11、B27|灵活安排\nB12 – B14|已在线值机的旅客\nB15|特殊协助\nB16 – B18|经济舱，前往胡志明市\nB20 – B23|经济舱，其他国内航线\nB24 – B25|团体旅客\nB28 – B31|太平洋航空（Pacific Airlines）航班\nB32|折扣机票",
+  "desc_ja": "Bホールのベトナム航空カウンターエリアでチェックイン（3つから選択）：\n1. チェックインカウンター（手荷物預け・搭乗券の受け取り）\n2. オンラインチェックイン（Online check-in）：預け手荷物がなければ、そのまま保安検査場・待合エリアへ\n3. セルフチェックイン機（キオスク）\nB0|サポートカウンター\nB01 – B03|ビジネスクラス、ミリオンマイル会員\nB04 – B08|SkyPriority、特別サポートのエコノミー\nB09|公賓・外務関連のお客様\nB10 – B11、B27|状況に応じて割り当て\nB12 – B14|オンラインチェックイン済みのお客様\nB15|特別サポート\nB16 – B18|エコノミー（ホーチミン市行き）\nB20 – B23|エコノミー（その他の国内線）\nB24 – B25|団体のお客様\nB28 – B31|パシフィック航空の便\nB32|割引運賃",
+  "desc_ko": "B홀 베트남항공 카운터 구역에서 체크인 – 3가지 중 선택:\n1. 체크인 카운터에서 (수하물 위탁, 탑승권 수령)\n2. 온라인 체크인(Online check-in): 위탁 수하물이 없으면 바로 보안 검색대·대기 구역으로 이동\n3. 셀프 체크인 키오스크에서\nB0|안내 지원 카운터\nB01 – B03|비즈니스석 및 밀리언 마일 회원\nB04 – B08|SkyPriority 및 특별 지원 일반석\nB09|외빈(공식 방문) 승객\nB10 – B11, B27|유동 배정\nB12 – B14|온라인 체크인을 마친 승객\nB15|특별 지원\nB16 – B18|일반석, 호찌민시행\nB20 – B23|일반석, 기타 국내선\nB24 – B25|단체 승객\nB28 – B31|퍼시픽 항공 편\nB32|할인 운임"
  },
  {
   "route_code": "t1-departure__gate",
@@ -2931,8 +2931,8 @@
   "belt": "",
   "label_vi": "An ninh",
   "label_en": "Security",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Qua cửa soi chiếu an ninh nội địa. Chuẩn bị giấy tờ tùy thân và thẻ lên tàu bay.",
+  "desc_en": "Go through domestic security screening. Have your ID and boarding pass ready.",
   "image": "security-t1-01.jpg",
   "map_x": "63.33",
   "map_y": "70.10",
@@ -2945,9 +2945,9 @@
   "label_zh": "安检",
   "label_ja": "保安検査",
   "label_ko": "보안 검색",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "通过国内航班安检。请备好身份证件和登机牌。",
+  "desc_ja": "国内線の保安検査を受けます。身分証明書と搭乗券をご準備ください。",
+  "desc_ko": "국내선 보안 검색을 받습니다. 신분증과 탑승권을 준비하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -2956,8 +2956,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "",
   "map_x": "63.33",
   "map_y": "44.76",
@@ -2970,9 +2970,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -2981,8 +2981,8 @@
   "belt": "",
   "label_vi": "Sinh trắc học",
   "label_en": "Biometrics",
-  "desc_vi": "",
-  "desc_en": "",
+  "desc_vi": "Khu làm thủ tục sinh trắc học, đối diện khu soi chiếu an ninh.",
+  "desc_en": "Biometric check-in area, opposite the security screening area.",
   "image": "t1-sinh-trac-hoc.jpg",
   "map_x": "63.33",
   "map_y": "76.10",
@@ -2995,9 +2995,9 @@
   "label_zh": "生物识别",
   "label_ja": "生体認証",
   "label_ko": "생체 인식",
-  "desc_zh": "",
-  "desc_ja": "",
-  "desc_ko": ""
+  "desc_zh": "生物识别办理区，位于安检区对面。",
+  "desc_ja": "生体認証の手続きエリア（保安検査場の向かい側）。",
+  "desc_ko": "생체 인식 수속 구역은 보안 검색 구역 맞은편에 있습니다."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3006,8 +3006,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "",
   "map_x": "88.78",
   "map_y": "80.19",
@@ -3020,9 +3020,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3031,8 +3031,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "",
   "map_x": "87.18",
   "map_y": "77.62",
@@ -3045,9 +3045,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3056,8 +3056,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "",
   "map_x": "77.24",
   "map_y": "68.76",
@@ -3070,9 +3070,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3081,8 +3081,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "",
   "map_x": "69.23",
   "map_y": "51.62",
@@ -3095,9 +3095,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3106,8 +3106,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "t1-boarding-gate-5.jpg",
   "map_x": "69.55",
   "map_y": "33.81",
@@ -3120,9 +3120,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3131,8 +3131,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "t1-boarding-gate-6.jpg",
   "map_x": "66.99",
   "map_y": "24.29",
@@ -3145,9 +3145,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3156,8 +3156,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "t1-boarding-gate-7.jpg",
   "map_x": "59.55",
   "map_y": "24.29",
@@ -3170,9 +3170,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3181,8 +3181,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "t1-boarding-gate-8.jpg",
   "map_x": "57.18",
   "map_y": "33.81",
@@ -3195,9 +3195,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3206,8 +3206,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "t1-boarding-gate-9.jpg",
   "map_x": "57.50",
   "map_y": "51.62",
@@ -3220,9 +3220,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3231,8 +3231,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "t1-boarding-gate-10.jpg",
   "map_x": "49.49",
   "map_y": "68.76",
@@ -3245,9 +3245,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3256,8 +3256,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "t1-boarding-gate-11.jpg",
   "map_x": "39.55",
   "map_y": "77.62",
@@ -3270,9 +3270,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3281,8 +3281,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "t1-boarding-gate-12.jpg",
   "map_x": "37.95",
   "map_y": "80.19",
@@ -3295,9 +3295,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3306,8 +3306,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "",
   "map_x": "18.59",
   "map_y": "89.52",
@@ -3320,9 +3320,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3331,8 +3331,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "",
   "map_x": "13.46",
   "map_y": "89.52",
@@ -3345,9 +3345,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3356,8 +3356,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "",
   "map_x": "8.33",
   "map_y": "89.52",
@@ -3370,9 +3370,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3381,8 +3381,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "",
   "map_x": "5.13",
   "map_y": "90.00",
@@ -3395,9 +3395,9 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  },
  {
   "route_code": "t1-departure__gate",
@@ -3406,8 +3406,8 @@
   "belt": "",
   "label_vi": "Cửa ra tàu bay [gate]",
   "label_en": "Boarding gate [gate]",
-  "desc_vi": "Khu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
-  "desc_en": "Terminal 1 airside. Follow the screens to gate [gate].",
+  "desc_vi": "Ra cửa lên tàu [gate]. Cửa đóng trước 15 phút.\nKhu cách ly nhà ga T1. Đi theo bảng thông báo tới cửa ra tàu bay [gate].",
+  "desc_en": "Go to boarding gate [gate]. The gate closes 15 minutes before departure.\nTerminal 1 airside. Follow the screens to gate [gate].",
   "image": "",
   "map_x": "5.13",
   "map_y": "93.81",
@@ -3420,8 +3420,8 @@
   "label_zh": "登机口 [gate]",
   "label_ja": "搭乗口 [gate]",
   "label_ko": "탑승구 [gate]",
-  "desc_zh": "T1航站楼隔离区。请按显示屏前往登机口 [gate]。",
-  "desc_ja": "T1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
-  "desc_ko": "T1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
+  "desc_zh": "前往登机口 [gate]。登机口在起飞前15分钟关闭。\nT1航站楼隔离区。请按显示屏前往登机口 [gate]。",
+  "desc_ja": "搭乗口 [gate] へ進みます。搭乗口は出発の15分前に閉まります。\nT1ターミナルの制限エリアです。表示板に従って搭乗口 [gate] へお進みください。",
+  "desc_ko": "탑승구 [gate]로 이동하세요. 탑승구는 출발 15분 전에 닫힙니다.\nT1 터미널 보안 구역입니다. 전광판에 따라 탑승구 [gate]로 이동하세요."
  }
 ]
