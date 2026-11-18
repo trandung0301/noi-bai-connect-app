@@ -2831,8 +2831,8 @@
   "belt": "",
   "label_vi": "Xuất cảnh · An ninh",
   "label_en": "Immigration · Security",
-  "desc_vi": "Có 3 lối vào khu vực xuất cảnh A, B, C (trong ảnh là lối vào A).",
-  "desc_en": "There are 3 entrances to the immigration area: A, B and C (the photo shows entrance A).",
+  "desc_vi": "",
+  "desc_en": "",
   "image": "security-check-point.jpg",
   "map_x": "55.6",
   "map_y": "28.7",
@@ -2845,9 +2845,9 @@
   "label_zh": "出境·安检",
   "label_ja": "出国・保安検査",
   "label_ko": "출국·보안",
-  "desc_zh": "出境区域有3个入口：A、B、C（图中为A入口）。",
-  "desc_ja": "出国審査エリアへの入口は3か所（A・B・C）あります（写真はA入口）。",
-  "desc_ko": "출국 심사 구역 입구는 A, B, C 세 곳입니다(사진은 A 입구)."
+  "desc_zh": "",
+  "desc_ja": "",
+  "desc_ko": ""
  },
  {
   "route_code": "t2-departure__gate",
