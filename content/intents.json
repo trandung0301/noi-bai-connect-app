@@ -83,17 +83,17 @@
   "icon": "gate",
   "den_loai": "",
   "di_loai": "QT",
-  "luu_y_vi": "",
-  "luu_y_en": "",
+  "luu_y_vi": "Quầy làm thủ tục đóng trước giờ khởi hành 50 phút.\nCửa ra tàu bay đóng trước giờ khởi hành 15 phút.",
+  "luu_y_en": "Check-in counters close 50 minutes before departure.\nBoarding gates close 15 minutes before departure.",
   "label_zh": "国际出发",
   "label_ja": "国際線の出発",
   "label_ko": "국제선 출발",
   "sub_zh": "值机、出境、安检、前往登机口",
   "sub_ja": "チェックイン・出国審査・保安検査・搭乗口へ",
   "sub_ko": "체크인, 출국 심사, 보안 검색, 탑승구로 이동",
-  "luu_y_zh": "",
-  "luu_y_ja": "",
-  "luu_y_ko": ""
+  "luu_y_zh": "值机柜台在起飞前50分钟关闭。\n登机口在起飞前15分钟关闭。",
+  "luu_y_ja": "チェックインカウンターは出発の50分前に閉まります。\n搭乗口は出発の15分前に閉まります。",
+  "luu_y_ko": "체크인 카운터는 출발 50분 전에 닫힙니다.\n탑승구는 출발 15분 전에 닫힙니다."
  },
  {
   "code": "t2-lounge",

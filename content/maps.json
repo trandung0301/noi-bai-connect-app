@@ -150,5 +150,24 @@
   "title_zh": "2层 · T1出发大厅 · 安检与登机口",
   "title_ja": "2階 · T1 出発ロビー · 保安検査と搭乗口",
   "title_ko": "2층 · T1 출발 홀 · 보안 검색과 탑승구"
+ },
+ {
+  "route_code": "t2-departure__gate",
+  "leg": "1",
+  "map_image": "t2-departure.png",
+  "terminal": "T2",
+  "from_step": "1",
+  "to_step": "99",
+  "title_vi": "Tầng 3 · Sảnh đi T2",
+  "title_en": "Level 3 · T2 Departures",
+  "gate_x0": "",
+  "gate_y0": "",
+  "gate_w": "",
+  "gate_h": "",
+  "gate_elbow": "",
+  "khung_rong": "",
+  "title_zh": "3层 · T2出发大厅",
+  "title_ja": "3階 · T2出発ロビー",
+  "title_ko": "3층 · T2 출발 홀"
  }
 ]
